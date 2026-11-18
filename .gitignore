@@ -46,3 +46,4 @@ docs/Aerchain-Product-Assignment.pdf
 docs/*.key
 .claude/
 data/extracted/*.log
+/QuoteLens-Aerchain/
