@@ -1,0 +1,11 @@
+﻿doc_id,supplier_id,doc_type,number,issued_to,valid_until,file,status
+DOC-A1,A,ISO 9001 certificate,QMS/IN/22/4417,Shree Ganesh Packaging Pvt Ltd,2027-06-30,files/A/ISO_9001_SGPPL.pdf,Name doesn't match supplier
+DOC-A2,A,GST certificate,05AAKCS1234F1Z5,Shree Ganesh Corrugators,,files/A/GST.pdf,Checked
+DOC-B1,B,ISO 9001 certificate,SG-ISO-88213,Pacific PackWorks India Pvt Ltd,2028-03-31,files/B/ISO_9001_PPW.pdf,Checked
+DOC-B2,B,Box-strength test report (5-ply),LAB/BCT/26/0912,Pacific PackWorks India Pvt Ltd,2027-09-30,files/B/BCT_Test_Report.pdf,Checked
+DOC-C1,C,Box-strength test report (5-ply),LAB/BCT/26/0577,Om Sai Packaging Industries,2027-05-31,files/C/BCT_Report_OmSai.pdf,Checked
+DOC-D1,D,ISO 9001 certificate,QMS/IN/19/2201,Rajdhani Carton Co.,2026-08-14,files/D/ISO_Rajdhani.pdf,Expired
+DOC-D2,D,Box-strength test report (5-ply),LAB/BCT/26/0388,Rajdhani Carton Co.,2027-01-31,files/D/BCT_Rajdhani.pdf,Fails our spec (410 kg vs 500 kg)
+DOC-F1,F,ISO 9001 certificate,QMS/IN/21/3390,Doon Corrupack,2027-12-31,files/F/ISO_Doon.pdf,Checked
+DOC-I1,I,GST certificate,05AAJFK9876K1Z2,Kraftline Solutions,,files/I/GST_Kraftline.pdf,Checked
+DOC-A3,A,Box-strength test report (5-ply),LAB/BCT/26/0731,Shree Ganesh Corrugators,2027-07-31,files/A/BCT_Report_SGC.pdf,Checked

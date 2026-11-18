@@ -1,0 +1,26 @@
+﻿supplier_id,question_id,answer
+A,Q1,Yes (certificate name doesn't match)
+A,Q2,"Yes, report attached"
+A,Q3,70%
+A,Q4,Yes
+A,Q5,1.5 lakh
+B,Q1,"Yes, valid to 2028"
+B,Q2,"Yes, report attached"
+B,Q3,65%
+B,Q4,Yes
+B,Q5,3 lakh
+C,Q1,"Says yes, no certificate attached"
+C,Q2,"Yes, report attached"
+C,Q3,60%
+C,Q4,Yes
+C,Q5,1.2 lakh
+D,Q1,Certificate expired 14 Aug 2026
+D,Q2,"410 kg, fails our 500 kg spec"
+D,Q3,60%
+D,Q4,Yes
+D,Q5,1 lakh
+E,Q1,Not answered
+E,Q2,Not answered
+E,Q3,Not answered
+E,Q4,Yes (said on the call)
+E,Q5,Not answered

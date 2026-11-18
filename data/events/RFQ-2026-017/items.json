@@ -1,0 +1,14 @@
+[
+  {
+    "item_code": "L1",
+    "description": "5-ply corrugated box, 600 x 400 x 400 mm, board 980 GSM (same spec as item C19, approx. 1.595 kg per box). Delivery to H",
+    "unit": "boxes",
+    "yearly_qty": 2000,
+    "length_mm": 600,
+    "width_mm": 400,
+    "height_mm": 400,
+    "ply": 5,
+    "our_code": "C19",
+    "weight_kg": 1.595
+  }
+]

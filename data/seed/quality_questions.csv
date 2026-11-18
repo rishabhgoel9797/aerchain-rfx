@@ -1,0 +1,6 @@
+﻿question_id,question,proof_needed
+Q1,Are you ISO 9001 certified?,ISO 9001 certificate
+Q2,Box-strength test report for 5-ply boxes (min 500 kg),Lab test report
+Q3,Recycled fibre content at least 60%?,Declaration
+Q4,Can you send samples within 7 days?,None
+Q5,Capacity of at least 1 lakh boxes a month?,Declaration

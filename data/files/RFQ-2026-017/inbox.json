@@ -1,0 +1,141 @@
+{
+  "event": "RFQ-2026-017",
+  "messages": [
+    {
+      "id": "MSG-U20261118110906-A",
+      "supplier_id": "A",
+      "channel": "Email",
+      "received_at": "2026-11-18T11:09:06+05:30",
+      "kind": "Quote",
+      "subject": "RE: Gift pack boxes - quotation SGC/2611/118",
+      "text_file": "A/upload-20261118110906_email.txt",
+      "attachments": [
+        "A/upload-20261118110906_SGC_Quotation_GiftPack.xlsx"
+      ],
+      "text": "From: Manoj Agarwal <manoj@shreeganesh.example>\nTo: Rishabh <rfq-2026-017@quotes.rsgherbal.example>\nDate: 18 Nov 2026, 11:09\nSubject: RE: Gift pack boxes - quotation SGC/2611/118\n\nDear Rishabh ji,\r\n\r\nPlease find attached our rates for the gift pack boxes in our standard format.\r\nRates are ex-works Roorkee; GST 18% and freight extra.\r\nValid till 31 Dec 2026.\r\n\r\nRegards,\r\nManoj Agarwal\r\nShree Ganesh Corrugators, Roorkee\n\nAttachments: SGC_Quotation_GiftPack.xlsx",
+      "read_status": "read",
+      "read_summary": {
+        "green": 0,
+        "amber": 1,
+        "red": 0,
+        "notQuoted": 0,
+        "issues": [],
+        "secs": 15
+      }
+    },
+    {
+      "id": "MSG-U20261118111003-B",
+      "supplier_id": "B",
+      "channel": "Email",
+      "received_at": "2026-11-18T11:10:03+05:30",
+      "kind": "Quote",
+      "subject": "Pacific PackWorks - Quotation PPW/Q/2611/052",
+      "text_file": "B/upload-20261118111003_email.txt",
+      "attachments": [
+        "B/upload-20261118111003_PPW-Q-2611-052.pdf"
+      ],
+      "text": "From: Rahul Bose <rahul.bose@pacificpack.example>\nTo: Rishabh <rfq-2026-017@quotes.rsgherbal.example>\nDate: 18 Nov 2026, 11:10\nSubject: Pacific PackWorks - Quotation PPW/Q/2611/052\n\nDear Mr Rishabh,\r\n\r\nThank you for your enquiry. Please find our quotation attached (2 pages).\r\n\r\nBest regards,\r\nRahul Bose\r\nKey Accounts, Pacific PackWorks India Pvt Ltd\n\nAttachments: PPW-Q-2611-052.pdf",
+      "read_status": "read",
+      "read_summary": {
+        "green": 0,
+        "amber": 1,
+        "red": 0,
+        "notQuoted": 0,
+        "issues": [
+          "Discount applied: 2.5%"
+        ],
+        "secs": 17
+      }
+    },
+    {
+      "id": "MSG-U20261118111057-C",
+      "supplier_id": "C",
+      "channel": "Email",
+      "received_at": "2026-11-18T11:10:57+05:30",
+      "kind": "Quote",
+      "subject": "Offer for gift pack corrugated boxes",
+      "text_file": "C/upload-20261118111057_email.txt",
+      "attachments": [
+        "C/upload-20261118111057_OmSai_Offer_GiftPack.docx"
+      ],
+      "text": "From: Deepak Gupta <deepak@omsaipack.example>\nTo: Rishabh <rfq-2026-017@quotes.rsgherbal.example>\nDate: 18 Nov 2026, 11:10\nSubject: Offer for gift pack corrugated boxes\n\nRespected Sir,\r\n\r\nKindly find our offer letter attached for your new gift pack line.\r\n\r\nThanking you,\r\nDeepak Gupta\r\nOm Sai Packaging Industries, Saharanpur\n\nAttachments: OmSai_Offer_GiftPack.docx",
+      "read_status": "read",
+      "read_summary": {
+        "green": 0,
+        "amber": 1,
+        "red": 0,
+        "notQuoted": 1,
+        "issues": [
+          "Conditional discount: 4%"
+        ],
+        "secs": 13
+      }
+    },
+    {
+      "id": "MSG-U20261118111142-D",
+      "supplier_id": "D",
+      "channel": "Email",
+      "received_at": "2026-11-18T11:11:42+05:30",
+      "kind": "Updated quote",
+      "subject": "Rates for gift boxes",
+      "text_file": "D/upload-20261118111142_email.txt",
+      "attachments": [
+        "D/upload-20261118111142_IMG_20261118_1105.jpg"
+      ],
+      "text": "From: Imran Qureshi <>\nTo: Rishabh <rfq-2026-017@quotes.rsgherbal.example>\nDate: 18 Nov 2026, 11:11\nSubject: Rates for gift boxes\n\nSir, rate card photo attached. 350x250x150 we don't make.\r\nRegards, Imran Qureshi, Rajdhani Carton Co.\n\nAttachments: IMG_20261118_1105.jpg",
+      "read_status": "read",
+      "read_summary": {
+        "green": 0,
+        "amber": 1,
+        "red": 0,
+        "notQuoted": 1,
+        "issues": [],
+        "secs": 20
+      }
+    },
+    {
+      "id": "MSG-U20261118111246-E",
+      "supplier_id": "E",
+      "channel": "Email",
+      "received_at": "2026-11-18T11:12:46+05:30",
+      "kind": "Quote",
+      "subject": "Fwd: WhatsApp rates",
+      "text_file": "E/upload-20261118111246_email.txt",
+      "attachments": [
+        "E/upload-20261118111246_Screenshot_2026-11-18-11-06.png"
+      ],
+      "text": "From: Suresh Bansal <>\nTo: Rishabh <rfq-2026-017@quotes.rsgherbal.example>\nDate: 18 Nov 2026, 11:12\nSubject: Fwd: WhatsApp rates\n\nSir, sending screenshot of what I sent on WhatsApp.\r\nSuresh Bansal, Mahalaxmi Box Makers\n\nAttachments: Screenshot_2026-11-18-11-06.png",
+      "read_status": "read",
+      "read_summary": {
+        "green": 0,
+        "amber": 1,
+        "red": 0,
+        "notQuoted": 0,
+        "issues": [],
+        "secs": 11
+      }
+    },
+    {
+      "id": "MSG-U20261118111340-F",
+      "supplier_id": "F",
+      "channel": "Email",
+      "received_at": "2026-11-18T11:13:40+05:30",
+      "kind": "Updated quote",
+      "subject": "rates",
+      "text_file": "F/upload-20261118111340_email.txt",
+      "attachments": [
+        "F/upload-20261118111340_WhatsApp_Image_2026-11-18_at_11.20.jpg"
+      ],
+      "text": "From: Ankit Thapa <ankit@dooncorrupack.example>\nTo: Rishabh <rfq-2026-017@quotes.rsgherbal.example>\nDate: 18 Nov 2026, 11:13\nSubject: rates\n\nRishabh bhai, written rates attached. sorry for the photo, in a hurry.\r\nAnkit, Doon Corrupack\n\nAttachments: WhatsApp_Image_2026-11-18_at_11.20.jpg",
+      "read_status": "read",
+      "read_summary": {
+        "green": 0,
+        "amber": 1,
+        "red": 0,
+        "notQuoted": 0,
+        "issues": [],
+        "secs": 15
+      }
+    }
+  ]
+}

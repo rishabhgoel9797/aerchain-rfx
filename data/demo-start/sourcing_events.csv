@@ -1,0 +1,7 @@
+﻿event_id,name,category,plant,buyer,stage,yearly_value_inr,suppliers_status,due,from_request,attention_tone,attention_text,updated_at
+RFQ-2026-014,Corrugated shipper boxes FY27,Packaging,Haridwar,Rishabh,check,,5 of 6 replied,Award by 24 Nov,REQ-0142,bad,Prices to fix before award,2026-11-12T11:24:00+05:30
+RFQ-2026-011,"Printed mono cartons (Chyawanprash, churna)",Packaging,Haridwar,Rishabh,award,11200000,4 of 4 replied,Approval pending 3 days,,warn,Waiting on CFO approval,2026-11-15T16:00:00+05:30
+RFQ-2026-012,Ashwagandha root & dried Amla,Raw herbs,Haridwar,Neha Sharma,compare,18600000,6 of 7 replied,Bids closed 14 Nov,,warn,Prices up 18% since August,2026-11-14T18:00:00+05:30
+RFQ-2026-009,PET bottles & caps (100–500 ml),Packaging,Baddi,Rishabh,quotes,6400000,3 of 5 replied,Closes 20 Nov,,warn,2 suppliers silent,2026-11-16T12:30:00+05:30
+RFQ-2026-015,"Inbound freight: herbs & packaging, 12 lanes",Logistics,"Haridwar, Baddi",Karan Malhotra,suppliers,23500000,Not sent yet,Send by 19 Nov,,,,2026-11-17T10:15:00+05:30
+RFQ-2026-016,Laptops & monitors (120 sets),IT hardware,Head office,Karan Malhotra,request,9800000,—,Draft started today,REQ-0139,,,2026-11-12T15:00:00+05:30

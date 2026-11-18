@@ -1,0 +1,5 @@
+﻿tone,title,body,action,link,info
+bad,Supplier certificate expired,Rajdhani Carton's ISO certificate expired on 14 Aug 2026. They're quoting in the boxes event.,Review in boxes event,/events/RFQ-2026-014/check,"The AI checks expiry dates on every certificate suppliers send, across all events."
+info,Two plants want the same boxes,Baddi asked for 18 box sizes; 14 are already in Haridwar's boxes event. Combining them could lower prices.,Open Baddi request,/requests/REQ-0147,The AI compares every new request with live sourcing events to spot overlaps.
+warn,Ashwagandha root up 18% since August,A weak monsoon cut the Neemuch and Mandsaur harvest. The herbs event is open now; consider locking a 6-month price.,Open herbs event,/events/RFQ-2026-012,Mandi price trend for dried Ashwagandha root (demo data). The AI links market moves to your open events.
+warn,Kraft paper up 6% in 3 months,Kraft paper is now ₹34.5/kg (from ₹32.5 in August). Expect shipper-box quotes above last year.,See price comparison,/events/RFQ-2026-014/compare,From market_prices.csv. Used to estimate a fair price for each box from its weight.

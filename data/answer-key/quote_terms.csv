@@ -1,0 +1,6 @@
+﻿supplier_id,currency,price_unit,gst,freight,payment_days,lead_time_weeks,valid_until,discount,minimum_order,file_format
+A,INR,per 100 boxes,Extra,Included,60,3,2027-01-31,,"5,000 per size","Excel, own layout"
+B,USD,per box,Included (18%),Included,45,2,2026-11-24,"2% on all items (footnote, page 3)",,"PDF on letterhead, 3 pages"
+C,INR,per box,Extra,Included,90,6,2026-12-31,5% only if all 30 items are awarded,,"Word letter, prices in paragraphs"
+D,INR,per box,Extra,Included,30,3,,,,Photo of printed rate card with pen corrections
+E,INR,per kg,Not stated,Extra,60,2,,,,One-line WhatsApp + phone call

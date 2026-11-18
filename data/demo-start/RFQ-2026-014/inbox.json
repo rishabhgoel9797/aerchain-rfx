@@ -1,0 +1,122 @@
+{
+  "event": "RFQ-2026-014",
+  "deadline": "2026-11-12T18:00:00+05:30",
+  "messages": [
+    {
+      "id": "MSG-F1",
+      "supplier_id": "F",
+      "channel": "Email",
+      "received_at": "2026-11-04T09:00:00+05:30",
+      "kind": "Out of office",
+      "text_file": "F/out_of_office.txt",
+      "attachments": [],
+      "text": "From: Ankit Thapa <ankit@dooncorrupack.example>\nTo: Rishabh <rishabh@rsgherbal.example>\nDate: 04 Nov 2026, 09:00\nSubject: Automatic reply: RFQ-2026-014 Corrugated boxes FY27\n\nI am out of office until 15 Nov with limited access to email. For urgent matters please contact sales@dooncorrupack.example."
+    },
+    {
+      "id": "MSG-Q3",
+      "supplier_id": "E",
+      "channel": "WhatsApp",
+      "received_at": "2026-11-05T09:02:00+05:30",
+      "kind": "Question",
+      "text_file": "questions/E_question.txt",
+      "attachments": [],
+      "text": "[05/11/26, 9:02 am] Suresh Bansal (Mahalaxmi Box): Sir can we give rate per kg?"
+    },
+    {
+      "id": "MSG-Q1",
+      "supplier_id": "A",
+      "channel": "Email",
+      "received_at": "2026-11-05T11:15:00+05:30",
+      "kind": "Question",
+      "text_file": "questions/A_question.txt",
+      "attachments": [],
+      "text": "From: Manoj Agarwal (Shree Ganesh Corrugators)\nDate: 05 Nov 2026, 11:15\n\nIs 1-colour printing of your logo included in the scope?"
+    },
+    {
+      "id": "MSG-Q2",
+      "supplier_id": "C",
+      "channel": "Email",
+      "received_at": "2026-11-05T17:40:00+05:30",
+      "kind": "Question",
+      "text_file": "questions/C_question.txt",
+      "attachments": [],
+      "text": "From: Deepak Gupta (Om Sai Packaging Industries)\nDate: 05 Nov 2026, 17:40\n\nSir, kindly clarify whether printing is required on the boxes."
+    },
+    {
+      "id": "MSG-A1",
+      "supplier_id": "A",
+      "channel": "Email",
+      "received_at": "2026-11-06T10:42:00+05:30",
+      "kind": "Quote",
+      "text_file": "A/email.txt",
+      "attachments": [
+        "A/SGC_Quotation_FY27.xlsx",
+        "A/ISO_9001_SGPPL.pdf",
+        "A/BCT_Report_SGC.pdf"
+      ],
+      "text": "From: Manoj Agarwal <manoj@shreeganesh.example>\nTo: Rishabh <rishabh@rsgherbal.example>\nDate: 06 Nov 2026, 10:42\nSubject: RE: RFQ-2026-014 Corrugated boxes FY27 - Quotation\n\nDear Rishabh ji,\n\nPlease find attached our best rates for your FY27 requirement. We have given rates in our standard format.\nISO certificate is also attached.\n\nRegards,\nManoj Agarwal\nShree Ganesh Corrugators, Roorkee\nAttachments: SGC_Quotation_FY27.xlsx, ISO_9001_SGPPL.pdf, BCT_Report_SGC.pdf"
+    },
+    {
+      "id": "MSG-C1",
+      "supplier_id": "C",
+      "channel": "Email",
+      "received_at": "2026-11-08T16:30:00+05:30",
+      "kind": "Quote",
+      "text_file": "C/email.txt",
+      "attachments": [
+        "C/Offer_Letter_OmSai.docx",
+        "C/BCT_Report_OmSai.pdf"
+      ],
+      "text": "From: Deepak Gupta <deepak@omsaipack.example>\nTo: Rishabh <rishabh@rsgherbal.example>\nDate: 08 Nov 2026, 16:30\nSubject: Offer for Corrugated Boxes\n\nRespected Sir,\nKindly find our offer letter for your esteemed organisation. BCT report also enclosed.\nThanking you,\nDeepak Gupta, Om Sai Packaging Industries\nAttachments: Offer_Letter_OmSai.docx, BCT_Report_OmSai.pdf"
+    },
+    {
+      "id": "MSG-B1",
+      "supplier_id": "B",
+      "channel": "Email",
+      "received_at": "2026-11-09T11:02:00+05:30",
+      "kind": "Updated quote",
+      "text_file": "B/email.txt",
+      "attachments": [
+        "B/PPW-Q-2611-044.pdf",
+        "B/ISO_9001_PPW.pdf",
+        "B/BCT_Test_Report.pdf"
+      ],
+      "note": "Replaces an earlier quote PPW/Q/2611/031 sent on 6 Nov",
+      "text": "From: Rahul Bose <rahul.bose@pacificpack.example>\nTo: Rishabh <rishabh@rsgherbal.example>\nDate: 09 Nov 2026, 11:02\nSubject: Revised offer - PPW/Q/2611/044 against RFQ-2026-014\n\nDear Mr Rishabh,\n\nPlease find attached our revised offer. It supersedes our earlier quotation PPW/Q/2611/031.\nTest report and ISO certificate attached.\n\nBest regards,\nRahul Bose\nKey Account Manager, Pacific PackWorks India Pvt Ltd\nAttachments: PPW-Q-2611-044.pdf, ISO_9001_PPW.pdf, BCT_Test_Report.pdf"
+    },
+    {
+      "id": "MSG-D1",
+      "supplier_id": "D",
+      "channel": "WhatsApp",
+      "received_at": "2026-11-09T18:42:00+05:30",
+      "kind": "Quote",
+      "text_file": "D/whatsapp.txt",
+      "attachments": [
+        "D/IMG_20261109_1842.jpg",
+        "D/ISO_Rajdhani.pdf",
+        "D/BCT_Rajdhani.pdf"
+      ],
+      "text": "[09/11/26, 6:42 pm] Imran (Rajdhani Carton): Rate list attached sir. Some sizes not available.\n[09/11/26, 6:42 pm] Imran (Rajdhani Carton): <attached: IMG_20261109_1842.jpg>\n[09/11/26, 6:44 pm] Imran (Rajdhani Carton): ISO and test report also sending\n[09/11/26, 6:44 pm] Imran (Rajdhani Carton): <attached: ISO_Rajdhani.pdf>\n[09/11/26, 6:45 pm] Imran (Rajdhani Carton): <attached: BCT_Rajdhani.pdf>"
+    },
+    {
+      "id": "MSG-E1",
+      "supplier_id": "E",
+      "channel": "WhatsApp",
+      "received_at": "2026-11-10T19:48:00+05:30",
+      "kind": "Quote",
+      "text_file": "E/whatsapp.txt",
+      "attachments": [],
+      "text": "[10/11/26, 7:48 pm] Suresh Bansal (Mahalaxmi Box): Rishabh ji namaste\n[10/11/26, 7:48 pm] Suresh Bansal (Mahalaxmi Box): ₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra."
+    },
+    {
+      "id": "MSG-E2",
+      "supplier_id": "E",
+      "channel": "Call",
+      "received_at": "2026-11-11T16:12:00+05:30",
+      "kind": "Price on a call",
+      "text_file": "E/call_note.txt",
+      "attachments": [],
+      "text": "Call note — logged by Rishabh (Buyer team), 11 Nov 2026, 4:12 pm\nSpoke to: Suresh Bansal, Mahalaxmi Box Makers (Supplier)\nBox C12 (3-ply, 500x400x300): he said Rs 31 per box including freight.\nAlso said: samples possible within 7 days. Did not answer other quality questions.\nAsked him to confirm the C12 price in writing."
+    }
+  ]
+}

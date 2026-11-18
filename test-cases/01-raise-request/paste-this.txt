@@ -1,0 +1,40 @@
+=====================================================================
+TEST A · A team's WhatsApp, in Hindi-English, with their item list
+Paste this into the box on the Home page, and click Attach to add
+Haridwar_giftpack_box_list.xlsx (it's in this folder).
+Leave "Raise as" on "Let AI decide".
+=====================================================================
+
+[18/11/26, 10:12 am] Sandeep Rawat: Rishabh ji, naya Chyawanprash gift pack line January se start ho raha hai Haridwar mein. 6 box sizes chahiye, list attach kar raha hoon. Roughly 1.2 lakh boxes saal ka. 2 colour logo printing chahiye aur 5-ply wale strong hone chahiye, export pallets pe jayenge. Delivery Haridwar plant. Jaldi quote mangwa lo please, marketing wale pressure de rahe hain 🙏
+
+
+=====================================================================
+TEST B · The buyer's own words: should become a request for quotes
+Left menu > Sourcing events > the box at the top called
+"Start a new request for quotes". Paste it there and press Enter.
+(Or on Home, with "Raise as" set to "Request for quotes".)
+No attachment.
+=====================================================================
+
+Get quotes for 2,000 five-ply boxes, 600 x 400 x 400 mm, delivered to Haridwar by 30 Nov. Same board spec as our current C19 box. Price per box before GST.
+
+
+=====================================================================
+TEST C · Too vague on purpose: the AI should ask, not guess
+Paste this on Home. No attachment.
+=====================================================================
+
+need some boxes urgently
+
+
+=====================================================================
+CO-PILOT · Type these one by one in "Change the draft with AI"
+(on the draft that Test A or Test B creates)
+=====================================================================
+
+1. Add 10% to all quantities
+2. Move the deadline to 5 Dec, 6 pm
+3. Ask suppliers to confirm the bursting strength of 5-ply boxes, with a test report
+4. Remove the sample kit box
+5. Make the big ones a bit more
+   (vague on purpose: the AI should ask which boxes and how much, and change nothing)

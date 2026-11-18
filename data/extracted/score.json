@@ -1,0 +1,71 @@
+{
+ "scored_at": "2026-11-18T01:19:46.936Z",
+ "model": "claude-haiku-5-5",
+ "provider": "anthropic",
+ "total": 150,
+ "values_right": 147,
+ "colours_right": 147,
+ "dangerous": 1,
+ "safe_misses": 2,
+ "per_supplier": {
+  "A": {
+   "values": 30,
+   "colours": 30,
+   "total": 30
+  },
+  "B": {
+   "values": 30,
+   "colours": 30,
+   "total": 30
+  },
+  "C": {
+   "values": 29,
+   "colours": 29,
+   "total": 30
+  },
+  "D": {
+   "values": 28,
+   "colours": 28,
+   "total": 30
+  },
+  "E": {
+   "values": 30,
+   "colours": 30,
+   "total": 30
+  }
+ },
+ "misses": [
+  {
+   "supplier": "D",
+   "item": "C03",
+   "expected": "8.29 (green)",
+   "got": "8.29 (amber)",
+   "trap": "Read from an angled photo",
+   "ai_note": "Photo shows handwritten 8.29 in blue ink over the printed rate column; OCR matches."
+  },
+  {
+   "supplier": "D",
+   "item": "C14",
+   "expected": "44.14 (amber)",
+   "got": "4.41 (amber)",
+   "trap": "Written as a tenth of the real price (missing digit) → outlier flag",
+   "ai_note": "About 12× lower than other suppliers (their middle price is ₹50.77). Possibly a missing digit or misread."
+  },
+  {
+   "supplier": "C",
+   "item": "C18",
+   "expected": "— (amber)",
+   "got": "61.5 (green)",
+   "trap": "Alternative item (7-ply) → not compared as the same box",
+   "ai_note": "Taken as quoted"
+  },
+  {
+   "supplier": "D",
+   "item": "C21",
+   "expected": "80.87 (green)",
+   "got": "— (amber)",
+   "trap": "Read from an angled photo",
+   "ai_note": "OCR read R0.8F; photo shows handwritten 80.87 in blue ink. Value not confirmed, not corrected. Couldn't read this value. Check the original."
+  }
+ ]
+}

@@ -1,0 +1,4068 @@
+{
+ "master": {
+  "approvals": [
+   {
+    "approval_id": "APR-222",
+    "decision": "Award: 5-ply corrugated boxes, Haridwar, by 30 Nov",
+    "event_id": "RFQ-2026-017",
+    "yearly_value_inr": 119660,
+    "raised_by": "Rishabh",
+    "waiting_on": "Anil Deshpande",
+    "waiting_detail": "Head of Procurement",
+    "since": "Approved 18 Nov",
+    "state": "approved",
+    "note": "All to Pacific PackWorks India Pvt Ltd.",
+    "updated_at": "2026-11-18T11:16:07+05:30"
+   },
+   {
+    "approval_id": "APR-221",
+    "decision": "Award: Printed mono cartons",
+    "event_id": "RFQ-2026-011",
+    "yearly_value_inr": 11200000,
+    "raised_by": "Rishabh",
+    "waiting_on": "Kavita Rao",
+    "waiting_detail": "CFO, needed above ₹1 Cr",
+    "since": "Waiting 3 days",
+    "state": "pending",
+    "note": "Split between 2 printers, saves ₹8.6 L. Prices valid until 28 Nov.",
+    "updated_at": "2026-11-15T16:00:00+05:30"
+   },
+   {
+    "approval_id": "APR-219",
+    "decision": "Award: Corrugated shipper boxes FY27",
+    "event_id": "RFQ-2026-014",
+    "yearly_value_inr": "",
+    "raised_by": "Rishabh",
+    "waiting_on": "",
+    "waiting_detail": "Not sent yet",
+    "since": "Blocked",
+    "state": "blocked",
+    "note": "Blocked until all red items in the Check tab are fixed.",
+    "updated_at": "2026-11-14T11:00:00+05:30"
+   },
+   {
+    "approval_id": "APR-214",
+    "decision": "Award: Food-grade ethanol for herbal extraction",
+    "event_id": "RFQ-2026-006",
+    "yearly_value_inr": 4200000,
+    "raised_by": "Neha Sharma",
+    "waiting_on": "Anil Deshpande",
+    "waiting_detail": "Head of Procurement, approved",
+    "since": "Done 10 Nov",
+    "state": "approved",
+    "note": "Single supplier with FSSAI licence, saves ₹2.1 L.",
+    "updated_at": "2026-11-10T17:30:00+05:30"
+   }
+  ],
+  "change_history": [
+   {
+    "order": 1,
+    "when": "2 Nov 9:31",
+    "who": "Rishabh",
+    "area": "Requests",
+    "tone": "none",
+    "what": "Converted request REQ-0142 (Sandeep Rawat, Haridwar) into sourcing event RFQ-2026-014"
+   },
+   {
+    "order": 2,
+    "when": "3 Nov 10:00",
+    "who": "Rishabh",
+    "area": "Suppliers",
+    "tone": "none",
+    "what": "Sent the request to 6 suppliers (4 by email, 2 by WhatsApp)"
+   },
+   {
+    "order": 3,
+    "when": "6 Nov 10:00",
+    "who": "Rishabh",
+    "area": "Quotes",
+    "tone": "none",
+    "what": "Answered ‘is logo printing included?’ (asked by 2 suppliers) and shared the answer with all 6"
+   },
+   {
+    "order": 4,
+    "when": "8 Nov 9:30",
+    "who": "AI",
+    "area": "Quotes",
+    "tone": "none",
+    "what": "Switched reminders for Doon Corrupack from email to WhatsApp after an out-of-office reply"
+   },
+   {
+    "order": 5,
+    "when": "12 Nov 10:42",
+    "who": "AI",
+    "area": "Quotes",
+    "tone": "none",
+    "what": "Read 5 replies: 150 prices and 25 quality answers"
+   },
+   {
+    "order": 6,
+    "when": "12 Nov 11:24",
+    "who": "Rishabh",
+    "area": "Compare",
+    "tone": "none",
+    "what": "Confirmed the dollar rate ₹84.20 (RBI reference rate, 12 Nov) for Pacific PackWorks"
+   },
+   {
+    "order": 29,
+    "when": "18 Nov 6:45",
+    "who": "Rishabh",
+    "area": "Check",
+    "tone": "warn",
+    "what": "Asked the supplier: L1 5-ply corrugated box, 600 x 400 x 400 mm, 980 GSM board (same spec as item C19), price per box before GST, delivery to H (Shree Ganesh Corrugators), AI read ₹65.42"
+   },
+   {
+    "order": 30,
+    "when": "18 Nov 6:46",
+    "who": "Rishabh",
+    "area": "Check",
+    "tone": "ok",
+    "what": "Looks right: L1 5-ply corrugated box, 600 x 400 x 400 mm, 980 GSM board (same spec as item C19), price per box before GST, delivery to H (Pacific PackWorks India Pvt Ltd), AI read ₹59.83"
+   },
+   {
+    "order": 31,
+    "when": "18 Nov 6:46",
+    "who": "Rishabh",
+    "area": "Check",
+    "tone": "ok",
+    "what": "Looks right: L1 5-ply corrugated box, 600 x 400 x 400 mm, 980 GSM board (same spec as item C19), price per box before GST, delivery to H (Doon Corrupack), AI read ₹62.40"
+   },
+   {
+    "order": 32,
+    "when": "18 Nov 11:06",
+    "who": "AI",
+    "area": "Requests",
+    "tone": "none",
+    "what": "Read request REQ-0152 with QuoteLens AI (claude-haiku-5-5, message): 7 details, 1 missing, in 3.2 s"
+   },
+   {
+    "order": 33,
+    "when": "18 Nov 11:06",
+    "who": "Rishabh",
+    "area": "Requests",
+    "tone": "none",
+    "what": "Raised REQ-0152 \"5-ply corrugated boxes, Haridwar, by 30 Nov\" in the request chat (internal request)"
+   },
+   {
+    "order": 34,
+    "when": "18 Nov 11:06",
+    "who": "AI",
+    "area": "Requests",
+    "tone": "none",
+    "what": "Read request REQ-0152 with QuoteLens AI (claude-haiku-5-5, message): 8 details, 0 missing, in 2.0 s"
+   },
+   {
+    "order": 35,
+    "when": "18 Nov 11:06",
+    "who": "Rishabh",
+    "area": "Requests",
+    "tone": "none",
+    "what": "Converted request REQ-0152 (Rishabh, Haridwar) into sourcing event RFQ-2026-017"
+   },
+   {
+    "order": 36,
+    "when": "18 Nov 11:07",
+    "who": "Rishabh",
+    "area": "Sourcing",
+    "tone": "none",
+    "what": "Approved the request for quotes for RFQ-2026-017 (5-ply corrugated boxes, Haridwar, by 30 Nov)"
+   },
+   {
+    "order": 37,
+    "when": "18 Nov 11:07",
+    "who": "AI",
+    "area": "Sourcing",
+    "tone": "none",
+    "what": "Fixed 1 line item for RFQ-2026-017: L1 5-ply corrugated box, 600 x 400 x 400 mm, board 980 GSM (same spec as item C19, approx. 1.595 kg per box). Delivery to H (= C19)"
+   },
+   {
+    "order": 38,
+    "when": "18 Nov 11:07",
+    "who": "Rishabh",
+    "area": "Sourcing",
+    "tone": "none",
+    "what": "Sent RFQ-2026-017 to 6 suppliers (4 by email, 2 on WhatsApp; simulated). Quotes due 28 Nov, 6 pm"
+   },
+   {
+    "order": 39,
+    "when": "18 Nov 11:09",
+    "who": "Shree Ganesh Corrugators",
+    "area": "Quotes",
+    "tone": "none",
+    "what": "Email arrived at rfq-2026-017@quotes.rsgherbal.example: \"RE: Gift pack boxes - quotation SGC/2611/118\" with 1 attachment (email simulated)"
+   },
+   {
+    "order": 40,
+    "when": "18 Nov 11:09",
+    "who": "AI",
+    "area": "Quotes",
+    "tone": "none",
+    "what": "RFQ-2026-017: read a new email from Shree Ganesh Corrugators (email.txt, SGC_Quotation_GiftPack.xlsx) in 15 s: 0 green, 1 amber, 0 red"
+   },
+   {
+    "order": 41,
+    "when": "18 Nov 11:10",
+    "who": "Pacific PackWorks India Pvt Ltd",
+    "area": "Quotes",
+    "tone": "none",
+    "what": "Email arrived at rfq-2026-017@quotes.rsgherbal.example: \"Pacific PackWorks - Quotation PPW/Q/2611/052\" with 1 attachment (email simulated)"
+   },
+   {
+    "order": 42,
+    "when": "18 Nov 11:10",
+    "who": "AI",
+    "area": "Quotes",
+    "tone": "none",
+    "what": "RFQ-2026-017: read a new email from Pacific PackWorks India Pvt Ltd (email.txt, PPW-Q-2611-052.pdf) in 17 s: 0 green, 1 amber, 0 red"
+   },
+   {
+    "order": 43,
+    "when": "18 Nov 11:10",
+    "who": "Om Sai Packaging Industries",
+    "area": "Quotes",
+    "tone": "none",
+    "what": "Email arrived at rfq-2026-017@quotes.rsgherbal.example: \"Offer for gift pack corrugated boxes\" with 1 attachment (email simulated)"
+   },
+   {
+    "order": 44,
+    "when": "18 Nov 11:11",
+    "who": "AI",
+    "area": "Quotes",
+    "tone": "none",
+    "what": "RFQ-2026-017: read a new email from Om Sai Packaging Industries (email.txt, OmSai_Offer_GiftPack.docx) in 13 s: 0 green, 1 amber, 0 red, 1 not quoted"
+   },
+   {
+    "order": 45,
+    "when": "18 Nov 11:11",
+    "who": "Rajdhani Carton Co.",
+    "area": "Quotes",
+    "tone": "none",
+    "what": "Email arrived at rfq-2026-017@quotes.rsgherbal.example: \"Rates for gift boxes\" with 1 attachment (email simulated)"
+   },
+   {
+    "order": 46,
+    "when": "18 Nov 11:12",
+    "who": "AI",
+    "area": "Quotes",
+    "tone": "none",
+    "what": "RFQ-2026-017: read a new email from Rajdhani Carton Co. (email.txt, IMG_20261118_1105.jpg) in 20 s: 0 green, 1 amber, 0 red, 1 not quoted. Replaces their earlier quote"
+   },
+   {
+    "order": 47,
+    "when": "18 Nov 11:12",
+    "who": "Mahalaxmi Box Makers",
+    "area": "Quotes",
+    "tone": "none",
+    "what": "Email arrived at rfq-2026-017@quotes.rsgherbal.example: \"Fwd: WhatsApp rates\" with 1 attachment (email simulated)"
+   },
+   {
+    "order": 48,
+    "when": "18 Nov 11:12",
+    "who": "AI",
+    "area": "Quotes",
+    "tone": "none",
+    "what": "RFQ-2026-017: read a new email from Mahalaxmi Box Makers (email.txt, Screenshot_2026-11-18-11-06.png) in 11 s: 0 green, 1 amber, 0 red"
+   },
+   {
+    "order": 49,
+    "when": "18 Nov 11:13",
+    "who": "Doon Corrupack",
+    "area": "Quotes",
+    "tone": "none",
+    "what": "Email arrived at rfq-2026-017@quotes.rsgherbal.example: \"rates\" with 1 attachment (email simulated)"
+   },
+   {
+    "order": 50,
+    "when": "18 Nov 11:13",
+    "who": "AI",
+    "area": "Quotes",
+    "tone": "none",
+    "what": "RFQ-2026-017: read a new email from Doon Corrupack (email.txt, WhatsApp_Image_2026-11-18_at_11.20.jpg) in 15 s: 0 green, 1 amber, 0 red. Replaces their earlier quote"
+   },
+   {
+    "order": 51,
+    "when": "18 Nov 11:15",
+    "who": "Rishabh",
+    "area": "Check",
+    "tone": "ok",
+    "what": "Looks right: L1 5-ply corrugated box, 600 x 400 x 400 mm, board 980 GSM (same spec as item C19, approx. 1.595 kg per box). Delivery to H (Pacific PackWorks India Pvt Ltd), AI read ₹59.83"
+   },
+   {
+    "order": 52,
+    "when": "18 Nov 11:15",
+    "who": "Rishabh",
+    "area": "Award",
+    "tone": "none",
+    "what": "Sent the award for RFQ-2026-017 (5-ply corrugated boxes, Haridwar, by 30 Nov) for approval to Anil Deshpande: ₹1,19,660 a year"
+   },
+   {
+    "order": 53,
+    "when": "18 Nov 11:16",
+    "who": "Anil Deshpande",
+    "area": "Approvals",
+    "tone": "ok",
+    "what": "Approved Award: 5-ply corrugated boxes, Haridwar, by 30 Nov (RFQ-2026-017)"
+   }
+  ],
+  "check_decisions": [
+   {
+    "key": "L1-B",
+    "decision": "Accepted",
+    "detail": "Looks right: L1 5-ply corrugated box, 600 x 400 x 400 mm, board 980 GSM (same spec as item C19, approx. 1.595 kg per box). Delivery to H (Pacific PackWorks India Pvt Ltd), AI read ₹59.83",
+    "when": "18 Nov 11:15",
+    "event_id": "RFQ-2026-017"
+   }
+  ],
+  "company_rules": [
+   {
+    "rule_id": "R1",
+    "rule": "Minimum suppliers to invite",
+    "value": 3,
+    "applies_to": "All sourcing events"
+   },
+   {
+    "rule_id": "R2",
+    "rule": "Head of Procurement approval needed above",
+    "value": "INR 25 lakh per year",
+    "applies_to": "Awards"
+   },
+   {
+    "rule_id": "R3",
+    "rule": "CFO approval also needed above",
+    "value": "INR 1 crore per year",
+    "applies_to": "Awards"
+   },
+   {
+    "rule_id": "R4",
+    "rule": "Late quotes",
+    "value": "Rejected, unless the deadline is extended for all suppliers",
+    "applies_to": "Collecting quotes"
+   },
+   {
+    "rule_id": "R5",
+    "rule": "Standard payment terms",
+    "value": "60 days from delivery",
+    "applies_to": "All suppliers"
+   },
+   {
+    "rule_id": "R6",
+    "rule": "New suppliers",
+    "value": "GST, PAN and ISO papers plus approved samples before any award",
+    "applies_to": "Awards"
+   },
+   {
+    "rule_id": "R7",
+    "rule": "Blocked suppliers",
+    "value": "Cannot be invited",
+    "applies_to": "Choosing suppliers"
+   },
+   {
+    "rule_id": "R8",
+    "rule": "Quality questions",
+    "value": "Answers must be backed by a valid document",
+    "applies_to": "Quotes"
+   }
+  ],
+  "contracts": [
+   {
+    "contract_id": "RC-FY26-BOX-01",
+    "supplier_id": "F",
+    "category": "Corrugated boxes",
+    "covers": "All 30 box sizes, Haridwar plant",
+    "valid_from": "2025-04-01",
+    "valid_until": "2027-03-31",
+    "status": "Active, ending soon"
+   },
+   {
+    "contract_id": "RC-FY26-TAPE-02",
+    "supplier_id": "S1",
+    "category": "Packaging consumables",
+    "covers": "BOPP tape 48 mm and 72 mm",
+    "valid_from": "2025-02-16",
+    "valid_until": "2027-02-15",
+    "status": "Active"
+   },
+   {
+    "contract_id": "SC-FY26-CANT-01",
+    "supplier_id": "S2",
+    "category": "Canteen services",
+    "covers": "Haridwar plant canteen, 2 shifts",
+    "valid_from": "2024-03-01",
+    "valid_until": "2027-02-28",
+    "status": "Active, ending soon"
+   }
+  ],
+  "event_drafts": [],
+  "event_invites": [
+   {
+    "event_id": "RFQ-2026-017",
+    "supplier_id": "A",
+    "channel": "Email",
+    "sent_at": "2026-11-18T05:37:33.467Z"
+   },
+   {
+    "event_id": "RFQ-2026-017",
+    "supplier_id": "B",
+    "channel": "Email",
+    "sent_at": "2026-11-18T05:37:33.467Z"
+   },
+   {
+    "event_id": "RFQ-2026-017",
+    "supplier_id": "C",
+    "channel": "Email",
+    "sent_at": "2026-11-18T05:37:33.467Z"
+   },
+   {
+    "event_id": "RFQ-2026-017",
+    "supplier_id": "D",
+    "channel": "WhatsApp",
+    "sent_at": "2026-11-18T05:37:33.467Z"
+   },
+   {
+    "event_id": "RFQ-2026-017",
+    "supplier_id": "E",
+    "channel": "WhatsApp",
+    "sent_at": "2026-11-18T05:37:33.467Z"
+   },
+   {
+    "event_id": "RFQ-2026-017",
+    "supplier_id": "F",
+    "channel": "Email",
+    "sent_at": "2026-11-18T05:37:33.467Z"
+   }
+  ],
+  "insights": [
+   {
+    "tone": "bad",
+    "title": "Supplier certificate expired",
+    "body": "Rajdhani Carton's ISO certificate expired on 14 Aug 2026. They're quoting in the boxes event.",
+    "action": "Review in boxes event",
+    "link": "/events/RFQ-2026-014/check",
+    "info": "The AI checks expiry dates on every certificate suppliers send, across all events."
+   },
+   {
+    "tone": "info",
+    "title": "Two plants want the same boxes",
+    "body": "Baddi asked for 18 box sizes; 14 are already in Haridwar's boxes event. Combining them could lower prices.",
+    "action": "Open Baddi request",
+    "link": "/requests/REQ-0147",
+    "info": "The AI compares every new request with live sourcing events to spot overlaps."
+   },
+   {
+    "tone": "warn",
+    "title": "Ashwagandha root up 18% since August",
+    "body": "A weak monsoon cut the Neemuch and Mandsaur harvest. The herbs event is open now; consider locking a 6-month price.",
+    "action": "Open herbs event",
+    "link": "/events/RFQ-2026-012",
+    "info": "Mandi price trend for dried Ashwagandha root (demo data). The AI links market moves to your open events."
+   },
+   {
+    "tone": "warn",
+    "title": "Kraft paper up 6% in 3 months",
+    "body": "Kraft paper is now ₹34.5/kg (from ₹32.5 in August). Expect shipper-box quotes above last year.",
+    "action": "See price comparison",
+    "link": "/events/RFQ-2026-014/compare",
+    "info": "From market_prices.csv. Used to estimate a fair price for each box from its weight."
+   }
+  ],
+  "items": [
+   {
+    "item_code": "C01",
+    "description": "3-ply corrugated box, 200×150×100 mm",
+    "ply": 3,
+    "length_mm": 200,
+    "width_mm": 150,
+    "height_mm": 100,
+    "board_gsm": 560,
+    "weight_kg": 0.103,
+    "yearly_qty": 96000,
+    "price_unit": "per box",
+    "used_for": "Herbal tea 100 g × 24",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C02",
+    "description": "3-ply corrugated box, 250×200×150 mm",
+    "ply": 3,
+    "length_mm": 250,
+    "width_mm": 200,
+    "height_mm": 150,
+    "board_gsm": 560,
+    "weight_kg": 0.183,
+    "yearly_qty": 86000,
+    "price_unit": "per box",
+    "used_for": "Churna 100 g × 36",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C03",
+    "description": "3-ply corrugated box, 300×200×150 mm",
+    "ply": 3,
+    "length_mm": 300,
+    "width_mm": 200,
+    "height_mm": 150,
+    "board_gsm": 560,
+    "weight_kg": 0.203,
+    "yearly_qty": 80000,
+    "price_unit": "per box",
+    "used_for": "Ashwagandha capsules 60s × 48",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C04",
+    "description": "3-ply corrugated box, 300×250×200 mm",
+    "ply": 3,
+    "length_mm": 300,
+    "width_mm": 250,
+    "height_mm": 200,
+    "board_gsm": 560,
+    "weight_kg": 0.286,
+    "yearly_qty": 64000,
+    "price_unit": "per box",
+    "used_for": "Triphala tablets 120s × 48",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C05",
+    "description": "3-ply corrugated box, 350×250×200 mm",
+    "ply": 3,
+    "length_mm": 350,
+    "width_mm": 250,
+    "height_mm": 200,
+    "board_gsm": 560,
+    "weight_kg": 0.311,
+    "yearly_qty": 59000,
+    "price_unit": "per box",
+    "used_for": "Herbal face wash 100 ml × 48",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C06",
+    "description": "3-ply corrugated box, 350×300×250 mm",
+    "ply": 3,
+    "length_mm": 350,
+    "width_mm": 300,
+    "height_mm": 250,
+    "board_gsm": 560,
+    "weight_kg": 0.411,
+    "yearly_qty": 48000,
+    "price_unit": "per box",
+    "used_for": "Amla juice 500 ml × 12",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C07",
+    "description": "3-ply corrugated box, 400×300×200 mm",
+    "ply": 3,
+    "length_mm": 400,
+    "width_mm": 300,
+    "height_mm": 200,
+    "board_gsm": 560,
+    "weight_kg": 0.402,
+    "yearly_qty": 48000,
+    "price_unit": "per box",
+    "used_for": "Herbal soap 75 g × 144",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C08",
+    "description": "3-ply corrugated box, 400×300×300 mm",
+    "ply": 3,
+    "length_mm": 400,
+    "width_mm": 300,
+    "height_mm": 300,
+    "board_gsm": 560,
+    "weight_kg": 0.482,
+    "yearly_qty": 43000,
+    "price_unit": "per box",
+    "used_for": "Hair oil 200 ml × 36",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C09",
+    "description": "3-ply corrugated box, 450×300×250 mm",
+    "ply": 3,
+    "length_mm": 450,
+    "width_mm": 300,
+    "height_mm": 250,
+    "board_gsm": 560,
+    "weight_kg": 0.473,
+    "yearly_qty": 37000,
+    "price_unit": "per box",
+    "used_for": "Aloe vera gel 150 g × 48",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C10",
+    "description": "3-ply corrugated box, 450×350×300 mm",
+    "ply": 3,
+    "length_mm": 450,
+    "width_mm": 350,
+    "height_mm": 300,
+    "board_gsm": 560,
+    "weight_kg": 0.595,
+    "yearly_qty": 32000,
+    "price_unit": "per box",
+    "used_for": "Chyawanprash 250 g × 36",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C11",
+    "description": "3-ply corrugated box, 500×300×300 mm",
+    "ply": 3,
+    "length_mm": 500,
+    "width_mm": 300,
+    "height_mm": 300,
+    "board_gsm": 560,
+    "weight_kg": 0.549,
+    "yearly_qty": 32000,
+    "price_unit": "per box",
+    "used_for": "Herbal toothpaste 150 g × 72",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C12",
+    "description": "3-ply corrugated box, 500×400×300 mm",
+    "ply": 3,
+    "length_mm": 500,
+    "width_mm": 400,
+    "height_mm": 300,
+    "board_gsm": 560,
+    "weight_kg": 0.719,
+    "yearly_qty": 27000,
+    "price_unit": "per box",
+    "used_for": "Mixed retail carton (e-commerce)",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C13",
+    "description": "5-ply corrugated box, 400×300×300 mm",
+    "ply": 5,
+    "length_mm": 400,
+    "width_mm": 300,
+    "height_mm": 300,
+    "board_gsm": 980,
+    "weight_kg": 0.844,
+    "yearly_qty": 43000,
+    "price_unit": "per box",
+    "used_for": "Chyawanprash 500 g × 24",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C14",
+    "description": "5-ply corrugated box, 450×350×350 mm",
+    "ply": 5,
+    "length_mm": 450,
+    "width_mm": 350,
+    "height_mm": 350,
+    "board_gsm": 980,
+    "weight_kg": 1.122,
+    "yearly_qty": 37000,
+    "price_unit": "per box",
+    "used_for": "Chyawanprash 1 kg × 12",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C15",
+    "description": "5-ply corrugated box, 500×400×300 mm",
+    "ply": 5,
+    "length_mm": 500,
+    "width_mm": 400,
+    "height_mm": 300,
+    "board_gsm": 980,
+    "weight_kg": 1.259,
+    "yearly_qty": 37000,
+    "price_unit": "per box",
+    "used_for": "Amla juice 1 L × 12",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C16",
+    "description": "5-ply corrugated box, 500×400×400 mm",
+    "ply": 5,
+    "length_mm": 500,
+    "width_mm": 400,
+    "height_mm": 400,
+    "board_gsm": 980,
+    "weight_kg": 1.439,
+    "yearly_qty": 32000,
+    "price_unit": "per box",
+    "used_for": "Aloe vera juice 1 L × 12",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C17",
+    "description": "5-ply corrugated box, 550×400×400 mm",
+    "ply": 5,
+    "length_mm": 550,
+    "width_mm": 400,
+    "height_mm": 400,
+    "board_gsm": 980,
+    "weight_kg": 1.517,
+    "yearly_qty": 30000,
+    "price_unit": "per box",
+    "used_for": "Hair oil 500 ml × 24",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C18",
+    "description": "5-ply corrugated box, 600×400×300 mm",
+    "ply": 5,
+    "length_mm": 600,
+    "width_mm": 400,
+    "height_mm": 300,
+    "board_gsm": 980,
+    "weight_kg": 1.396,
+    "yearly_qty": 30000,
+    "price_unit": "per box",
+    "used_for": "Honey 500 g × 24",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C19",
+    "description": "5-ply corrugated box, 600×400×400 mm",
+    "ply": 5,
+    "length_mm": 600,
+    "width_mm": 400,
+    "height_mm": 400,
+    "board_gsm": 980,
+    "weight_kg": 1.595,
+    "yearly_qty": 27000,
+    "price_unit": "per box",
+    "used_for": "Ghee-based rasayana 500 g × 24",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C20",
+    "description": "5-ply corrugated box, 600×500×400 mm",
+    "ply": 5,
+    "length_mm": 600,
+    "width_mm": 500,
+    "height_mm": 400,
+    "board_gsm": 980,
+    "weight_kg": 1.971,
+    "yearly_qty": 24000,
+    "price_unit": "per box",
+    "used_for": "Distributor master carton (small)",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C21",
+    "description": "5-ply corrugated box, 650×450×450 mm",
+    "ply": 5,
+    "length_mm": 650,
+    "width_mm": 450,
+    "height_mm": 450,
+    "board_gsm": 980,
+    "weight_kg": 1.971,
+    "yearly_qty": 19000,
+    "price_unit": "per box",
+    "used_for": "Gift pack combo × 12",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C22",
+    "description": "5-ply corrugated box, 700×500×400 mm",
+    "ply": 5,
+    "length_mm": 700,
+    "width_mm": 500,
+    "height_mm": 400,
+    "board_gsm": 980,
+    "weight_kg": 2.148,
+    "yearly_qty": 16000,
+    "price_unit": "per box",
+    "used_for": "Distributor master carton (medium)",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C23",
+    "description": "5-ply corrugated box, 700×500×500 mm",
+    "ply": 5,
+    "length_mm": 700,
+    "width_mm": 500,
+    "height_mm": 500,
+    "board_gsm": 980,
+    "weight_kg": 2.386,
+    "yearly_qty": 13000,
+    "price_unit": "per box",
+    "used_for": "Herbal powders 1 kg × 12",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C24",
+    "description": "5-ply corrugated box, 750×500×500 mm",
+    "ply": 5,
+    "length_mm": 750,
+    "width_mm": 500,
+    "height_mm": 500,
+    "board_gsm": 980,
+    "weight_kg": 2.484,
+    "yearly_qty": 11000,
+    "price_unit": "per box",
+    "used_for": "Institutional pack 5 kg × 4",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C25",
+    "description": "5-ply corrugated box, 800×600×500 mm",
+    "ply": 5,
+    "length_mm": 800,
+    "width_mm": 600,
+    "height_mm": 500,
+    "board_gsm": 980,
+    "weight_kg": 3.056,
+    "yearly_qty": 9000,
+    "price_unit": "per box",
+    "used_for": "Distributor master carton (large)",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C26",
+    "description": "7-ply corrugated box, 800×600×600 mm",
+    "ply": 7,
+    "length_mm": 800,
+    "width_mm": 600,
+    "height_mm": 600,
+    "board_gsm": 1380,
+    "weight_kg": 4.695,
+    "yearly_qty": 6500,
+    "price_unit": "per box",
+    "used_for": "Bulk herbs 10 kg",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C27",
+    "description": "7-ply corrugated box, 900×600×600 mm",
+    "ply": 7,
+    "length_mm": 900,
+    "width_mm": 600,
+    "height_mm": 600,
+    "board_gsm": 1380,
+    "weight_kg": 5.026,
+    "yearly_qty": 5300,
+    "price_unit": "per box",
+    "used_for": "Bulk churna 15 kg",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C28",
+    "description": "7-ply corrugated box, 1000×600×600 mm",
+    "ply": 7,
+    "length_mm": 1000,
+    "width_mm": 600,
+    "height_mm": 600,
+    "board_gsm": 1380,
+    "weight_kg": 5.357,
+    "yearly_qty": 4300,
+    "price_unit": "per box",
+    "used_for": "Export carton (sea freight)",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C29",
+    "description": "7-ply corrugated box, 1000×800×600 mm",
+    "ply": 7,
+    "length_mm": 1000,
+    "width_mm": 800,
+    "height_mm": 600,
+    "board_gsm": 1380,
+    "weight_kg": 7.023,
+    "yearly_qty": 3200,
+    "price_unit": "per box",
+    "used_for": "Bulk oil drums outer",
+    "plant": "Haridwar"
+   },
+   {
+    "item_code": "C30",
+    "description": "7-ply corrugated box, 1200×800×800 mm",
+    "ply": 7,
+    "length_mm": 1200,
+    "width_mm": 800,
+    "height_mm": 800,
+    "board_gsm": 1380,
+    "weight_kg": 8.909,
+    "yearly_qty": 2100,
+    "price_unit": "per box",
+    "used_for": "Machinery spares outer",
+    "plant": "Haridwar"
+   }
+  ],
+  "last_year_prices": [
+   {
+    "supplier_id": "F",
+    "item_code": "C01",
+    "price_per_box_inr": 3.93,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C02",
+    "price_per_box_inr": 6.7,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C03",
+    "price_per_box_inr": 7.69,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C04",
+    "price_per_box_inr": 10.41,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C05",
+    "price_per_box_inr": 11.73,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C06",
+    "price_per_box_inr": 16.05,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C07",
+    "price_per_box_inr": 15.09,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C08",
+    "price_per_box_inr": 18.72,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C09",
+    "price_per_box_inr": 17.66,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C10",
+    "price_per_box_inr": 23,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C11",
+    "price_per_box_inr": 20.4,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C12",
+    "price_per_box_inr": 27.67,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C13",
+    "price_per_box_inr": 34.24,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C14",
+    "price_per_box_inr": 47.15,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C15",
+    "price_per_box_inr": 50.82,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C16",
+    "price_per_box_inr": 60.17,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C17",
+    "price_per_box_inr": 60.92,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C18",
+    "price_per_box_inr": 58.08,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C19",
+    "price_per_box_inr": 63.72,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C20",
+    "price_per_box_inr": 81.6,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C21",
+    "price_per_box_inr": 84.46,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C22",
+    "price_per_box_inr": 88.48,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C23",
+    "price_per_box_inr": 101.74,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C24",
+    "price_per_box_inr": 101.81,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C25",
+    "price_per_box_inr": 129.68,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C26",
+    "price_per_box_inr": 208.48,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C27",
+    "price_per_box_inr": 231.1,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C28",
+    "price_per_box_inr": 236.67,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C29",
+    "price_per_box_inr": 321.35,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "F",
+    "item_code": "C30",
+    "price_per_box_inr": 391.58,
+    "basis": "Delivered Haridwar, before GST",
+    "contract_ref": "RC-FY26-BOX-01",
+    "valid_until": "2027-03-31"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C26",
+    "price_per_box_inr": 232.36,
+    "basis": "Ex-works Haridwar, before GST",
+    "contract_ref": "PO-4471 (spot order)",
+    "valid_until": "2026-03-31"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C27",
+    "price_per_box_inr": 248.74,
+    "basis": "Ex-works Haridwar, before GST",
+    "contract_ref": "PO-4471 (spot order)",
+    "valid_until": "2026-03-31"
+   }
+  ],
+  "market_prices": [
+   {
+    "item": "Kraft paper (BF 18, 120 gsm)",
+    "unit": "INR per kg",
+    "price": 32.5,
+    "date": "2026-08-12",
+    "source": "Paper mill price index (demo)"
+   },
+   {
+    "item": "Kraft paper (BF 18, 120 gsm)",
+    "unit": "INR per kg",
+    "price": 33.1,
+    "date": "2026-09-12",
+    "source": "Paper mill price index (demo)"
+   },
+   {
+    "item": "Kraft paper (BF 18, 120 gsm)",
+    "unit": "INR per kg",
+    "price": 33.8,
+    "date": "2026-10-12",
+    "source": "Paper mill price index (demo)"
+   },
+   {
+    "item": "Kraft paper (BF 18, 120 gsm)",
+    "unit": "INR per kg",
+    "price": 34.5,
+    "date": "2026-11-12",
+    "source": "Paper mill price index (demo)"
+   },
+   {
+    "item": "US dollar",
+    "unit": "INR per USD",
+    "price": 84.2,
+    "date": "2026-11-12",
+    "source": "RBI reference rate (demo)"
+   }
+  ],
+  "people": [
+   {
+    "person_id": "P01",
+    "name": "Rishabh",
+    "side": "Buyer team",
+    "role": "Category Buyer, Packaging",
+    "organisation": "RSG Herbal House",
+    "location": "New Delhi (Head office)",
+    "email": "rishabh@rsgherbal.example",
+    "phone": "+91 90000 20001",
+    "whatsapp": "+91 90000 20001",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P02",
+    "name": "Neha Sharma",
+    "side": "Buyer team",
+    "role": "Category Buyer, Raw herbs & MRO",
+    "organisation": "RSG Herbal House",
+    "location": "Haridwar",
+    "email": "neha.sharma@rsgherbal.example",
+    "phone": "+91 90000 20002",
+    "whatsapp": "+91 90000 20002",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P03",
+    "name": "Karan Malhotra",
+    "side": "Buyer team",
+    "role": "Category Buyer, Logistics & IT",
+    "organisation": "RSG Herbal House",
+    "location": "New Delhi (Head office)",
+    "email": "karan.malhotra@rsgherbal.example",
+    "phone": "+91 90000 20003",
+    "whatsapp": "+91 90000 20003",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P04",
+    "name": "Anil Deshpande",
+    "side": "Buyer team",
+    "role": "Head of Procurement",
+    "organisation": "RSG Herbal House",
+    "location": "New Delhi (Head office)",
+    "email": "anil.deshpande@rsgherbal.example",
+    "phone": "+91 90000 20004",
+    "whatsapp": "+91 90000 20004",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P05",
+    "name": "Sandeep Rawat",
+    "side": "Company team",
+    "role": "Stores Manager",
+    "organisation": "RSG Herbal House",
+    "location": "Haridwar plant",
+    "email": "sandeep.rawat@rsgherbal.example",
+    "phone": "+91 90000 20005",
+    "whatsapp": "+91 90000 20005",
+    "preferred_channel": "WhatsApp"
+   },
+   {
+    "person_id": "P06",
+    "name": "Vikram Negi",
+    "side": "Company team",
+    "role": "Plant Head",
+    "organisation": "RSG Herbal House",
+    "location": "Baddi plant",
+    "email": "vikram.negi@rsgherbal.example",
+    "phone": "+91 90000 20006",
+    "whatsapp": "+91 90000 20006",
+    "preferred_channel": "WhatsApp"
+   },
+   {
+    "person_id": "P07",
+    "name": "Meera Iyer",
+    "side": "Company team",
+    "role": "Admin Manager",
+    "organisation": "RSG Herbal House",
+    "location": "New Delhi (Head office)",
+    "email": "meera.iyer@rsgherbal.example",
+    "phone": "+91 90000 20007",
+    "whatsapp": "+91 90000 20007",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P08",
+    "name": "Arjun Mehta",
+    "side": "Company team",
+    "role": "IT Manager",
+    "organisation": "RSG Herbal House",
+    "location": "New Delhi (Head office)",
+    "email": "arjun.mehta@rsgherbal.example",
+    "phone": "+91 90000 20008",
+    "whatsapp": "+91 90000 20008",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P09",
+    "name": "Kavita Rao",
+    "side": "Company team",
+    "role": "CFO",
+    "organisation": "RSG Herbal House",
+    "location": "New Delhi (Head office)",
+    "email": "kavita.rao@rsgherbal.example",
+    "phone": "+91 90000 20009",
+    "whatsapp": "+91 90000 20009",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P10",
+    "name": "Dr. Shalini Verma",
+    "side": "Company team",
+    "role": "Head of Quality",
+    "organisation": "RSG Herbal House",
+    "location": "Haridwar plant",
+    "email": "shalini.verma@rsgherbal.example",
+    "phone": "+91 90000 20010",
+    "whatsapp": "+91 90000 20010",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P11",
+    "name": "Manoj Agarwal",
+    "side": "Supplier",
+    "role": "Sales contact",
+    "organisation": "Shree Ganesh Corrugators",
+    "location": "Roorkee",
+    "email": "manoj@shreeganesh.example",
+    "phone": "+91 90000 10001",
+    "whatsapp": "+91 90000 10001",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P12",
+    "name": "Rahul Bose",
+    "side": "Supplier",
+    "role": "Sales contact",
+    "organisation": "Pacific PackWorks India Pvt Ltd",
+    "location": "Noida",
+    "email": "rahul.bose@pacificpack.example",
+    "phone": "+91 90000 10002",
+    "whatsapp": "",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P13",
+    "name": "Deepak Gupta",
+    "side": "Supplier",
+    "role": "Sales contact",
+    "organisation": "Om Sai Packaging Industries",
+    "location": "Saharanpur",
+    "email": "deepak@omsaipack.example",
+    "phone": "+91 90000 10003",
+    "whatsapp": "+91 90000 10003",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P14",
+    "name": "Imran Qureshi",
+    "side": "Supplier",
+    "role": "Sales contact",
+    "organisation": "Rajdhani Carton Co.",
+    "location": "Ghaziabad",
+    "email": "",
+    "phone": "+91 90000 10004",
+    "whatsapp": "+91 90000 10004",
+    "preferred_channel": "WhatsApp"
+   },
+   {
+    "person_id": "P15",
+    "name": "Suresh Bansal",
+    "side": "Supplier",
+    "role": "Sales contact",
+    "organisation": "Mahalaxmi Box Makers",
+    "location": "Haridwar (SIDCUL)",
+    "email": "",
+    "phone": "+91 90000 10005",
+    "whatsapp": "+91 90000 10005",
+    "preferred_channel": "WhatsApp"
+   },
+   {
+    "person_id": "P16",
+    "name": "Ankit Thapa",
+    "side": "Supplier",
+    "role": "Sales contact",
+    "organisation": "Doon Corrupack",
+    "location": "Dehradun",
+    "email": "ankit@dooncorrupack.example",
+    "phone": "+91 90000 10006",
+    "whatsapp": "+91 90000 10006",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P17",
+    "name": "Rakesh Tyagi",
+    "side": "Supplier",
+    "role": "Sales contact",
+    "organisation": "Unity Box House",
+    "location": "Meerut",
+    "email": "rakesh@unitybox.example",
+    "phone": "+91 90000 10007",
+    "whatsapp": "",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P18",
+    "name": "Pooja Gupta",
+    "side": "Supplier",
+    "role": "Sales contact",
+    "organisation": "Sai Om Corrugation LLP",
+    "location": "Saharanpur",
+    "email": "pooja@saiomcorr.example",
+    "phone": "+91 90000 10008",
+    "whatsapp": "+91 90000 10008",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P19",
+    "name": "Ravi Joshi",
+    "side": "Supplier",
+    "role": "Sales contact",
+    "organisation": "Kraftline Solutions",
+    "location": "Kashipur",
+    "email": "ravi@kraftline.example",
+    "phone": "+91 90000 10009",
+    "whatsapp": "+91 90000 10009",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P20",
+    "name": "Nitin Saini",
+    "side": "Supplier",
+    "role": "Sales contact",
+    "organisation": "Sunrise Tapes",
+    "location": "Haridwar",
+    "email": "nitin@sunrisetapes.example",
+    "phone": "+91 90000 10010",
+    "whatsapp": "+91 90000 10010",
+    "preferred_channel": "Email"
+   },
+   {
+    "person_id": "P21",
+    "name": "Geeta Rawat",
+    "side": "Supplier",
+    "role": "Sales contact",
+    "organisation": "Annapurna Caterers",
+    "location": "Haridwar",
+    "email": "geeta@annapurna.example",
+    "phone": "+91 90000 10011",
+    "whatsapp": "+91 90000 10011",
+    "preferred_channel": "Phone"
+   }
+  ],
+  "quality_questions": [
+   {
+    "question_id": "Q1",
+    "question": "Are you ISO 9001 certified?",
+    "proof_needed": "ISO 9001 certificate"
+   },
+   {
+    "question_id": "Q2",
+    "question": "Box-strength test report for 5-ply boxes (min 500 kg)",
+    "proof_needed": "Lab test report"
+   },
+   {
+    "question_id": "Q3",
+    "question": "Recycled fibre content at least 60%?",
+    "proof_needed": "Declaration"
+   },
+   {
+    "question_id": "Q4",
+    "question": "Can you send samples within 7 days?",
+    "proof_needed": "None"
+   },
+   {
+    "question_id": "Q5",
+    "question": "Capacity of at least 1 lakh boxes a month?",
+    "proof_needed": "Declaration"
+   }
+  ],
+  "savings_by_month": [
+   {
+    "month": "Jun",
+    "saved_lakh": 9.2
+   },
+   {
+    "month": "Jul",
+    "saved_lakh": 14.6
+   },
+   {
+    "month": "Aug",
+    "saved_lakh": 6.8
+   },
+   {
+    "month": "Sep",
+    "saved_lakh": 21.3
+   },
+   {
+    "month": "Oct",
+    "saved_lakh": 18.4
+   },
+   {
+    "month": "Nov",
+    "saved_lakh": 11.9
+   }
+  ],
+  "sourcing_events": [
+   {
+    "event_id": "RFQ-2026-017",
+    "name": "5-ply corrugated boxes, Haridwar, by 30 Nov",
+    "category": "Packaging",
+    "plant": "Haridwar",
+    "buyer": "Rishabh",
+    "stage": "compare",
+    "yearly_value_inr": 0,
+    "suppliers_status": "6 of 6 replied",
+    "due": "Quotes due 28 Nov",
+    "from_request": "REQ-0152",
+    "attention_tone": "",
+    "attention_text": "",
+    "updated_at": "2026-11-18T11:15:03+05:30"
+   },
+   {
+    "event_id": "RFQ-2026-014",
+    "name": "Corrugated shipper boxes FY27",
+    "category": "Packaging",
+    "plant": "Haridwar",
+    "buyer": "Rishabh",
+    "stage": "check",
+    "yearly_value_inr": "",
+    "suppliers_status": "5 of 6 replied",
+    "due": "Award by 24 Nov",
+    "from_request": "REQ-0142",
+    "attention_tone": "bad",
+    "attention_text": "Prices to fix before award",
+    "updated_at": "2026-11-18T06:12:34+05:30"
+   },
+   {
+    "event_id": "RFQ-2026-011",
+    "name": "Printed mono cartons (Chyawanprash, churna)",
+    "category": "Packaging",
+    "plant": "Haridwar",
+    "buyer": "Rishabh",
+    "stage": "award",
+    "yearly_value_inr": 11200000,
+    "suppliers_status": "4 of 4 replied",
+    "due": "Approval pending 3 days",
+    "from_request": "",
+    "attention_tone": "warn",
+    "attention_text": "Waiting on CFO approval",
+    "updated_at": "2026-11-15T16:00:00+05:30"
+   },
+   {
+    "event_id": "RFQ-2026-012",
+    "name": "Ashwagandha root & dried Amla",
+    "category": "Raw herbs",
+    "plant": "Haridwar",
+    "buyer": "Neha Sharma",
+    "stage": "compare",
+    "yearly_value_inr": 18600000,
+    "suppliers_status": "6 of 7 replied",
+    "due": "Bids closed 14 Nov",
+    "from_request": "",
+    "attention_tone": "warn",
+    "attention_text": "Prices up 18% since August",
+    "updated_at": "2026-11-14T18:00:00+05:30"
+   },
+   {
+    "event_id": "RFQ-2026-009",
+    "name": "PET bottles & caps (100–500 ml)",
+    "category": "Packaging",
+    "plant": "Baddi",
+    "buyer": "Rishabh",
+    "stage": "quotes",
+    "yearly_value_inr": 6400000,
+    "suppliers_status": "3 of 5 replied",
+    "due": "Closes 20 Nov",
+    "from_request": "",
+    "attention_tone": "warn",
+    "attention_text": "2 suppliers silent",
+    "updated_at": "2026-11-16T12:30:00+05:30"
+   },
+   {
+    "event_id": "RFQ-2026-015",
+    "name": "Inbound freight: herbs & packaging, 12 lanes",
+    "category": "Logistics",
+    "plant": "Haridwar, Baddi",
+    "buyer": "Karan Malhotra",
+    "stage": "suppliers",
+    "yearly_value_inr": 23500000,
+    "suppliers_status": "Not sent yet",
+    "due": "Send by 19 Nov",
+    "from_request": "",
+    "attention_tone": "",
+    "attention_text": "",
+    "updated_at": "2026-11-17T10:15:00+05:30"
+   },
+   {
+    "event_id": "RFQ-2026-016",
+    "name": "Laptops & monitors (120 sets)",
+    "category": "IT hardware",
+    "plant": "Head office",
+    "buyer": "Karan Malhotra",
+    "stage": "request",
+    "yearly_value_inr": 9800000,
+    "suppliers_status": "—",
+    "due": "Draft started today",
+    "from_request": "REQ-0139",
+    "attention_tone": "",
+    "attention_text": "",
+    "updated_at": "2026-11-12T15:00:00+05:30"
+   }
+  ],
+  "supplier_documents": [
+   {
+    "doc_id": "DOC-A1",
+    "supplier_id": "A",
+    "doc_type": "ISO 9001 certificate",
+    "number": "QMS/IN/22/4417",
+    "issued_to": "Shree Ganesh Packaging Pvt Ltd",
+    "valid_until": "2027-06-30",
+    "file": "files/A/ISO_9001_SGPPL.pdf",
+    "status": "Name doesn't match supplier"
+   },
+   {
+    "doc_id": "DOC-A2",
+    "supplier_id": "A",
+    "doc_type": "GST certificate",
+    "number": "05AAKCS1234F1Z5",
+    "issued_to": "Shree Ganesh Corrugators",
+    "valid_until": "",
+    "file": "files/A/GST.pdf",
+    "status": "Checked"
+   },
+   {
+    "doc_id": "DOC-B1",
+    "supplier_id": "B",
+    "doc_type": "ISO 9001 certificate",
+    "number": "SG-ISO-88213",
+    "issued_to": "Pacific PackWorks India Pvt Ltd",
+    "valid_until": "2028-03-31",
+    "file": "files/B/ISO_9001_PPW.pdf",
+    "status": "Checked"
+   },
+   {
+    "doc_id": "DOC-B2",
+    "supplier_id": "B",
+    "doc_type": "Box-strength test report (5-ply)",
+    "number": "LAB/BCT/26/0912",
+    "issued_to": "Pacific PackWorks India Pvt Ltd",
+    "valid_until": "2027-09-30",
+    "file": "files/B/BCT_Test_Report.pdf",
+    "status": "Checked"
+   },
+   {
+    "doc_id": "DOC-C1",
+    "supplier_id": "C",
+    "doc_type": "Box-strength test report (5-ply)",
+    "number": "LAB/BCT/26/0577",
+    "issued_to": "Om Sai Packaging Industries",
+    "valid_until": "2027-05-31",
+    "file": "files/C/BCT_Report_OmSai.pdf",
+    "status": "Checked"
+   },
+   {
+    "doc_id": "DOC-D1",
+    "supplier_id": "D",
+    "doc_type": "ISO 9001 certificate",
+    "number": "QMS/IN/19/2201",
+    "issued_to": "Rajdhani Carton Co.",
+    "valid_until": "2026-08-14",
+    "file": "files/D/ISO_Rajdhani.pdf",
+    "status": "Expired"
+   },
+   {
+    "doc_id": "DOC-D2",
+    "supplier_id": "D",
+    "doc_type": "Box-strength test report (5-ply)",
+    "number": "LAB/BCT/26/0388",
+    "issued_to": "Rajdhani Carton Co.",
+    "valid_until": "2027-01-31",
+    "file": "files/D/BCT_Rajdhani.pdf",
+    "status": "Fails our spec (410 kg vs 500 kg)"
+   },
+   {
+    "doc_id": "DOC-F1",
+    "supplier_id": "F",
+    "doc_type": "ISO 9001 certificate",
+    "number": "QMS/IN/21/3390",
+    "issued_to": "Doon Corrupack",
+    "valid_until": "2027-12-31",
+    "file": "files/F/ISO_Doon.pdf",
+    "status": "Checked"
+   },
+   {
+    "doc_id": "DOC-I1",
+    "supplier_id": "I",
+    "doc_type": "GST certificate",
+    "number": "05AAJFK9876K1Z2",
+    "issued_to": "Kraftline Solutions",
+    "valid_until": "",
+    "file": "files/I/GST_Kraftline.pdf",
+    "status": "Checked"
+   },
+   {
+    "doc_id": "DOC-A3",
+    "supplier_id": "A",
+    "doc_type": "Box-strength test report (5-ply)",
+    "number": "LAB/BCT/26/0731",
+    "issued_to": "Shree Ganesh Corrugators",
+    "valid_until": "2027-07-31",
+    "file": "files/A/BCT_Report_SGC.pdf",
+    "status": "Checked"
+   }
+  ],
+  "supplier_track_record": [
+   {
+    "supplier_id": "A",
+    "year": "FY26",
+    "on_time_pct": 94,
+    "share_of_box_spend_pct": 18,
+    "deliveries": 46,
+    "rejected_deliveries": 1,
+    "invoice_mismatches": 0
+   },
+   {
+    "supplier_id": "B",
+    "year": "FY26",
+    "on_time_pct": 97,
+    "share_of_box_spend_pct": 9,
+    "deliveries": 22,
+    "rejected_deliveries": 0,
+    "invoice_mismatches": 0
+   },
+   {
+    "supplier_id": "C",
+    "year": "FY26",
+    "on_time_pct": 88,
+    "share_of_box_spend_pct": 14,
+    "deliveries": 35,
+    "rejected_deliveries": 1,
+    "invoice_mismatches": 1
+   },
+   {
+    "supplier_id": "D",
+    "year": "FY26",
+    "on_time_pct": 71,
+    "share_of_box_spend_pct": 6,
+    "deliveries": 17,
+    "rejected_deliveries": 2,
+    "invoice_mismatches": 0
+   },
+   {
+    "supplier_id": "E",
+    "year": "FY26",
+    "on_time_pct": 90,
+    "share_of_box_spend_pct": 15,
+    "deliveries": 38,
+    "rejected_deliveries": 0,
+    "invoice_mismatches": 2
+   },
+   {
+    "supplier_id": "F",
+    "year": "FY26",
+    "on_time_pct": 92,
+    "share_of_box_spend_pct": 38,
+    "deliveries": 96,
+    "rejected_deliveries": 1,
+    "invoice_mismatches": 0
+   },
+   {
+    "supplier_id": "G",
+    "year": "FY26",
+    "on_time_pct": 63,
+    "share_of_box_spend_pct": 0,
+    "deliveries": 8,
+    "rejected_deliveries": 2,
+    "invoice_mismatches": 1
+   },
+   {
+    "supplier_id": "H",
+    "year": "FY26",
+    "on_time_pct": 85,
+    "share_of_box_spend_pct": 0,
+    "deliveries": 4,
+    "rejected_deliveries": 0,
+    "invoice_mismatches": 0
+   }
+  ],
+  "suppliers": [
+   {
+    "supplier_id": "A",
+    "name": "Shree Ganesh Corrugators",
+    "category": "Corrugated boxes",
+    "city": "Roorkee",
+    "state": "Uttarakhand",
+    "contact_person": "Manoj Agarwal",
+    "phone": "+91 90000 10001",
+    "email": "manoj@shreeganesh.example",
+    "whatsapp": "+91 90000 10001",
+    "channels": "Email; WhatsApp; Phone",
+    "preferred_channel": "Email",
+    "gstin": "05AAKCS1234F1Z5",
+    "status": "Approved",
+    "added_on": "2019-04-01",
+    "found_via": "Existing supplier",
+    "warning": "",
+    "updated_at": "2019-04-01T10:00:00+05:30"
+   },
+   {
+    "supplier_id": "B",
+    "name": "Pacific PackWorks India Pvt Ltd",
+    "category": "Corrugated boxes",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "contact_person": "Rahul Bose",
+    "phone": "+91 90000 10002",
+    "email": "rahul.bose@pacificpack.example",
+    "whatsapp": "",
+    "channels": "Email; Phone",
+    "preferred_channel": "Email",
+    "gstin": "09AAICP5521M1Z8",
+    "status": "Approved",
+    "added_on": "2022-07-15",
+    "found_via": "Existing supplier",
+    "warning": "Subsidiary of a Singapore group, quotes in US dollars",
+    "updated_at": "2022-07-15T10:00:00+05:30"
+   },
+   {
+    "supplier_id": "C",
+    "name": "Om Sai Packaging Industries",
+    "category": "Corrugated boxes",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "contact_person": "Deepak Gupta",
+    "phone": "+91 90000 10003",
+    "email": "deepak@omsaipack.example",
+    "whatsapp": "+91 90000 10003",
+    "channels": "Email; Phone",
+    "preferred_channel": "Email",
+    "gstin": "09AABFO7788Q1Z3",
+    "status": "Approved",
+    "added_on": "2020-01-10",
+    "found_via": "Existing supplier",
+    "warning": "",
+    "updated_at": "2020-01-10T10:00:00+05:30"
+   },
+   {
+    "supplier_id": "D",
+    "name": "Rajdhani Carton Co.",
+    "category": "Corrugated boxes",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "contact_person": "Imran Qureshi",
+    "phone": "+91 90000 10004",
+    "email": "",
+    "whatsapp": "+91 90000 10004",
+    "channels": "WhatsApp; Phone; SMS",
+    "preferred_channel": "WhatsApp",
+    "gstin": "09AAJFR4410H1Z1",
+    "status": "Approved",
+    "added_on": "2021-03-22",
+    "found_via": "Existing supplier",
+    "warning": "",
+    "updated_at": "2021-03-22T10:00:00+05:30"
+   },
+   {
+    "supplier_id": "E",
+    "name": "Mahalaxmi Box Makers",
+    "category": "Corrugated boxes",
+    "city": "Haridwar (SIDCUL)",
+    "state": "Uttarakhand",
+    "contact_person": "Suresh Bansal",
+    "phone": "+91 90000 10005",
+    "email": "",
+    "whatsapp": "+91 90000 10005",
+    "channels": "WhatsApp; Phone",
+    "preferred_channel": "WhatsApp",
+    "gstin": "05AAHFM2290L1Z7",
+    "status": "Approved",
+    "added_on": "2018-11-05",
+    "found_via": "Existing supplier",
+    "warning": "",
+    "updated_at": "2018-11-05T10:00:00+05:30"
+   },
+   {
+    "supplier_id": "F",
+    "name": "Doon Corrupack",
+    "category": "Corrugated boxes",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "contact_person": "Ankit Thapa",
+    "phone": "+91 90000 10006",
+    "email": "ankit@dooncorrupack.example",
+    "whatsapp": "+91 90000 10006",
+    "channels": "Email; WhatsApp; Phone",
+    "preferred_channel": "Email",
+    "gstin": "05AACFD6612N1Z4",
+    "status": "Approved",
+    "added_on": "2017-06-01",
+    "found_via": "Existing supplier",
+    "warning": "Current box contract holder, ends 31 Mar 2027",
+    "updated_at": "2017-06-01T10:00:00+05:30"
+   },
+   {
+    "supplier_id": "G",
+    "name": "Unity Box House",
+    "category": "Corrugated boxes",
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "contact_person": "Rakesh Tyagi",
+    "phone": "+91 90000 10007",
+    "email": "rakesh@unitybox.example",
+    "whatsapp": "",
+    "channels": "Email",
+    "preferred_channel": "Email",
+    "gstin": "09AADFU3301P1Z9",
+    "status": "Blocked",
+    "added_on": "2020-09-14",
+    "found_via": "Existing supplier",
+    "warning": "Blocked since Mar 2026: two deliveries failed the box-strength test",
+    "updated_at": "2020-09-14T10:00:00+05:30"
+   },
+   {
+    "supplier_id": "H",
+    "name": "Sai Om Corrugation LLP",
+    "category": "Corrugated boxes",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "contact_person": "Pooja Gupta",
+    "phone": "+91 90000 10008",
+    "email": "pooja@saiomcorr.example",
+    "whatsapp": "+91 90000 10008",
+    "channels": "Email; WhatsApp",
+    "preferred_channel": "Email",
+    "gstin": "09AAGFS5512R1Z2",
+    "status": "Approved",
+    "added_on": "2024-02-02",
+    "found_via": "Referral",
+    "warning": "Same directors and address as Om Sai Packaging Industries (C)",
+    "updated_at": "2024-02-02T10:00:00+05:30"
+   },
+   {
+    "supplier_id": "I",
+    "name": "Kraftline Solutions",
+    "category": "Corrugated boxes",
+    "city": "Kashipur",
+    "state": "Uttarakhand",
+    "contact_person": "Ravi Joshi",
+    "phone": "+91 90000 10009",
+    "email": "ravi@kraftline.example",
+    "whatsapp": "+91 90000 10009",
+    "channels": "Email; WhatsApp; Phone",
+    "preferred_channel": "Email",
+    "gstin": "05AAJFK9876K1Z2",
+    "status": "New",
+    "added_on": "2026-11-15",
+    "found_via": "IndiaMART",
+    "warning": "New supplier: no history with us; PAN and ISO papers missing",
+    "updated_at": "2026-11-15T10:00:00+05:30"
+   },
+   {
+    "supplier_id": "S1",
+    "name": "Sunrise Tapes",
+    "category": "Packaging consumables",
+    "city": "Haridwar",
+    "state": "Uttarakhand",
+    "contact_person": "Nitin Saini",
+    "phone": "+91 90000 10010",
+    "email": "nitin@sunrisetapes.example",
+    "whatsapp": "+91 90000 10010",
+    "channels": "Email; WhatsApp",
+    "preferred_channel": "Email",
+    "gstin": "05AAKFS1188T1Z6",
+    "status": "Approved",
+    "added_on": "2021-05-01",
+    "found_via": "Existing supplier",
+    "warning": "",
+    "updated_at": "2021-05-01T10:00:00+05:30"
+   },
+   {
+    "supplier_id": "S2",
+    "name": "Annapurna Caterers",
+    "category": "Canteen services",
+    "city": "Haridwar",
+    "state": "Uttarakhand",
+    "contact_person": "Geeta Rawat",
+    "phone": "+91 90000 10011",
+    "email": "geeta@annapurna.example",
+    "whatsapp": "+91 90000 10011",
+    "channels": "Phone; WhatsApp; SMS",
+    "preferred_channel": "Phone",
+    "gstin": "05AAPFA7701C1Z3",
+    "status": "Approved",
+    "added_on": "2023-03-01",
+    "found_via": "Existing supplier",
+    "warning": "",
+    "updated_at": "2023-03-01T10:00:00+05:30"
+   }
+  ],
+  "team_request_checks": [
+   {
+    "request_id": "REQ-0151",
+    "tone": "info",
+    "title": "Same box is already being sourced",
+    "body": "Box C19 is part of the Corrugated shipper boxes FY27 event, now at the Check stage. You could add 2,000 to that quantity instead of starting a new event."
+   },
+   {
+    "request_id": "REQ-0151",
+    "tone": "warn",
+    "title": "Urgent: 13 days",
+    "body": "Too short for a full round of quotes. Suggest buying from the current contract supplier (Doon Corrupack, valid until 31 Mar 2027) at the agreed price."
+   },
+   {
+    "request_id": "REQ-0150",
+    "tone": "warn",
+    "title": "3 details missing",
+    "body": "The AI has drafted 3 simple questions for Meera: which type of chair, needed by when, and the approved budget."
+   },
+   {
+    "request_id": "REQ-0150",
+    "tone": "ok",
+    "title": "No existing contract",
+    "body": "There's no current price agreement for office chairs, so a new sourcing event is needed."
+   },
+   {
+    "request_id": "REQ-0147",
+    "tone": "info",
+    "title": "Haridwar is buying the same boxes",
+    "body": "14 of the 18 sizes are already in the Haridwar boxes event. Combining both plants could get a better price on the larger volume."
+   },
+   {
+    "request_id": "REQ-0142",
+    "tone": "ok",
+    "title": "Current contract ends 31 Mar 2027",
+    "body": "The existing box contract RC-FY26-BOX-01 with Doon Corrupack ends in March, so a new sourcing event is needed."
+   },
+   {
+    "request_id": "REQ-0142",
+    "tone": "ok",
+    "title": "Converted to a sourcing event",
+    "body": "Converted on 2 Nov to RFQ-2026-014."
+   },
+   {
+    "request_id": "REQ-0139",
+    "tone": "ok",
+    "title": "Converted to a sourcing event",
+    "body": "Converted on 12 Nov to RFQ-2026-016."
+   },
+   {
+    "request_id": "REQ-0135",
+    "tone": "ok",
+    "title": "Already covered by a contract",
+    "body": "You have a price agreement with Sunrise Tapes (RC-FY26-TAPE-02) until 15 Feb 2027. A purchase order was raised against it. No new quotes needed."
+   }
+  ],
+  "team_request_fields": [
+   {
+    "request_id": "REQ-0151",
+    "label": "What",
+    "value": "5-ply box, 600×400×400 mm (our code C19, ships Ghee-based rasayana 500 g × 24)",
+    "info": "Matched to box C19 in your item list using size and ply.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0151",
+    "label": "Quantity",
+    "value": "2,000 boxes",
+    "info": "Taken from the message.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0151",
+    "label": "Needed by",
+    "value": "30 Nov 2026 (13 days)",
+    "info": "‘By month end’ read as 30 Nov.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0151",
+    "label": "Delivery to",
+    "value": "Haridwar plant",
+    "info": "From the requester's plant.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0151",
+    "label": "Estimated value",
+    "value": "₹1.3 L",
+    "info": "2,000 × last price paid for C19.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0150",
+    "label": "What",
+    "value": "Office chairs",
+    "info": "Taken from the message.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0150",
+    "label": "Quantity",
+    "value": "About 60",
+    "info": "‘Around 60’. The AI will confirm the exact number.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0150",
+    "label": "Type / spec",
+    "value": "Not given",
+    "info": "Needed so suppliers quote the same thing: ergonomic or basic, with or without arms, mesh or fabric.",
+    "missing": "yes"
+   },
+   {
+    "request_id": "REQ-0150",
+    "label": "Needed by",
+    "value": "Not given",
+    "info": "Needed to set the quote deadline and delivery date.",
+    "missing": "yes"
+   },
+   {
+    "request_id": "REQ-0150",
+    "label": "Budget",
+    "value": "Approved, amount not given",
+    "info": "Helps judge whether quotes are reasonable.",
+    "missing": "yes"
+   },
+   {
+    "request_id": "REQ-0147",
+    "label": "What",
+    "value": "Corrugated boxes, 18 sizes",
+    "info": "From the attached list (REQ-0147_Baddi_box_list.xlsx).",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0147",
+    "label": "Quantity",
+    "value": "About 4 lakh boxes a year",
+    "info": "Taken from the message.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0147",
+    "label": "Contract",
+    "value": "Yearly price agreement",
+    "info": "‘Annual requirement’ read as a yearly contract.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0147",
+    "label": "Delivery to",
+    "value": "Baddi plant",
+    "info": "From the requester's plant.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0142",
+    "label": "What",
+    "value": "Corrugated shipper boxes, same 30 sizes as FY26",
+    "info": "Matched to last year's item list.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0142",
+    "label": "Quantity",
+    "value": "10 lakh boxes a year (last year + 10%)",
+    "info": "Last year's quantities increased by 10%.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0142",
+    "label": "Contract",
+    "value": "Yearly price agreement",
+    "info": "‘Annual contract’ in the message.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0142",
+    "label": "Prices needed by",
+    "value": "15 Dec 2026",
+    "info": "Taken from the message.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0139",
+    "label": "What",
+    "value": "Laptops with monitors, as per spec",
+    "info": "From the form.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0139",
+    "label": "Quantity",
+    "value": "120 sets",
+    "info": "Taken from the message.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0139",
+    "label": "Needed by",
+    "value": "15 Jan 2027",
+    "info": "‘By January’ read as mid-January.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0135",
+    "label": "What",
+    "value": "BOPP tape, 48 mm",
+    "info": "Taken from the message.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0135",
+    "label": "Quantity",
+    "value": "6,000 rolls",
+    "info": "Taken from the message.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0152",
+    "label": "What",
+    "value": "5-ply corrugated boxes, 600 x 400 x 400 mm",
+    "info": "Taken from the message.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0152",
+    "label": "Quantity",
+    "value": "2,000 boxes",
+    "info": "Taken from the message.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0152",
+    "label": "Contract",
+    "value": "Not given",
+    "info": "Not mentioned in the message or item master.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0152",
+    "label": "Needed by",
+    "value": "30 Nov",
+    "info": "Taken from the message.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0152",
+    "label": "Delivery to",
+    "value": "Haridwar plant",
+    "info": "Taken from the message.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0152",
+    "label": "Budget",
+    "value": "Not given",
+    "info": "Not mentioned in the message.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0152",
+    "label": "Type / spec",
+    "value": "5-ply corrugated, board 980 GSM, same spec as item C19 (1.595 kg per box); used for ghee-based rasayana 500 g x 24",
+    "info": "Message says same board spec as current C19 box; spec taken from item master code C19.",
+    "missing": ""
+   },
+   {
+    "request_id": "REQ-0152",
+    "label": "Price basis",
+    "value": "Price per box before GST",
+    "info": "Taken from the message.",
+    "missing": ""
+   }
+  ],
+  "team_requests": [
+   {
+    "request_id": "REQ-0152",
+    "title": "5-ply corrugated boxes, Haridwar, by 30 Nov",
+    "from_person": "Rishabh",
+    "via": "Chat",
+    "received": "18 Nov, 11:06",
+    "status": "converted",
+    "event_id": "RFQ-2026-017",
+    "est_value_inr": "",
+    "message_file": "files/requests/REQ-0152_message.txt",
+    "message": "Get quotes for 2,000 five-ply boxes, 600 x 400 x 400 mm, delivered to Haridwar by 30 Nov. Same board spec as our current C19 box. Price per box before GST.",
+    "translation": "",
+    "updated_at": "2026-11-18T11:06:38+05:30",
+    "plant": "Haridwar"
+   },
+   {
+    "request_id": "REQ-0151",
+    "title": "Extra 5-ply boxes for the new Chyawanprash line",
+    "from_person": "Sandeep Rawat",
+    "via": "WhatsApp",
+    "received": "17 Nov, 9:20 am",
+    "status": "new",
+    "event_id": "",
+    "est_value_inr": 130000,
+    "message_file": "files/requests/REQ-0151_whatsapp.txt",
+    "message": "Need 2,000 extra 5-ply boxes 600×400×400 for the new line by month end. Urgent.",
+    "translation": "",
+    "updated_at": "2026-11-17T09:20:00+05:30",
+    "plant": ""
+   },
+   {
+    "request_id": "REQ-0150",
+    "title": "Office chairs for the new floor",
+    "from_person": "Meera Iyer",
+    "via": "Email",
+    "received": "16 Nov, 5:42 pm",
+    "status": "needs_info",
+    "event_id": "",
+    "est_value_inr": "",
+    "message_file": "files/requests/REQ-0150_email.txt",
+    "message": "Hi Rishabh, we need office chairs for the new floor, around 60 nos. Budget approved. Please arrange. Thanks, Meera",
+    "translation": "",
+    "updated_at": "2026-11-16T17:42:00+05:30",
+    "plant": ""
+   },
+   {
+    "request_id": "REQ-0147",
+    "title": "Corrugated boxes FY27, Baddi plant",
+    "from_person": "Vikram Negi",
+    "via": "Form",
+    "received": "14 Nov",
+    "status": "new",
+    "event_id": "",
+    "est_value_inr": 13000000,
+    "message_file": "files/requests/REQ-0147_form.json",
+    "message": "Annual requirement of corrugated boxes for Baddi plant, FY27. 18 sizes, list attached. Approx 4 lakh boxes.",
+    "translation": "",
+    "updated_at": "2026-11-14T11:00:00+05:30",
+    "plant": ""
+   },
+   {
+    "request_id": "REQ-0142",
+    "title": "Corrugated shipper boxes FY27, Haridwar plant",
+    "from_person": "Sandeep Rawat",
+    "via": "WhatsApp",
+    "received": "2 Nov",
+    "status": "converted",
+    "event_id": "RFQ-2026-014",
+    "est_value_inr": "",
+    "message_file": "files/requests/REQ-0142_whatsapp.txt",
+    "message": "Rishabh ji, FY27 boxes ka annual contract banana hai. Same 30 sizes as this year, volume roughly 10% more because of the new line. Need rates finalised before Dec 15. Drawings same as last year. — Sandeep",
+    "translation": "We need next year's box contract. Same 30 sizes, about 10% more volume, prices fixed before 15 Dec.",
+    "updated_at": "2026-11-02T09:31:00+05:30",
+    "plant": ""
+   },
+   {
+    "request_id": "REQ-0139",
+    "title": "Laptops & monitors for the sales team",
+    "from_person": "Arjun Mehta",
+    "via": "Form",
+    "received": "12 Nov",
+    "status": "converted",
+    "event_id": "RFQ-2026-016",
+    "est_value_inr": 9800000,
+    "message_file": "files/requests/REQ-0139_form.json",
+    "message": "Refresh of 120 laptops + monitors for the sales team. Needed by January. Spec: i5/Ryzen 5, 16 GB RAM, 512 GB SSD, 14 inch; 24 inch FHD monitor.",
+    "translation": "",
+    "updated_at": "2026-11-12T15:00:00+05:30",
+    "plant": ""
+   },
+   {
+    "request_id": "REQ-0135",
+    "title": "BOPP tape 48 mm for Q4 dispatches",
+    "from_person": "Sandeep Rawat",
+    "via": "Email",
+    "received": "8 Nov",
+    "status": "covered",
+    "event_id": "",
+    "est_value_inr": 360000,
+    "message_file": "files/requests/REQ-0135_email.txt",
+    "message": "Need BOPP tapes 48mm for Q4, around 6,000 rolls.",
+    "translation": "",
+    "updated_at": "2026-11-08T12:00:00+05:30",
+    "plant": ""
+   }
+  ]
+ },
+ "answerKey": {
+  "quality_answers": [
+   {
+    "supplier_id": "A",
+    "question_id": "Q1",
+    "answer": "Yes (certificate name doesn't match)"
+   },
+   {
+    "supplier_id": "A",
+    "question_id": "Q2",
+    "answer": "Yes, report attached"
+   },
+   {
+    "supplier_id": "A",
+    "question_id": "Q3",
+    "answer": "70%"
+   },
+   {
+    "supplier_id": "A",
+    "question_id": "Q4",
+    "answer": "Yes"
+   },
+   {
+    "supplier_id": "A",
+    "question_id": "Q5",
+    "answer": "1.5 lakh"
+   },
+   {
+    "supplier_id": "B",
+    "question_id": "Q1",
+    "answer": "Yes, valid to 2028"
+   },
+   {
+    "supplier_id": "B",
+    "question_id": "Q2",
+    "answer": "Yes, report attached"
+   },
+   {
+    "supplier_id": "B",
+    "question_id": "Q3",
+    "answer": "65%"
+   },
+   {
+    "supplier_id": "B",
+    "question_id": "Q4",
+    "answer": "Yes"
+   },
+   {
+    "supplier_id": "B",
+    "question_id": "Q5",
+    "answer": "3 lakh"
+   },
+   {
+    "supplier_id": "C",
+    "question_id": "Q1",
+    "answer": "Says yes, no certificate attached"
+   },
+   {
+    "supplier_id": "C",
+    "question_id": "Q2",
+    "answer": "Yes, report attached"
+   },
+   {
+    "supplier_id": "C",
+    "question_id": "Q3",
+    "answer": "60%"
+   },
+   {
+    "supplier_id": "C",
+    "question_id": "Q4",
+    "answer": "Yes"
+   },
+   {
+    "supplier_id": "C",
+    "question_id": "Q5",
+    "answer": "1.2 lakh"
+   },
+   {
+    "supplier_id": "D",
+    "question_id": "Q1",
+    "answer": "Certificate expired 14 Aug 2026"
+   },
+   {
+    "supplier_id": "D",
+    "question_id": "Q2",
+    "answer": "410 kg, fails our 500 kg spec"
+   },
+   {
+    "supplier_id": "D",
+    "question_id": "Q3",
+    "answer": "60%"
+   },
+   {
+    "supplier_id": "D",
+    "question_id": "Q4",
+    "answer": "Yes"
+   },
+   {
+    "supplier_id": "D",
+    "question_id": "Q5",
+    "answer": "1 lakh"
+   },
+   {
+    "supplier_id": "E",
+    "question_id": "Q1",
+    "answer": "Not answered"
+   },
+   {
+    "supplier_id": "E",
+    "question_id": "Q2",
+    "answer": "Not answered"
+   },
+   {
+    "supplier_id": "E",
+    "question_id": "Q3",
+    "answer": "Not answered"
+   },
+   {
+    "supplier_id": "E",
+    "question_id": "Q4",
+    "answer": "Yes (said on the call)"
+   },
+   {
+    "supplier_id": "E",
+    "question_id": "Q5",
+    "answer": "Not answered"
+   }
+  ],
+  "quote_terms": [
+   {
+    "supplier_id": "A",
+    "currency": "INR",
+    "price_unit": "per 100 boxes",
+    "gst": "Extra",
+    "freight": "Included",
+    "payment_days": 60,
+    "lead_time_weeks": 3,
+    "valid_until": "2027-01-31",
+    "discount": "",
+    "minimum_order": "5,000 per size",
+    "file_format": "Excel, own layout"
+   },
+   {
+    "supplier_id": "B",
+    "currency": "USD",
+    "price_unit": "per box",
+    "gst": "Included (18%)",
+    "freight": "Included",
+    "payment_days": 45,
+    "lead_time_weeks": 2,
+    "valid_until": "2026-11-24",
+    "discount": "2% on all items (footnote, page 3)",
+    "minimum_order": "",
+    "file_format": "PDF on letterhead, 3 pages"
+   },
+   {
+    "supplier_id": "C",
+    "currency": "INR",
+    "price_unit": "per box",
+    "gst": "Extra",
+    "freight": "Included",
+    "payment_days": 90,
+    "lead_time_weeks": 6,
+    "valid_until": "2026-12-31",
+    "discount": "5% only if all 30 items are awarded",
+    "minimum_order": "",
+    "file_format": "Word letter, prices in paragraphs"
+   },
+   {
+    "supplier_id": "D",
+    "currency": "INR",
+    "price_unit": "per box",
+    "gst": "Extra",
+    "freight": "Included",
+    "payment_days": 30,
+    "lead_time_weeks": 3,
+    "valid_until": "",
+    "discount": "",
+    "minimum_order": "",
+    "file_format": "Photo of printed rate card with pen corrections"
+   },
+   {
+    "supplier_id": "E",
+    "currency": "INR",
+    "price_unit": "per kg",
+    "gst": "Not stated",
+    "freight": "Extra",
+    "payment_days": 60,
+    "lead_time_weeks": 2,
+    "valid_until": "",
+    "discount": "",
+    "minimum_order": "",
+    "file_format": "One-line WhatsApp + phone call"
+   }
+  ],
+  "quotes": [
+   {
+    "supplier_id": "A",
+    "item_code": "C01",
+    "quoted_as": "₹452 per 100 pcs",
+    "quoted_value": 452,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 4.52,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C01",
+    "quoted_as": "USD 0.06 incl. GST",
+    "quoted_value": 0.06,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 4.2,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C01",
+    "quoted_as": "Rs. 4.26/- per box",
+    "quoted_value": 4.26,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 4.26,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C01",
+    "quoted_as": 4.25,
+    "quoted_value": 4.25,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 4.25,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C01",
+    "quoted_as": "₹38/kg for the 3-ply, freight extra",
+    "quoted_value": 38,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 4.07,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C02",
+    "quoted_as": "₹742 per 100 pcs",
+    "quoted_value": 742,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 7.42,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C02",
+    "quoted_as": "USD 0.114 incl. GST",
+    "quoted_value": 0.114,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 7.97,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C02",
+    "quoted_as": "Rs. 8.11/- per box",
+    "quoted_value": 8.11,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 8.11,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C02",
+    "quoted_as": 6.98,
+    "quoted_value": 6.98,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 6.98,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C02",
+    "quoted_as": "₹38/kg for the 3-ply, freight extra",
+    "quoted_value": 38,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 7.23,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C03",
+    "quoted_as": "₹883 per 100 pcs",
+    "quoted_value": 883,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 8.83,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C03",
+    "quoted_as": "USD 0.117 incl. GST",
+    "quoted_value": 0.117,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 8.18,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C03",
+    "quoted_as": "Rs. 8.3/- per box",
+    "quoted_value": 8.3,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 8.3,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C03",
+    "quoted_as": 8.29,
+    "quoted_value": 8.29,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 8.29,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C03",
+    "quoted_as": "₹38/kg for the 3-ply, freight extra",
+    "quoted_value": 38,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 8.02,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C04",
+    "quoted_as": "₹1147 per 100 pcs",
+    "quoted_value": 1147,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 11.47,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C04",
+    "quoted_as": "USD 0.177 incl. GST",
+    "quoted_value": 0.177,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 12.38,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C04",
+    "quoted_as": "Rs. 12.56/- per box",
+    "quoted_value": 12.56,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 12.56,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C04",
+    "quoted_as": 10.8,
+    "quoted_value": 10.8,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 10.8,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C04",
+    "quoted_as": "₹38/kg for the 3-ply, freight extra",
+    "quoted_value": 38,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 11.3,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C05",
+    "quoted_as": "₹1340 per 100 pcs",
+    "quoted_value": 1340,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 13.4,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C05",
+    "quoted_as": "USD 0.178 incl. GST",
+    "quoted_value": 0.178,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 12.45,
+    "expected_status": "red",
+    "trap": "Page 1 and page 3 show different prices for this box"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C05",
+    "quoted_as": "Rs. 12.59/- per box",
+    "quoted_value": 12.59,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 12.59,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C05",
+    "quoted_as": 12.59,
+    "quoted_value": 12.59,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 12.59,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C05",
+    "quoted_as": "₹38/kg for the 3-ply, freight extra",
+    "quoted_value": 38,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 12.29,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C06",
+    "quoted_as": "₹1632 per 100 pcs",
+    "quoted_value": 1632,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 16.32,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C06",
+    "quoted_as": "USD 0.252 incl. GST",
+    "quoted_value": 0.252,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 17.62,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C06",
+    "quoted_as": "Rs. 17.87/- per box",
+    "quoted_value": 17.87,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 17.87,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C06",
+    "quoted_as": 15.36,
+    "quoted_value": 15.36,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 15.36,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C06",
+    "quoted_as": "₹38/kg for the 3-ply, freight extra",
+    "quoted_value": 38,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 16.24,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C07",
+    "quoted_as": "₹1715 per 100 pcs",
+    "quoted_value": 1715,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 17.15,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C07",
+    "quoted_as": "USD 0.228 incl. GST",
+    "quoted_value": 0.228,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 15.94,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C07",
+    "quoted_as": "Rs. 16.09/- per box",
+    "quoted_value": 16.09,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 16.09,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C07",
+    "quoted_as": 16.11,
+    "quoted_value": 16.11,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 16.11,
+    "expected_status": "amber",
+    "trap": "Blurry digit in the photo → mark unsure, show the crop"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C07",
+    "quoted_as": "₹38/kg for the 3-ply, freight extra",
+    "quoted_value": 38,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 15.89,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C08",
+    "quoted_as": "₹1893 per 100 pcs",
+    "quoted_value": 1893,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 18.93,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C08",
+    "quoted_as": "USD 0.292 incl. GST",
+    "quoted_value": 0.292,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 20.42,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C08",
+    "quoted_as": "Rs. 20.75/- per box",
+    "quoted_value": 20.75,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 20.75,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C08",
+    "quoted_as": 17.83,
+    "quoted_value": 17.83,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 17.83,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C08",
+    "quoted_as": "₹38/kg for the 3-ply, freight extra",
+    "quoted_value": 38,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 19.05,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C09",
+    "quoted_as": "₹1997 per 100 pcs",
+    "quoted_value": 1997,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 19.97,
+    "expected_status": "amber",
+    "trap": "Supplier code SG-3P-4530 is an unsure match to C09"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C09",
+    "quoted_as": "USD 0.265 incl. GST",
+    "quoted_value": 0.265,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 18.53,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C09",
+    "quoted_as": "Rs. 21.79/- per box",
+    "quoted_value": 21.79,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 21.79,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C09",
+    "quoted_as": 18.78,
+    "quoted_value": 18.78,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 18.78,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C09",
+    "quoted_as": "₹38/kg for the 3-ply, freight extra",
+    "quoted_value": 38,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 18.69,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C10",
+    "quoted_as": "₹2689 per 100 pcs",
+    "quoted_value": 2689,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 26.89,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C10",
+    "quoted_as": "USD 0.358 incl. GST",
+    "quoted_value": 0.358,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 25.03,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C10",
+    "quoted_as": "Rs. 25.36/- per box",
+    "quoted_value": 25.36,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 25.36,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C10",
+    "quoted_as": 21.78,
+    "quoted_value": 21.78,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 21.78,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C10",
+    "quoted_as": "₹38/kg for the 3-ply, freight extra",
+    "quoted_value": 38,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 23.51,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C11",
+    "quoted_as": "₹2295 per 100 pcs",
+    "quoted_value": 2295,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 22.95,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C11",
+    "quoted_as": "USD 0.304 incl. GST",
+    "quoted_value": 0.304,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 21.26,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C11",
+    "quoted_as": "Rs. 25.05/- per box",
+    "quoted_value": 25.05,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 25.05,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C11",
+    "quoted_as": 21.58,
+    "quoted_value": 21.58,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 21.58,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C11",
+    "quoted_as": "₹38/kg for the 3-ply, freight extra",
+    "quoted_value": 38,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 21.7,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C12",
+    "quoted_as": "₹3219 per 100 pcs",
+    "quoted_value": 3219,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 32.19,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C12",
+    "quoted_as": "USD 0.428 incl. GST",
+    "quoted_value": 0.428,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 29.93,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C12",
+    "quoted_as": "Rs. 30.33/- per box",
+    "quoted_value": 30.33,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 30.33,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C12",
+    "quoted_as": 26.05,
+    "quoted_value": 26.05,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 26.05,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C12",
+    "quoted_as": "Phone call: ₹31 per box incl. freight",
+    "quoted_value": 31,
+    "quoted_unit": "INR per box, delivered (spoken)",
+    "true_price_inr_per_box": 31,
+    "expected_status": "amber",
+    "trap": "Spoken on a call, not in writing"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C13",
+    "quoted_as": "₹3834 per 100 pcs",
+    "quoted_value": 3834,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 38.34,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C13",
+    "quoted_as": "USD 0.508 incl. GST",
+    "quoted_value": 0.508,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 35.52,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C13",
+    "quoted_as": "Rs. 41.87/- per box",
+    "quoted_value": 41.87,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 41.87,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C13",
+    "quoted_as": 36.06,
+    "quoted_value": 36.06,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 36.06,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C13",
+    "quoted_as": "₹42/kg for the 5-ply, freight extra",
+    "quoted_value": 42,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 36.87,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C14",
+    "quoted_as": "₹5460 per 100 pcs",
+    "quoted_value": 5460,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 54.6,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C14",
+    "quoted_as": "USD 0.726 incl. GST",
+    "quoted_value": 0.726,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 50.77,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C14",
+    "quoted_as": "Rs. 51.42/- per box",
+    "quoted_value": 51.42,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 51.42,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C14",
+    "quoted_as": 4.41,
+    "quoted_value": 4.41,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 44.14,
+    "expected_status": "amber",
+    "trap": "Written as a tenth of the real price (missing digit) → outlier flag"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C14",
+    "quoted_as": "₹42/kg for the 5-ply, freight extra",
+    "quoted_value": 42,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 49.01,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C15",
+    "quoted_as": "₹5660 per 100 pcs",
+    "quoted_value": 5660,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 56.6,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C15",
+    "quoted_as": "USD 0.75 incl. GST",
+    "quoted_value": 0.75,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 52.45,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C15",
+    "quoted_as": "Rs. 61.87/- per box",
+    "quoted_value": 61.87,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 61.87,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C15",
+    "quoted_as": 53.26,
+    "quoted_value": 53.26,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 53.26,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C15",
+    "quoted_as": "₹42/kg for the 5-ply, freight extra",
+    "quoted_value": 42,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 54.99,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C16",
+    "quoted_as": "₹6937 per 100 pcs",
+    "quoted_value": 6937,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 69.37,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C16",
+    "quoted_as": "USD 0.921 incl. GST",
+    "quoted_value": 0.921,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 64.4,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C16",
+    "quoted_as": "Rs. 65.27/- per box",
+    "quoted_value": 65.27,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 65.27,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C16",
+    "quoted_as": 65.13,
+    "quoted_value": 65.13,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 65.13,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C16",
+    "quoted_as": "₹42/kg for the 5-ply, freight extra",
+    "quoted_value": 42,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 62.86,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C17",
+    "quoted_as": "₹6750 per 100 pcs",
+    "quoted_value": 6750,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 67.5,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C17",
+    "quoted_as": "USD 1.039 incl. GST",
+    "quoted_value": 1.039,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 72.66,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C17",
+    "quoted_as": "Rs. 73.83/- per box",
+    "quoted_value": 73.83,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 73.83,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C17",
+    "quoted_as": 63.53,
+    "quoted_value": 63.53,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 63.53,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C17",
+    "quoted_as": "₹42/kg for the 5-ply, freight extra",
+    "quoted_value": 42,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 66.26,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C18",
+    "quoted_as": "₹6665 per 100 pcs",
+    "quoted_value": 6665,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 66.65,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C18",
+    "quoted_as": "USD 0.885 incl. GST",
+    "quoted_value": 0.885,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 61.89,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C18",
+    "quoted_as": "No 5-ply in this size, can give 7-ply at Rs. 73.94/-",
+    "quoted_value": 73.94,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": "",
+    "expected_status": "amber",
+    "trap": "Alternative item (7-ply) → not compared as the same box"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C18",
+    "quoted_as": 62.59,
+    "quoted_value": 62.59,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 62.59,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C18",
+    "quoted_as": "₹42/kg for the 5-ply, freight extra",
+    "quoted_value": 42,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 60.98,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C19",
+    "quoted_as": "₹7023 per 100 pcs",
+    "quoted_value": 7023,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 70.23,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C19",
+    "quoted_as": "USD 1.083 incl. GST",
+    "quoted_value": 1.083,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 75.73,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C19",
+    "quoted_as": "Rs. 76.87/- per box",
+    "quoted_value": 76.87,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 76.87,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C19",
+    "quoted_as": 66.12,
+    "quoted_value": 66.12,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 66.12,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C19",
+    "quoted_as": "₹42/kg for the 5-ply, freight extra",
+    "quoted_value": 42,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 69.67,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C20",
+    "quoted_as": "₹9318 per 100 pcs",
+    "quoted_value": 9318,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 93.18,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C20",
+    "quoted_as": "USD 1.237 incl. GST",
+    "quoted_value": 1.237,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 86.5,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C20",
+    "quoted_as": "Rs. 87.54/- per box",
+    "quoted_value": 87.54,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 87.54,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C20",
+    "quoted_as": 87.54,
+    "quoted_value": 87.54,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 87.54,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C20",
+    "quoted_as": "₹42/kg for the 5-ply, freight extra",
+    "quoted_value": 42,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 86.09,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C21",
+    "quoted_as": "₹8587 per 100 pcs",
+    "quoted_value": 8587,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 85.87,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C21",
+    "quoted_as": "USD 1.325 incl. GST",
+    "quoted_value": 1.325,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 92.66,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C21",
+    "quoted_as": "Rs. 94.06/- per box",
+    "quoted_value": 94.06,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 94.06,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C21",
+    "quoted_as": 80.87,
+    "quoted_value": 80.87,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 80.87,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C21",
+    "quoted_as": "₹42/kg for the 5-ply, freight extra",
+    "quoted_value": 42,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 86.09,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C22",
+    "quoted_as": "₹10056 per 100 pcs",
+    "quoted_value": 10056,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 100.56,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C22",
+    "quoted_as": "USD 1.334 incl. GST",
+    "quoted_value": 1.334,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 93.29,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C22",
+    "quoted_as": "Rs. 94.39/- per box",
+    "quoted_value": 94.39,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 94.39,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C22",
+    "quoted_as": 94.49,
+    "quoted_value": 94.49,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 94.49,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C22",
+    "quoted_as": "₹42/kg for the 5-ply, freight extra",
+    "quoted_value": 42,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 93.82,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C23",
+    "quoted_as": "₹10285 per 100 pcs",
+    "quoted_value": 10285,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 102.85,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C23",
+    "quoted_as": "USD 1.589 incl. GST",
+    "quoted_value": 1.589,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 111.12,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C23",
+    "quoted_as": "Rs. 112.74/- per box",
+    "quoted_value": 112.74,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 112.74,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C23",
+    "quoted_as": 96.89,
+    "quoted_value": 96.89,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 96.89,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C23",
+    "quoted_as": "₹42/kg for the 5-ply, freight extra",
+    "quoted_value": 42,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 104.22,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C24",
+    "quoted_as": "₹11513 per 100 pcs",
+    "quoted_value": 11513,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 115.13,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C24",
+    "quoted_as": "USD 1.527 incl. GST",
+    "quoted_value": 1.527,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 106.78,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C24",
+    "quoted_as": "Rs. 125.58/- per box",
+    "quoted_value": 125.58,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 125.58,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C24",
+    "quoted_as": 108.23,
+    "quoted_value": 108.23,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 108.23,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C24",
+    "quoted_as": "₹42/kg for the 5-ply, freight extra",
+    "quoted_value": 42,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 108.5,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C25",
+    "quoted_as": "₹15156 per 100 pcs",
+    "quoted_value": 15156,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 151.56,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C25",
+    "quoted_as": "USD 2.015 incl. GST",
+    "quoted_value": 2.015,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 140.91,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C25",
+    "quoted_as": "Rs. 142.95/- per box",
+    "quoted_value": 142.95,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 142.95,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C25",
+    "quoted_as": 122.81,
+    "quoted_value": 122.81,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 122.81,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C25",
+    "quoted_as": "₹42/kg for the 5-ply, freight extra",
+    "quoted_value": 42,
+    "quoted_unit": "INR per kg, ex-works",
+    "true_price_inr_per_box": 133.49,
+    "expected_status": "green",
+    "trap": "Per-kg price → × box weight; freight extra → +4% estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C26",
+    "quoted_as": "₹23459 per 100 pcs",
+    "quoted_value": 23459,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 234.59,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C26",
+    "quoted_as": "USD 3.11 incl. GST",
+    "quoted_value": 3.11,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 217.48,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C26",
+    "quoted_as": "Rs. 256.05/- per box",
+    "quoted_value": 256.05,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 256.05,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C26",
+    "quoted_as": 220.58,
+    "quoted_value": 220.58,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 220.58,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C26",
+    "quoted_as": "rest same as last year",
+    "quoted_value": "",
+    "quoted_unit": "Last year's price",
+    "true_price_inr_per_box": 241.65,
+    "expected_status": "green",
+    "trap": "Look up last year's price (PO-4471) + freight estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C27",
+    "quoted_as": "₹26888 per 100 pcs",
+    "quoted_value": 26888,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 268.88,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C27",
+    "quoted_as": "USD 3.574 incl. GST",
+    "quoted_value": 3.574,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 249.93,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C27",
+    "quoted_as": "Rs. 253.42/- per box",
+    "quoted_value": 253.42,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 253.42,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C27",
+    "quoted_as": 217.61,
+    "quoted_value": 217.61,
+    "quoted_unit": "INR per box (handwritten rate card)",
+    "true_price_inr_per_box": 217.61,
+    "expected_status": "green",
+    "trap": "Read from an angled photo"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C27",
+    "quoted_as": "rest same as last year",
+    "quoted_value": "",
+    "quoted_unit": "Last year's price",
+    "true_price_inr_per_box": 258.69,
+    "expected_status": "green",
+    "trap": "Look up last year's price (PO-4471) + freight estimate"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C28",
+    "quoted_as": "₹26496 per 100 pcs",
+    "quoted_value": 26496,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 264.96,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C28",
+    "quoted_as": "USD 3.511 incl. GST",
+    "quoted_value": 3.511,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 245.52,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C28",
+    "quoted_as": "Rs. 289.4/- per box",
+    "quoted_value": 289.4,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 289.4,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C28",
+    "quoted_as": "(not on rate card)",
+    "quoted_value": "",
+    "quoted_unit": "",
+    "true_price_inr_per_box": "",
+    "expected_status": "amber",
+    "trap": "Not quoted → show 'Not quoted', never zero"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C28",
+    "quoted_as": "rest same as last year",
+    "quoted_value": "",
+    "quoted_unit": "Last year's price",
+    "true_price_inr_per_box": "",
+    "expected_status": "red",
+    "trap": "No last-year record for this box → Missing, ask supplier"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C29",
+    "quoted_as": "₹37217 per 100 pcs",
+    "quoted_value": 37217,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 372.17,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C29",
+    "quoted_as": "USD 4.945 incl. GST",
+    "quoted_value": 4.945,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 345.8,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C29",
+    "quoted_as": "Rs. 350.49/- per box",
+    "quoted_value": 350.49,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 350.49,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C29",
+    "quoted_as": "(not on rate card)",
+    "quoted_value": "",
+    "quoted_unit": "",
+    "true_price_inr_per_box": "",
+    "expected_status": "amber",
+    "trap": "Not quoted → show 'Not quoted', never zero"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C29",
+    "quoted_as": "rest same as last year",
+    "quoted_value": "",
+    "quoted_unit": "Last year's price",
+    "true_price_inr_per_box": "",
+    "expected_status": "red",
+    "trap": "No last-year record for this box → Missing, ask supplier"
+   },
+   {
+    "supplier_id": "A",
+    "item_code": "C30",
+    "quoted_as": "₹43615 per 100 pcs",
+    "quoted_value": 43615,
+    "quoted_unit": "INR per 100 boxes, delivered, before GST",
+    "true_price_inr_per_box": 436.15,
+    "expected_status": "green",
+    "trap": "Per 100 pcs → ÷ 100; own product code"
+   },
+   {
+    "supplier_id": "B",
+    "item_code": "C30",
+    "quoted_as": "USD 5.777 incl. GST",
+    "quoted_value": 5.777,
+    "quoted_unit": "USD per box, delivered, incl. 18% GST, before 2% discount",
+    "true_price_inr_per_box": 403.98,
+    "expected_status": "green",
+    "trap": "USD → INR at 84.20; remove GST; apply 2% footnote discount"
+   },
+   {
+    "supplier_id": "C",
+    "item_code": "C30",
+    "quoted_as": "Rs. 476.7/- per box",
+    "quoted_value": 476.7,
+    "quoted_unit": "INR per box, delivered, before GST",
+    "true_price_inr_per_box": 476.7,
+    "expected_status": "green",
+    "trap": "Price inside a paragraph; 5% off only if all 30 items awarded"
+   },
+   {
+    "supplier_id": "D",
+    "item_code": "C30",
+    "quoted_as": "(not on rate card)",
+    "quoted_value": "",
+    "quoted_unit": "",
+    "true_price_inr_per_box": "",
+    "expected_status": "amber",
+    "trap": "Not quoted → show 'Not quoted', never zero"
+   },
+   {
+    "supplier_id": "E",
+    "item_code": "C30",
+    "quoted_as": "rest same as last year",
+    "quoted_value": "",
+    "quoted_unit": "Last year's price",
+    "true_price_inr_per_box": "",
+    "expected_status": "red",
+    "trap": "No last-year record for this box → Missing, ask supplier"
+   }
+  ]
+ },
+ "generatedAt": "2026-11-18T05:46:07.066Z"
+}

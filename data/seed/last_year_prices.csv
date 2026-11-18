@@ -1,0 +1,33 @@
+﻿supplier_id,item_code,price_per_box_inr,basis,contract_ref,valid_until
+F,C01,3.93,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C02,6.7,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C03,7.69,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C04,10.41,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C05,11.73,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C06,16.05,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C07,15.09,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C08,18.72,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C09,17.66,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C10,23.0,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C11,20.4,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C12,27.67,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C13,34.24,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C14,47.15,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C15,50.82,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C16,60.17,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C17,60.92,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C18,58.08,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C19,63.72,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C20,81.6,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C21,84.46,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C22,88.48,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C23,101.74,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C24,101.81,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C25,129.68,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C26,208.48,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C27,231.1,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C28,236.67,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C29,321.35,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+F,C30,391.58,"Delivered Haridwar, before GST",RC-FY26-BOX-01,2027-03-31
+E,C26,232.36,"Ex-works Haridwar, before GST",PO-4471 (spot order),2026-03-31
+E,C27,248.74,"Ex-works Haridwar, before GST",PO-4471 (spot order),2026-03-31

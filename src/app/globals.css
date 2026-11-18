@@ -1,26 +1,87 @@
 @import "tailwindcss";
 
+/* Tokens follow Aerchain's product UI: calm greys, one blue action colour,
+   orange only as a brand accent, purple reserved for the AI. Avenir. */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --brand-indigo: #26324b; /* headings */
+  --brand-purple: #2f80ed; /* primary action blue (Approve, links) */
+  --brand-navy: #1f2333; /* strong text */
+  --ai-purple: #5a35cf;
+  --ai-indigo: #373192;
+  --brand-deep: #201045;
+  --brand-orange: #f37a27;
+  --brand-coral: #f15f3d;
+  --brand-sky: #e4efff;
+  --brand-blue: #2d62ff;
+
+  --bg: #f5f7fa;
+  --surface: #ffffff;
+  --ink: #242526;
+  --muted: #6b6f80;
+  --line: #e4e7ec;
+  --tint: rgba(47, 128, 237, 0.08);
+
+  --ok: #11795a;
+  --ok-bg: #e5f5ee;
+  --warn: #a85a06;
+  --warn-bg: #fff3e2;
+  --bad: #c4302b;
+  --bad-bg: #fdeceb;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-indigo: var(--brand-indigo);
+  --color-purple: var(--brand-purple);
+  --color-navy: var(--brand-navy);
+  --color-deep: var(--brand-deep);
+  --color-orange: var(--brand-orange);
+  --color-coral: var(--brand-coral);
+  --color-sky: var(--brand-sky);
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-tint: var(--tint);
+  --color-ok: var(--ok);
+  --color-ok-bg: var(--ok-bg);
+  --color-warn: var(--warn);
+  --color-warn-bg: var(--warn-bg);
+  --color-bad: var(--bad);
+  --color-bad-bg: var(--bad-bg);
+  --font-sans: Avenir, "Avenir Next", "Nunito Sans", system-ui, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+html,
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.num {
+  font-variant-numeric: tabular-nums;
+}
+
+.brand-gradient {
+  background: linear-gradient(135deg, var(--ai-purple) 0%, var(--ai-indigo) 100%);
+}
+
+.hero-wash {
+  background: radial-gradient(900px 260px at 50% -30%, rgba(90, 53, 207, 0.1), transparent 70%),
+    linear-gradient(180deg, #ffffff 0%, var(--bg) 100%);
+}
+body {
+  font-size: 14px;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #cfd5e3;
+  border-radius: 8px;
+  border: 2px solid var(--bg);
 }

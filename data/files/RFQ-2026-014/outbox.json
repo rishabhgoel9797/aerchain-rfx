@@ -1,0 +1,290 @@
+{
+  "event": "RFQ-2026-014",
+  "note": "Sending is simulated in this demo.",
+  "messages": [
+    {
+      "id": "OUT-INV-A",
+      "to_supplier": "A",
+      "to": "Manoj Agarwal",
+      "channel": "Email",
+      "address": "manoj@shreeganesh.example",
+      "sent_at": "2026-11-03T10:00:00+05:30",
+      "kind": "Request for quotes",
+      "text": "Dear Manoj Agarwal, RSG Herbal House invites your quotation for our FY27 corrugated box contract (RFQ-2026-014). Request and box list attached. Reply in any format you like. Deadline: 12 Nov 2026, 6 pm.",
+      "status": "Delivered and opened"
+    },
+    {
+      "id": "OUT-INV-B",
+      "to_supplier": "B",
+      "to": "Rahul Bose",
+      "channel": "Email",
+      "address": "rahul.bose@pacificpack.example",
+      "sent_at": "2026-11-03T10:00:00+05:30",
+      "kind": "Request for quotes",
+      "text": "Dear Rahul Bose, RSG Herbal House invites your quotation for our FY27 corrugated box contract (RFQ-2026-014). Request and box list attached. Reply in any format you like. Deadline: 12 Nov 2026, 6 pm.",
+      "status": "Delivered and opened"
+    },
+    {
+      "id": "OUT-INV-C",
+      "to_supplier": "C",
+      "to": "Deepak Gupta",
+      "channel": "Email",
+      "address": "deepak@omsaipack.example",
+      "sent_at": "2026-11-03T10:00:00+05:30",
+      "kind": "Request for quotes",
+      "text": "Dear Deepak Gupta, RSG Herbal House invites your quotation for our FY27 corrugated box contract (RFQ-2026-014). Request and box list attached. Reply in any format you like. Deadline: 12 Nov 2026, 6 pm.",
+      "status": "Delivered and opened"
+    },
+    {
+      "id": "OUT-INV-D",
+      "to_supplier": "D",
+      "to": "Imran Qureshi",
+      "channel": "WhatsApp",
+      "address": "+91 90000 10004",
+      "sent_at": "2026-11-03T10:00:00+05:30",
+      "kind": "Request for quotes",
+      "text": "Namaste Imran ji, RSG Herbal House invites your quote for 30 corrugated box sizes (FY27, Haridwar). Details and box list: https://quotes.rsgherbal.example/r/014-d — reply here in any format. Deadline 12 Nov, 6 pm.",
+      "status": "Delivered and opened"
+    },
+    {
+      "id": "OUT-INV-E",
+      "to_supplier": "E",
+      "to": "Suresh Bansal",
+      "channel": "WhatsApp",
+      "address": "+91 90000 10005",
+      "sent_at": "2026-11-03T10:00:00+05:30",
+      "kind": "Request for quotes",
+      "text": "Namaste Suresh ji, RSG Herbal House invites your quote for 30 corrugated box sizes (FY27, Haridwar). Details and box list: https://quotes.rsgherbal.example/r/014-e — reply here in any format. Deadline 12 Nov, 6 pm.",
+      "status": "Delivered and opened"
+    },
+    {
+      "id": "OUT-INV-F",
+      "to_supplier": "F",
+      "to": "Ankit Thapa",
+      "channel": "Email",
+      "address": "ankit@dooncorrupack.example",
+      "sent_at": "2026-11-03T10:00:00+05:30",
+      "kind": "Request for quotes",
+      "text": "Dear Ankit Thapa, RSG Herbal House invites your quotation for our FY27 corrugated box contract (RFQ-2026-014). Request and box list attached. Reply in any format you like. Deadline: 12 Nov 2026, 6 pm.",
+      "status": "Delivered, auto-reply received"
+    },
+    {
+      "id": "OUT-REM1-F",
+      "to_supplier": "F",
+      "to": "Ankit Thapa",
+      "channel": "Email",
+      "address": "ankit@dooncorrupack.example",
+      "sent_at": "2026-11-05T09:30:00+05:30",
+      "kind": "Reminder",
+      "text": "Reminder 1: friendly reminder, quotes due 12 Nov.",
+      "status": "Auto-reply: out of office"
+    },
+    {
+      "id": "OUT-QA2-A",
+      "to_supplier": "A",
+      "to": "Manoj Agarwal",
+      "channel": "Email",
+      "address": "manoj@shreeganesh.example",
+      "sent_at": "2026-11-05T12:00:00+05:30",
+      "kind": "Answer shared with all",
+      "text": "Question from a supplier: \"Can we quote per kg?\" Answer: Yes. Box weights are listed in the request, so per-kg prices can be compared.",
+      "status": "Delivered",
+      "asked_by": [
+        "E"
+      ]
+    },
+    {
+      "id": "OUT-QA2-B",
+      "to_supplier": "B",
+      "to": "Rahul Bose",
+      "channel": "Email",
+      "address": "rahul.bose@pacificpack.example",
+      "sent_at": "2026-11-05T12:00:00+05:30",
+      "kind": "Answer shared with all",
+      "text": "Question from a supplier: \"Can we quote per kg?\" Answer: Yes. Box weights are listed in the request, so per-kg prices can be compared.",
+      "status": "Delivered",
+      "asked_by": [
+        "E"
+      ]
+    },
+    {
+      "id": "OUT-QA2-C",
+      "to_supplier": "C",
+      "to": "Deepak Gupta",
+      "channel": "Email",
+      "address": "deepak@omsaipack.example",
+      "sent_at": "2026-11-05T12:00:00+05:30",
+      "kind": "Answer shared with all",
+      "text": "Question from a supplier: \"Can we quote per kg?\" Answer: Yes. Box weights are listed in the request, so per-kg prices can be compared.",
+      "status": "Delivered",
+      "asked_by": [
+        "E"
+      ]
+    },
+    {
+      "id": "OUT-QA2-D",
+      "to_supplier": "D",
+      "to": "Imran Qureshi",
+      "channel": "WhatsApp",
+      "address": "+91 90000 10004",
+      "sent_at": "2026-11-05T12:00:00+05:30",
+      "kind": "Answer shared with all",
+      "text": "Question from a supplier: \"Can we quote per kg?\" Answer: Yes. Box weights are listed in the request, so per-kg prices can be compared.",
+      "status": "Delivered",
+      "asked_by": [
+        "E"
+      ]
+    },
+    {
+      "id": "OUT-QA2-E",
+      "to_supplier": "E",
+      "to": "Suresh Bansal",
+      "channel": "WhatsApp",
+      "address": "+91 90000 10005",
+      "sent_at": "2026-11-05T12:00:00+05:30",
+      "kind": "Answer shared with all",
+      "text": "Question from a supplier: \"Can we quote per kg?\" Answer: Yes. Box weights are listed in the request, so per-kg prices can be compared.",
+      "status": "Delivered",
+      "asked_by": [
+        "E"
+      ]
+    },
+    {
+      "id": "OUT-QA2-F",
+      "to_supplier": "F",
+      "to": "Ankit Thapa",
+      "channel": "Email",
+      "address": "ankit@dooncorrupack.example",
+      "sent_at": "2026-11-05T12:00:00+05:30",
+      "kind": "Answer shared with all",
+      "text": "Question from a supplier: \"Can we quote per kg?\" Answer: Yes. Box weights are listed in the request, so per-kg prices can be compared.",
+      "status": "Delivered",
+      "asked_by": [
+        "E"
+      ]
+    },
+    {
+      "id": "OUT-QA1-A",
+      "to_supplier": "A",
+      "to": "Manoj Agarwal",
+      "channel": "Email",
+      "address": "manoj@shreeganesh.example",
+      "sent_at": "2026-11-06T10:00:00+05:30",
+      "kind": "Answer shared with all",
+      "text": "Question from a supplier: \"Is 1-colour logo printing included?\" Answer: Yes, 1-colour flexo printing of our logo is included in the scope.",
+      "status": "Delivered",
+      "asked_by": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "id": "OUT-QA1-B",
+      "to_supplier": "B",
+      "to": "Rahul Bose",
+      "channel": "Email",
+      "address": "rahul.bose@pacificpack.example",
+      "sent_at": "2026-11-06T10:00:00+05:30",
+      "kind": "Answer shared with all",
+      "text": "Question from a supplier: \"Is 1-colour logo printing included?\" Answer: Yes, 1-colour flexo printing of our logo is included in the scope.",
+      "status": "Delivered",
+      "asked_by": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "id": "OUT-QA1-C",
+      "to_supplier": "C",
+      "to": "Deepak Gupta",
+      "channel": "Email",
+      "address": "deepak@omsaipack.example",
+      "sent_at": "2026-11-06T10:00:00+05:30",
+      "kind": "Answer shared with all",
+      "text": "Question from a supplier: \"Is 1-colour logo printing included?\" Answer: Yes, 1-colour flexo printing of our logo is included in the scope.",
+      "status": "Delivered",
+      "asked_by": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "id": "OUT-QA1-D",
+      "to_supplier": "D",
+      "to": "Imran Qureshi",
+      "channel": "WhatsApp",
+      "address": "+91 90000 10004",
+      "sent_at": "2026-11-06T10:00:00+05:30",
+      "kind": "Answer shared with all",
+      "text": "Question from a supplier: \"Is 1-colour logo printing included?\" Answer: Yes, 1-colour flexo printing of our logo is included in the scope.",
+      "status": "Delivered",
+      "asked_by": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "id": "OUT-QA1-E",
+      "to_supplier": "E",
+      "to": "Suresh Bansal",
+      "channel": "WhatsApp",
+      "address": "+91 90000 10005",
+      "sent_at": "2026-11-06T10:00:00+05:30",
+      "kind": "Answer shared with all",
+      "text": "Question from a supplier: \"Is 1-colour logo printing included?\" Answer: Yes, 1-colour flexo printing of our logo is included in the scope.",
+      "status": "Delivered",
+      "asked_by": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "id": "OUT-QA1-F",
+      "to_supplier": "F",
+      "to": "Ankit Thapa",
+      "channel": "Email",
+      "address": "ankit@dooncorrupack.example",
+      "sent_at": "2026-11-06T10:00:00+05:30",
+      "kind": "Answer shared with all",
+      "text": "Question from a supplier: \"Is 1-colour logo printing included?\" Answer: Yes, 1-colour flexo printing of our logo is included in the scope.",
+      "status": "Delivered",
+      "asked_by": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "id": "OUT-REM2-F",
+      "to_supplier": "F",
+      "to": "Ankit Thapa",
+      "channel": "WhatsApp",
+      "address": "+91 90000 10006",
+      "sent_at": "2026-11-08T09:30:00+05:30",
+      "kind": "Reminder",
+      "text": "Reminder 2 (switched to WhatsApp because email got an out-of-office): please share your quote by 12 Nov.",
+      "status": "Delivered, not read"
+    },
+    {
+      "id": "OUT-REM3-F",
+      "to_supplier": "F",
+      "to": "Ankit Thapa",
+      "channel": "WhatsApp",
+      "address": "+91 90000 10006",
+      "sent_at": "2026-11-11T09:30:00+05:30",
+      "kind": "Reminder",
+      "text": "Reminder 3: last day tomorrow. Shall we expect your quote?",
+      "status": "Delivered, not read"
+    },
+    {
+      "id": "OUT-CONF-E",
+      "to_supplier": "E",
+      "to": "Suresh Bansal",
+      "channel": "WhatsApp",
+      "address": "+91 90000 10005",
+      "sent_at": "2026-11-11T16:20:00+05:30",
+      "kind": "Written confirmation request",
+      "text": "Suresh ji, as discussed on the call, please confirm in writing: box C12 at Rs 31 per box including freight.",
+      "status": "Delivered, not replied"
+    }
+  ]
+}

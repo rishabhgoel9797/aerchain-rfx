@@ -1,0 +1,4 @@
+﻿approval_id,decision,event_id,yearly_value_inr,raised_by,waiting_on,waiting_detail,since,state,note,updated_at
+APR-221,Award: Printed mono cartons,RFQ-2026-011,11200000,Rishabh,Kavita Rao,"CFO, needed above ₹1 Cr",Waiting 3 days,pending,"Split between 2 printers, saves ₹8.6 L. Prices valid until 28 Nov.",2026-11-15T16:00:00+05:30
+APR-219,Award: Corrugated shipper boxes FY27,RFQ-2026-014,,Rishabh,,Not sent yet,Blocked,blocked,Blocked until all red items in the Check tab are fixed.,2026-11-14T11:00:00+05:30
+APR-214,Award: Food-grade ethanol for herbal extraction,RFQ-2026-006,4200000,Neha Sharma,Anil Deshpande,"Head of Procurement, approved",Done 10 Nov,approved,"Single supplier with FSSAI licence, saves ₹2.1 L.",2026-11-10T17:30:00+05:30

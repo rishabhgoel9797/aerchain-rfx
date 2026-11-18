@@ -1,0 +1,25 @@
+=====================================================================
+CASE 02 starts from a request that is ALREADY in Requests:
+REQ-0147 "Corrugated boxes FY27, Baddi plant" from Vikram Negi.
+Nothing to paste for the request itself. Open it from Requests.
+
+(If REQ-0147 is already converted, run  npm run reset-demo  first.
+ Or raise it fresh on Home: paste the message below and attach
+ Baddi_box_list.xlsx from this folder.)
+=====================================================================
+
+Annual requirement of corrugated boxes for Baddi plant, FY27. 18 sizes, list attached. Approx 4 lakh boxes.
+
+
+=====================================================================
+CO-PILOT · type these one by one in "Change the draft with AI"
+=====================================================================
+
+1. Reduce all quantities by 5%
+2. Ask suppliers for the printing cost per colour, per box
+3. Deliver to Baddi plant, unloading by the supplier
+4. Move the deadline to 2 Dec, 6 pm
+5. Make it cheaper
+   (vague on purpose: the AI should ask what you mean, and change nothing)
+
+Tip: don't remove any box sizes here. The six supplier replies quote all 18.

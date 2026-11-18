@@ -1,0 +1,9 @@
+﻿rule_id,rule,value,applies_to
+R1,Minimum suppliers to invite,3,All sourcing events
+R2,Head of Procurement approval needed above,INR 25 lakh per year,Awards
+R3,CFO approval also needed above,INR 1 crore per year,Awards
+R4,Late quotes,"Rejected, unless the deadline is extended for all suppliers",Collecting quotes
+R5,Standard payment terms,60 days from delivery,All suppliers
+R6,New suppliers,"GST, PAN and ISO papers plus approved samples before any award",Awards
+R7,Blocked suppliers,Cannot be invited,Choosing suppliers
+R8,Quality questions,Answers must be backed by a valid document,Quotes

@@ -1,0 +1,10 @@
+﻿request_id,tone,title,body
+REQ-0151,info,Same box is already being sourced,"Box C19 is part of the Corrugated shipper boxes FY27 event, now at the Check stage. You could add 2,000 to that quantity instead of starting a new event."
+REQ-0151,warn,Urgent: 13 days,"Too short for a full round of quotes. Suggest buying from the current contract supplier (Doon Corrupack, valid until 31 Mar 2027) at the agreed price."
+REQ-0150,warn,3 details missing,"The AI has drafted 3 simple questions for Meera: which type of chair, needed by when, and the approved budget."
+REQ-0150,ok,No existing contract,"There's no current price agreement for office chairs, so a new sourcing event is needed."
+REQ-0147,info,Haridwar is buying the same boxes,14 of the 18 sizes are already in the Haridwar boxes event. Combining both plants could get a better price on the larger volume.
+REQ-0142,ok,Current contract ends 31 Mar 2027,"The existing box contract RC-FY26-BOX-01 with Doon Corrupack ends in March, so a new sourcing event is needed."
+REQ-0142,ok,Converted to a sourcing event,Converted on 2 Nov to RFQ-2026-014.
+REQ-0139,ok,Converted to a sourcing event,Converted on 12 Nov to RFQ-2026-016.
+REQ-0135,ok,Already covered by a contract,You have a price agreement with Sunrise Tapes (RC-FY26-TAPE-02) until 15 Feb 2027. A purchase order was raised against it. No new quotes needed.

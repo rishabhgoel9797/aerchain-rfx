@@ -1,0 +1,2037 @@
+{
+ "event": "RFQ-2026-017",
+ "read_at": "2026-11-18T05:43:41.701Z",
+ "provider": "anthropic",
+ "model": "claude-haiku-5-5",
+ "suppliers": {
+  "A": {
+   "id": "A",
+   "name": "Shree Ganesh Corrugators",
+   "files": [
+    {
+     "path": "RFQ-2026-017/A/upload-20261118110906_email.txt",
+     "kind": "Text",
+     "segments": [
+      {
+       "loc": "Line 1",
+       "text": "From: Manoj Agarwal <manoj@shreeganesh.example>"
+      },
+      {
+       "loc": "Line 2",
+       "text": "To: Rishabh <rfq-2026-017@quotes.rsgherbal.example>"
+      },
+      {
+       "loc": "Line 3",
+       "text": "Date: 18 Nov 2026, 11:09"
+      },
+      {
+       "loc": "Line 4",
+       "text": "Subject: RE: Gift pack boxes - quotation SGC/2611/118"
+      },
+      {
+       "loc": "Line 5",
+       "text": "Dear Rishabh ji,"
+      },
+      {
+       "loc": "Line 6",
+       "text": "Please find attached our rates for the gift pack boxes in our standard format."
+      },
+      {
+       "loc": "Line 7",
+       "text": "Rates are ex-works Roorkee; GST 18% and freight extra."
+      },
+      {
+       "loc": "Line 8",
+       "text": "Valid till 31 Dec 2026."
+      },
+      {
+       "loc": "Line 9",
+       "text": "Regards,"
+      },
+      {
+       "loc": "Line 10",
+       "text": "Manoj Agarwal"
+      },
+      {
+       "loc": "Line 11",
+       "text": "Shree Ganesh Corrugators, Roorkee"
+      },
+      {
+       "loc": "Line 12",
+       "text": "Attachments: SGC_Quotation_GiftPack.xlsx"
+      }
+     ]
+    },
+    {
+     "path": "RFQ-2026-017/A/upload-20261118110906_SGC_Quotation_GiftPack.xlsx",
+     "kind": "Excel",
+     "segments": [
+      {
+       "loc": "Sheet \"SGC Rates\", row 1",
+       "text": "SHREE GANESH CORRUGATORS - QUOTATION SGC/2611/118"
+      },
+      {
+       "loc": "Sheet \"SGC Rates\", row 2",
+       "text": "For: RSG Herbal House, Haridwar   |   Date: 18-Nov-2026"
+      },
+      {
+       "loc": "Sheet \"SGC Rates\", row 4",
+       "text": "SGC Code | Description | Size | Ply | GSM | Rate (Rs per 100 pcs)"
+      },
+      {
+       "loc": "Sheet \"SGC Rates\", row 5",
+       "text": "SG-5P-5040 | Combo outer | 500x400x400 mm | 5 | 980 | 6290"
+      },
+      {
+       "loc": "Sheet \"SGC Rates\", row 6",
+       "text": "SG-3P-2518 | Trial kit | 250x180x120 mm | 3 | 650 | 540"
+      },
+      {
+       "loc": "Sheet \"SGC Rates\", row 7",
+       "text": "SG-5P-4030 | Gift pack outer | 40x30x30 cm | 5 | 980 | 3780"
+      },
+      {
+       "loc": "Sheet \"SGC Rates\", row 8",
+       "text": "SG-5P-4532 | Hamper | 450x320x220 mm | 5 | 980 | 3960"
+      },
+      {
+       "loc": "Sheet \"SGC Rates\", row 9",
+       "text": "SG-3P-3022 | Duo pack | 300x220x180 mm | 3 | 650 | 1015"
+      },
+      {
+       "loc": "Sheet \"SGC Rates\", row 10",
+       "text": "SG-5P-3525 | Twin pack | 350x250x150 mm | 5 | 980 | 2310"
+      },
+      {
+       "loc": "Sheet \"SGC Rates\", row 12",
+       "text": "Terms: Ex-works Roorkee. GST 18% extra. Freight extra at actuals. Payment 45 days. Validity 31-Dec-2026."
+      }
+     ]
+    }
+   ],
+   "ai": {
+    "prices": [
+     {
+      "loc": "upload-20261118110906_SGC_Quotation_GiftPack.xlsx · Sheet \"SGC Rates\", row 5",
+      "supplier_text": "SG-5P-5040 | Combo outer | 500x400x400 mm | 5 | 980 | 6290",
+      "supplier_item_ref": "SG-5P-5040 Combo outer 500x400x400 mm 5 ply",
+      "our_item_code": "L1",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 6290,
+      "unit": "per_100",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "extra",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Ply matches (5-ply) but length is 500 mm, not our 600 mm. Closest available size, not an exact match.",
+      "dims": [
+       500,
+       400,
+       400
+      ]
+     },
+     {
+      "loc": "upload-20261118110906_SGC_Quotation_GiftPack.xlsx · Sheet \"SGC Rates\", row 6",
+      "supplier_text": "SG-3P-2518 | Trial kit | 250x180x120 mm | 3 | 650 | 540",
+      "supplier_item_ref": "SG-3P-2518 Trial kit 250x180x120 mm 3 ply",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 540,
+      "unit": "per_100",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "extra",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Not one of our items (our only item is L1, 5-ply 600x400x400 mm).",
+      "dims": [
+       250,
+       180,
+       120
+      ]
+     },
+     {
+      "loc": "upload-20261118110906_SGC_Quotation_GiftPack.xlsx · Sheet \"SGC Rates\", row 7",
+      "supplier_text": "SG-5P-4030 | Gift pack outer | 40x30x30 cm | 5 | 980 | 3780",
+      "supplier_item_ref": "SG-5P-4030 Gift pack outer 40x30x30 cm 5 ply",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 3780,
+      "unit": "per_100",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "extra",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Not one of our items (40x30x30 cm is 400x300x300 mm, not our L1 600x400x400 mm).",
+      "dims": [
+       400,
+       300,
+       300
+      ]
+     },
+     {
+      "loc": "upload-20261118110906_SGC_Quotation_GiftPack.xlsx · Sheet \"SGC Rates\", row 8",
+      "supplier_text": "SG-5P-4532 | Hamper | 450x320x220 mm | 5 | 980 | 3960",
+      "supplier_item_ref": "SG-5P-4532 Hamper 450x320x220 mm 5 ply",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 3960,
+      "unit": "per_100",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "extra",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Not one of our items (our only item is L1, 5-ply 600x400x400 mm).",
+      "dims": [
+       450,
+       320,
+       220
+      ]
+     },
+     {
+      "loc": "upload-20261118110906_SGC_Quotation_GiftPack.xlsx · Sheet \"SGC Rates\", row 9",
+      "supplier_text": "SG-3P-3022 | Duo pack | 300x220x180 mm | 3 | 650 | 1015",
+      "supplier_item_ref": "SG-3P-3022 Duo pack 300x220x180 mm 3 ply",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 1015,
+      "unit": "per_100",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "extra",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Not one of our items (our only item is L1, 5-ply 600x400x400 mm).",
+      "dims": [
+       300,
+       220,
+       180
+      ]
+     },
+     {
+      "loc": "upload-20261118110906_SGC_Quotation_GiftPack.xlsx · Sheet \"SGC Rates\", row 10",
+      "supplier_text": "SG-5P-3525 | Twin pack | 350x250x150 mm | 5 | 980 | 2310",
+      "supplier_item_ref": "SG-5P-3525 Twin pack 350x250x150 mm 5 ply",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 2310,
+      "unit": "per_100",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "extra",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Not one of our items (our only item is L1, 5-ply 600x400x400 mm).",
+      "dims": [
+       350,
+       250,
+       150
+      ]
+     }
+    ],
+    "same_as_last_year": null,
+    "terms": {
+     "currency": "INR",
+     "gst": "excluded",
+     "freight": "extra",
+     "payment_days": 45,
+     "lead_time_weeks": null,
+     "valid_until": "2026-12-31",
+     "minimum_order": "",
+     "price_unit": "per_100"
+    },
+    "discounts": [],
+    "stated_total": null,
+    "quality_answers": [],
+    "replaces_earlier_quote": null,
+    "not_offered": []
+   },
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "ms": 12786,
+    "tokens": 8658
+   },
+   "certs": [],
+   "cells": {
+    "L1": {
+     "value": 65.42,
+     "status": "warn",
+     "kind": "converted",
+     "note": "Size in their reply (500×400×400 mm) isn't exactly ours (600×400×400 mm). Matched as the closest box; please confirm.",
+     "raw": "SG-5P-5040 | Combo outer | 500x400x400 mm | 5 | 980 | 6290",
+     "steps": [
+      "Written: SG-5P-5040 | Combo outer | 500x400x400 mm | 5 | 980 | 6290",
+      "Per 100 boxes ÷ 100",
+      "Freight extra: +4% estimate"
+     ],
+     "file": "RFQ-2026-017/A/upload-20261118110906_SGC_Quotation_GiftPack.xlsx",
+     "loc": "Sheet \"SGC Rates\", row 5"
+    }
+   },
+   "issues": [],
+   "quality": [
+    {
+     "question_id": "Q1",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q2",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q3",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q4",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q5",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    }
+   ]
+  },
+  "B": {
+   "id": "B",
+   "name": "Pacific PackWorks India Pvt Ltd",
+   "files": [
+    {
+     "path": "RFQ-2026-017/B/upload-20261118111003_email.txt",
+     "kind": "Text",
+     "segments": [
+      {
+       "loc": "Line 1",
+       "text": "From: Rahul Bose <rahul.bose@pacificpack.example>"
+      },
+      {
+       "loc": "Line 2",
+       "text": "To: Rishabh <rfq-2026-017@quotes.rsgherbal.example>"
+      },
+      {
+       "loc": "Line 3",
+       "text": "Date: 18 Nov 2026, 11:10"
+      },
+      {
+       "loc": "Line 4",
+       "text": "Subject: Pacific PackWorks - Quotation PPW/Q/2611/052"
+      },
+      {
+       "loc": "Line 5",
+       "text": "Dear Mr Rishabh,"
+      },
+      {
+       "loc": "Line 6",
+       "text": "Thank you for your enquiry. Please find our quotation attached (2 pages)."
+      },
+      {
+       "loc": "Line 7",
+       "text": "Best regards,"
+      },
+      {
+       "loc": "Line 8",
+       "text": "Rahul Bose"
+      },
+      {
+       "loc": "Line 9",
+       "text": "Key Accounts, Pacific PackWorks India Pvt Ltd"
+      },
+      {
+       "loc": "Line 10",
+       "text": "Attachments: PPW-Q-2611-052.pdf"
+      }
+     ]
+    },
+    {
+     "path": "RFQ-2026-017/B/upload-20261118111003_PPW-Q-2611-052.pdf",
+     "kind": "PDF",
+     "segments": [
+      {
+       "loc": "Page 1, line 1",
+       "text": "PACIFIC PACKWORKS"
+      },
+      {
+       "loc": "Page 1, line 2",
+       "text": "India Pvt Ltd · A Pacific Pack Group company (Singapore) · Noida, Uttar Pradesh"
+      },
+      {
+       "loc": "Page 1, line 3",
+       "text": "QUOTATION PPW/Q/2611/052"
+      },
+      {
+       "loc": "Page 1, line 4",
+       "text": "To: RSG Herbal House, Haridwar plant Date: 18 Nov 2026 Valid: 30 days"
+      },
+      {
+       "loc": "Page 1, line 5",
+       "text": "All prices in US Dollars (USD) per piece, inclusive of GST, delivered to Haridwar.*"
+      },
+      {
+       "loc": "Page 1, line 6",
+       "text": "S.No Description Unit price (USD)"
+      },
+      {
+       "loc": "Page 1, line 7",
+       "text": "1 Corrugated box 5-ply, 400 x 300 x 300 mm 0.52"
+      },
+      {
+       "loc": "Page 1, line 8",
+       "text": "2 Corrugated box 5-ply, 500 x 400 x 400 mm 0.86"
+      },
+      {
+       "loc": "Page 1, line 9",
+       "text": "3 Corrugated box 5-ply, 350 x 250 x 150 mm 0.33"
+      },
+      {
+       "loc": "Page 1, line 10",
+       "text": "4 Corrugated box 3-ply, 300 x 220 x 180 mm 0.14"
+      },
+      {
+       "loc": "Page 1, line 11",
+       "text": "5 Corrugated box 5-ply, 450 x 320 x 220 mm 0.55"
+      },
+      {
+       "loc": "Page 1, line 12",
+       "text": "6 Corrugated box 3-ply, 250 x 180 x 120 mm 0.075"
+      },
+      {
+       "loc": "Page 1, line 13",
+       "text": "Payment: 30 days from invoice. Lead time: 3 weeks."
+      },
+      {
+       "loc": "Page 2, line 1",
+       "text": "Annexure A - revised price for the hamper box"
+      },
+      {
+       "loc": "Page 2, line 2",
+       "text": "Item 5, Corrugated box 5-ply, 450 x 320 x 220 mm: USD 0.58 per piece (board upgraded to 1050 GSM)."
+      },
+      {
+       "loc": "Page 2, line 3",
+       "text": "ISO 9001:2015 certificate no. QMS/IN/88213, valid to 2027-08-31, attached on request."
+      },
+      {
+       "loc": "Page 2, line 4",
+       "text": "* A 2.5% discount applies to all items for purchase orders confirmed within 15 days of this quotation. Prices exclude freight insurance."
+      }
+     ]
+    }
+   ],
+   "ai": {
+    "prices": [
+     {
+      "loc": "upload-20261118111003_PPW-Q-2611-052.pdf · Page 1, line 7",
+      "supplier_text": "1 Corrugated box 5-ply, 400 x 300 x 300 mm 0.52",
+      "supplier_item_ref": "5-ply, 400 x 300 x 300 mm",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 0.52,
+      "unit": "per_box",
+      "currency": "USD",
+      "gst": "included",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Unit stated as per piece in header, not a listed unit. Header says delivered to Haridwar and inclusive of GST. Footnote says freight insurance excluded. No exact match for L1 600x400x400 mm, so not matched.",
+      "dims": [
+       400,
+       300,
+       300
+      ]
+     },
+     {
+      "loc": "upload-20261118111003_PPW-Q-2611-052.pdf · Page 1, line 8",
+      "supplier_text": "2 Corrugated box 5-ply, 500 x 400 x 400 mm 0.86",
+      "supplier_item_ref": "5-ply, 500 x 400 x 400 mm",
+      "our_item_code": "L1",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 0.86,
+      "unit": "per_box",
+      "currency": "USD",
+      "gst": "included",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": true,
+      "reading_unsure": false,
+      "note": "Closest offer to L1 5-ply 600x400x400 mm: same ply and height and width, but length 500 mm instead of 600 mm. Unit stated as per piece in header, not a listed unit. Header says delivered and inclusive of GST.",
+      "dims": [
+       500,
+       400,
+       400
+      ]
+     },
+     {
+      "loc": "upload-20261118111003_PPW-Q-2611-052.pdf · Page 1, line 9",
+      "supplier_text": "3 Corrugated box 5-ply, 350 x 250 x 150 mm 0.33",
+      "supplier_item_ref": "5-ply, 350 x 250 x 150 mm",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 0.33,
+      "unit": "per_box",
+      "currency": "USD",
+      "gst": "included",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Unit stated as per piece in header, not a listed unit. No match for L1 600x400x400 mm.",
+      "dims": [
+       350,
+       250,
+       150
+      ]
+     },
+     {
+      "loc": "upload-20261118111003_PPW-Q-2611-052.pdf · Page 1, line 10",
+      "supplier_text": "4 Corrugated box 3-ply, 300 x 220 x 180 mm 0.14",
+      "supplier_item_ref": "3-ply, 300 x 220 x 180 mm",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 0.14,
+      "unit": "per_box",
+      "currency": "USD",
+      "gst": "included",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "3-ply, not 5-ply. Unit stated as per piece in header, not a listed unit. No match for L1.",
+      "dims": [
+       300,
+       220,
+       180
+      ]
+     },
+     {
+      "loc": "upload-20261118111003_PPW-Q-2611-052.pdf · Page 1, line 11",
+      "supplier_text": "5 Corrugated box 5-ply, 450 x 320 x 220 mm 0.55",
+      "supplier_item_ref": "5-ply, 450 x 320 x 220 mm",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 0.55,
+      "unit": "per_box",
+      "currency": "USD",
+      "gst": "included",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Original price for item 5. Page 2 gives a revised price for the same item, which is also listed. Unit stated as per piece in header, not a listed unit. No match for L1.",
+      "dims": [
+       450,
+       320,
+       220
+      ]
+     },
+     {
+      "loc": "upload-20261118111003_PPW-Q-2611-052.pdf · Page 1, line 12",
+      "supplier_text": "6 Corrugated box 3-ply, 250 x 180 x 120 mm 0.075",
+      "supplier_item_ref": "3-ply, 250 x 180 x 120 mm",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 0.075,
+      "unit": "per_box",
+      "currency": "USD",
+      "gst": "included",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "3-ply, not 5-ply. Unit stated as per piece in header, not a listed unit. No match for L1.",
+      "dims": [
+       250,
+       180,
+       120
+      ]
+     },
+     {
+      "loc": "upload-20261118111003_PPW-Q-2611-052.pdf · Page 2, line 2",
+      "supplier_text": "Item 5, Corrugated box 5-ply, 450 x 320 x 220 mm: USD 0.58 per piece (board upgraded to 1050 GSM).",
+      "supplier_item_ref": "Item 5, 5-ply, 450 x 320 x 220 mm",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 0.58,
+      "unit": "per_box",
+      "currency": "USD",
+      "gst": "included",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Revised price for item 5, different from the 0.55 on page 1. Board upgraded to 1050 GSM, so the item spec may differ. Unit stated as per piece, not a listed unit. No match for L1.",
+      "dims": [
+       450,
+       320,
+       220
+      ]
+     }
+    ],
+    "same_as_last_year": null,
+    "terms": {
+     "currency": "USD",
+     "gst": "included",
+     "freight": "included",
+     "payment_days": 30,
+     "lead_time_weeks": 3,
+     "valid_until": "30 days",
+     "minimum_order": "",
+     "price_unit": "per piece"
+    },
+    "discounts": [
+     {
+      "percent": 2.5,
+      "condition": "purchase orders confirmed within 15 days of this quotation",
+      "applies_unconditionally": true,
+      "loc": "upload-20261118111003_PPW-Q-2611-052.pdf · Page 2, line 4",
+      "note": "Applies to any order placed within the quote's validity, so it's included."
+     }
+    ],
+    "stated_total": null,
+    "quality_answers": [
+     {
+      "question_id": "Q1",
+      "answer": "Yes, ISO 9001:2015 certificate no. QMS/IN/88213, valid to 2027-08-31, attached on request",
+      "loc": "upload-20261118111003_PPW-Q-2611-052.pdf · Page 2, line 3",
+      "proof_attached_claimed": false
+     }
+    ],
+    "replaces_earlier_quote": null,
+    "not_offered": []
+   },
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "ms": 15571,
+    "tokens": 9629
+   },
+   "certs": [],
+   "cells": {
+    "L1": {
+     "value": 59.83,
+     "status": "warn",
+     "kind": "alternative",
+     "note": "Offered a different item: Closest offer to L1 5-ply 600x400x400 mm: same ply and height and width, but length 500 mm instead of 600 mm. Unit stated as per piece in header, not a listed unit. Header says delivered and inclusive of GST.. Not compared as the same box.",
+     "raw": "2 Corrugated box 5-ply, 500 x 400 x 400 mm 0.86",
+     "steps": [
+      "Written: 2 Corrugated box 5-ply, 500 x 400 x 400 mm 0.86",
+      "US dollars × ₹84.2",
+      "GST 18% removed",
+      "2.5% discount (purchase orders confirmed within 15 days of this quotation)"
+     ],
+     "file": "RFQ-2026-017/B/upload-20261118111003_PPW-Q-2611-052.pdf",
+     "loc": "Page 1, line 8"
+    }
+   },
+   "issues": [
+    {
+     "tone": "info",
+     "title": "Discount applied: 2.5%",
+     "note": "\"purchase orders confirmed within 15 days of this quotation\". Applies to any order placed within the quote's validity, so it's included.",
+     "file": "RFQ-2026-017/B/upload-20261118111003_PPW-Q-2611-052.pdf",
+     "loc": "Page 2, line 4",
+     "text": "* A 2.5% discount applies to all items for purchase orders confirmed within 15 days of this quotation. Prices exclude freight insurance."
+    }
+   ],
+   "quality": [
+    {
+     "question_id": "Q1",
+     "status": "warn",
+     "label": "Says yes",
+     "note": "Yes, ISO 9001:2015 certificate no. QMS/IN/88213, valid to 2027-08-31, attached on request. No document attached to back it up.",
+     "file": "RFQ-2026-017/B/upload-20261118111003_PPW-Q-2611-052.pdf",
+     "loc": "Page 2, line 3"
+    },
+    {
+     "question_id": "Q2",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q3",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q4",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q5",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    }
+   ]
+  },
+  "C": {
+   "id": "C",
+   "name": "Om Sai Packaging Industries",
+   "files": [
+    {
+     "path": "RFQ-2026-017/C/upload-20261118111057_email.txt",
+     "kind": "Text",
+     "segments": [
+      {
+       "loc": "Line 1",
+       "text": "From: Deepak Gupta <deepak@omsaipack.example>"
+      },
+      {
+       "loc": "Line 2",
+       "text": "To: Rishabh <rfq-2026-017@quotes.rsgherbal.example>"
+      },
+      {
+       "loc": "Line 3",
+       "text": "Date: 18 Nov 2026, 11:10"
+      },
+      {
+       "loc": "Line 4",
+       "text": "Subject: Offer for gift pack corrugated boxes"
+      },
+      {
+       "loc": "Line 5",
+       "text": "Respected Sir,"
+      },
+      {
+       "loc": "Line 6",
+       "text": "Kindly find our offer letter attached for your new gift pack line."
+      },
+      {
+       "loc": "Line 7",
+       "text": "Thanking you,"
+      },
+      {
+       "loc": "Line 8",
+       "text": "Deepak Gupta"
+      },
+      {
+       "loc": "Line 9",
+       "text": "Om Sai Packaging Industries, Saharanpur"
+      },
+      {
+       "loc": "Line 10",
+       "text": "Attachments: OmSai_Offer_GiftPack.docx"
+      }
+     ]
+    },
+    {
+     "path": "RFQ-2026-017/C/upload-20261118111057_OmSai_Offer_GiftPack.docx",
+     "kind": "Word",
+     "segments": [
+      {
+       "loc": "Paragraph 1",
+       "text": "OM SAI PACKAGING INDUSTRIES"
+      },
+      {
+       "loc": "Paragraph 2",
+       "text": "Ref: OSPI/OFF/2611/27                                   Date: 18 November 2026"
+      },
+      {
+       "loc": "Paragraph 3",
+       "text": "To, The Purchase Department, RSG Herbal House, Haridwar"
+      },
+      {
+       "loc": "Paragraph 4",
+       "text": "Subject: Offer for corrugated boxes for your Chyawanprash gift pack line"
+      },
+      {
+       "loc": "Paragraph 5",
+       "text": "Respected Sir, with reference to your enquiry we are pleased to offer as below. All rates are per box, exclusive of GST, delivered at your Haridwar plant."
+      },
+      {
+       "loc": "Paragraph 6",
+       "text": "For the gift pack outer box of 400 x 300 x 300 mm in 5-ply we offer Rs. 38.40 per box, and for the family combo box of 500 x 400 x 400 mm, also 5-ply, our rate is Rs. 63.10 per box."
+      },
+      {
+       "loc": "Paragraph 7",
+       "text": "The 5-ply twin pack box of 350 x 250 x 150 mm will be Rs. 23.75 each, while the 3-ply duo box of 300 x 220 x 180 mm comes to Rs. 10.20 each. The small 3-ply trial kit box (250 x 180 x 120 mm) is Rs. 5.55."
+      },
+      {
+       "loc": "Paragraph 8",
+       "text": "For the festive hamper box of 450 x 320 x 220 mm we recommend 7-ply instead of the 5-ply asked, as hampers are heavy; our rate for the 7-ply box is Rs. 49.80. We do not make this size in 5-ply."
+      },
+      {
+       "loc": "Paragraph 9",
+       "text": "We will give an additional 4% discount if all six boxes are ordered from us."
+      },
+      {
+       "loc": "Paragraph 10",
+       "text": "We are ISO 9001 certified. Samples can be sent within 7 days. Payment 60 days."
+      },
+      {
+       "loc": "Paragraph 11",
+       "text": "Thanking you and assuring you of our best services."
+      },
+      {
+       "loc": "Paragraph 12",
+       "text": "For Om Sai Packaging Industries,  Deepak Gupta (Proprietor)"
+      }
+     ]
+    }
+   ],
+   "ai": {
+    "prices": [
+     {
+      "loc": "upload-20261118111057_OmSai_Offer_GiftPack.docx · Paragraph 6",
+      "supplier_text": "Rs. 38.40 per box",
+      "supplier_item_ref": "gift pack outer box 400 x 300 x 300 mm, 5-ply",
+      "our_item_code": "",
+      "applies_to_ply": 5,
+      "match_confidence": "low",
+      "value": 38.4,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Size 400x300x300 mm does not match our L1 (600x400x400 mm). Rate is per box, excl. GST, delivered Haridwar per Paragraph 5.",
+      "dims": [
+       400,
+       300,
+       300
+      ]
+     },
+     {
+      "loc": "upload-20261118111057_OmSai_Offer_GiftPack.docx · Paragraph 6",
+      "supplier_text": "Rs. 63.10 per box",
+      "supplier_item_ref": "family combo box 500 x 400 x 400 mm, 5-ply",
+      "our_item_code": "",
+      "applies_to_ply": 5,
+      "match_confidence": "low",
+      "value": 63.1,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Size 500x400x400 mm is close to but not an exact match for our L1 (600x400x400 mm). Rate is per box, excl. GST, delivered Haridwar per Paragraph 5.",
+      "dims": [
+       500,
+       400,
+       400
+      ]
+     },
+     {
+      "loc": "upload-20261118111057_OmSai_Offer_GiftPack.docx · Paragraph 7",
+      "supplier_text": "Rs. 23.75 each",
+      "supplier_item_ref": "twin pack box 350 x 250 x 150 mm, 5-ply",
+      "our_item_code": "",
+      "applies_to_ply": 5,
+      "match_confidence": "low",
+      "value": 23.75,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Size 350x250x150 mm does not match our L1 (600x400x400 mm). Rate is per box, excl. GST, delivered Haridwar per Paragraph 5.",
+      "dims": [
+       350,
+       250,
+       150
+      ]
+     },
+     {
+      "loc": "upload-20261118111057_OmSai_Offer_GiftPack.docx · Paragraph 7",
+      "supplier_text": "Rs. 10.20 each",
+      "supplier_item_ref": "duo box 300 x 220 x 180 mm, 3-ply",
+      "our_item_code": "",
+      "applies_to_ply": 3,
+      "match_confidence": "low",
+      "value": 10.2,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Size and ply (3-ply) do not match our L1 (5-ply, 600x400x400 mm). Rate is per box, excl. GST, delivered Haridwar per Paragraph 5.",
+      "dims": [
+       300,
+       220,
+       180
+      ]
+     },
+     {
+      "loc": "upload-20261118111057_OmSai_Offer_GiftPack.docx · Paragraph 7",
+      "supplier_text": "Rs. 5.55",
+      "supplier_item_ref": "trial kit box 250 x 180 x 120 mm, 3-ply",
+      "our_item_code": "",
+      "applies_to_ply": 3,
+      "match_confidence": "low",
+      "value": 5.55,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Size and ply (3-ply) do not match our L1 (5-ply, 600x400x400 mm). Rate is per box, excl. GST, delivered Haridwar per Paragraph 5.",
+      "dims": [
+       250,
+       180,
+       120
+      ]
+     },
+     {
+      "loc": "upload-20261118111057_OmSai_Offer_GiftPack.docx · Paragraph 8",
+      "supplier_text": "our rate for the 7-ply box is Rs. 49.80",
+      "supplier_item_ref": "festive hamper box 450 x 320 x 220 mm, 7-ply",
+      "our_item_code": "",
+      "applies_to_ply": 7,
+      "match_confidence": "low",
+      "value": 49.8,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": true,
+      "reading_unsure": false,
+      "note": "Supplier recommends 7-ply instead of the 5-ply asked. Size 450x320x220 mm does not match our L1 (600x400x400 mm). Rate is per box, excl. GST, delivered Haridwar per Paragraph 5.",
+      "dims": [
+       450,
+       320,
+       220
+      ]
+     }
+    ],
+    "same_as_last_year": null,
+    "terms": {
+     "currency": "INR",
+     "gst": "excluded",
+     "freight": "included",
+     "payment_days": 60,
+     "lead_time_weeks": null,
+     "valid_until": "",
+     "minimum_order": "",
+     "price_unit": "per_box"
+    },
+    "discounts": [
+     {
+      "percent": 4,
+      "condition": "if all six boxes are ordered from us",
+      "applies_unconditionally": false,
+      "loc": "upload-20261118111057_OmSai_Offer_GiftPack.docx · Paragraph 9"
+     }
+    ],
+    "stated_total": null,
+    "quality_answers": [
+     {
+      "question_id": "Q1",
+      "answer": "We are ISO 9001 certified",
+      "loc": "upload-20261118111057_OmSai_Offer_GiftPack.docx · Paragraph 10",
+      "proof_attached_claimed": false
+     },
+     {
+      "question_id": "Q4",
+      "answer": "Samples can be sent within 7 days",
+      "loc": "upload-20261118111057_OmSai_Offer_GiftPack.docx · Paragraph 10",
+      "proof_attached_claimed": false
+     }
+    ],
+    "replaces_earlier_quote": null,
+    "not_offered": []
+   },
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "ms": 11926,
+    "tokens": 8777
+   },
+   "certs": [],
+   "cells": {
+    "L1": {
+     "value": null,
+     "status": "warn",
+     "kind": "not_quoted",
+     "note": "Not in their reply. Shown as Not quoted, never as zero.",
+     "steps": []
+    }
+   },
+   "issues": [
+    {
+     "tone": "info",
+     "title": "Conditional discount: 4%",
+     "note": "Not applied to prices: \"if all six boxes are ordered from us\". Shown as a scenario in Award.",
+     "file": "RFQ-2026-017/C/upload-20261118111057_OmSai_Offer_GiftPack.docx",
+     "loc": "Paragraph 9",
+     "text": "We will give an additional 4% discount if all six boxes are ordered from us."
+    }
+   ],
+   "quality": [
+    {
+     "question_id": "Q1",
+     "status": "warn",
+     "label": "Says yes",
+     "note": "We are ISO 9001 certified. No document attached to back it up.",
+     "file": "RFQ-2026-017/C/upload-20261118111057_OmSai_Offer_GiftPack.docx",
+     "loc": "Paragraph 10"
+    },
+    {
+     "question_id": "Q2",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q3",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q4",
+     "status": "ok",
+     "label": "Samples can be sent within 7 days",
+     "loc": "Paragraph 10",
+     "file": "RFQ-2026-017/C/upload-20261118111057_OmSai_Offer_GiftPack.docx"
+    },
+    {
+     "question_id": "Q5",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    }
+   ]
+  },
+  "D": {
+   "id": "D",
+   "name": "Rajdhani Carton Co.",
+   "files": [
+    {
+     "path": "RFQ-2026-017/D/upload-20261118111142_email.txt",
+     "kind": "Text",
+     "segments": [
+      {
+       "loc": "Line 1",
+       "text": "From: Imran Qureshi <>"
+      },
+      {
+       "loc": "Line 2",
+       "text": "To: Rishabh <rfq-2026-017@quotes.rsgherbal.example>"
+      },
+      {
+       "loc": "Line 3",
+       "text": "Date: 18 Nov 2026, 11:11"
+      },
+      {
+       "loc": "Line 4",
+       "text": "Subject: Rates for gift boxes"
+      },
+      {
+       "loc": "Line 5",
+       "text": "Sir, rate card photo attached. 350x250x150 we don't make."
+      },
+      {
+       "loc": "Line 6",
+       "text": "Regards, Imran Qureshi, Rajdhani Carton Co."
+      },
+      {
+       "loc": "Line 7",
+       "text": "Attachments: IMG_20261118_1105.jpg"
+      }
+     ]
+    },
+    {
+     "path": "RFQ-2026-017/D/upload-20261118111142_IMG_20261118_1105.jpg",
+     "kind": "Photo",
+     "segments": [
+      {
+       "loc": "Photo line 1",
+       "text": "RAJDHANT CARTON co.",
+       "box": {
+        "x": 304,
+        "y": 203,
+        "w": 597,
+        "h": 95
+       },
+       "ocr_confidence": 52
+      },
+      {
+       "loc": "Photo line 2",
+       "text": "RATE 1.18% = [ERT BOXES (Nov 2026)",
+       "box": {
+        "x": 314,
+        "y": 272,
+        "w": 650,
+        "h": 87
+       },
+       "ocr_confidence": 73
+      },
+      {
+       "loc": "Photo line 3",
+       "text": "5. No Size (rom) Ply Rate Rs /PC",
+       "box": {
+        "x": 207,
+        "y": 389,
+        "w": 776,
+        "h": 99
+       },
+       "ocr_confidence": 43
+      },
+      {
+       "loc": "Photo line 4",
+       "text": "i 400 x 300 % 300 5 SAD",
+       "box": {
+        "x": 241,
+        "y": 464,
+        "w": 961,
+        "h": 122
+       },
+       "ocr_confidence": 66
+      },
+      {
+       "loc": "Photo line 5",
+       "text": "2 500 x 400 ® 400 5 1.90",
+       "box": {
+        "x": 267,
+        "y": 561,
+        "w": 1005,
+        "h": 135
+       },
+       "ocr_confidence": 70
+      },
+      {
+       "loc": "Photo line 6",
+       "text": "3 200 x 220 * 180 3 0.99",
+       "box": {
+        "x": 294,
+        "y": 677,
+        "w": 963,
+        "h": 128
+       },
+       "ocr_confidence": 86
+      },
+      {
+       "loc": "Photo line 7",
+       "text": "4 450 x 320 % 220 5 40.10",
+       "box": {
+        "x": 323,
+        "y": 792,
+        "w": 958,
+        "h": 122
+       },
+       "ocr_confidence": 81
+      },
+      {
+       "loc": "Photo line 8",
+       "text": "5 550 ® 180 %® 120 3 5.40",
+       "box": {
+        "x": 347,
+        "y": 904,
+        "w": 940,
+        "h": 120
+       },
+       "ocr_confidence": 65
+      },
+      {
+       "loc": "Photo line 9",
+       "text": "rates ex-GSTr delivered paridwar. Sizes ot lasted not available:",
+       "box": {
+        "x": 391,
+        "y": 1130,
+        "w": 1064,
+        "h": 124
+       },
+       "ocr_confidence": 46
+      }
+     ]
+    }
+   ],
+   "ai": {
+    "prices": [
+     {
+      "loc": "upload-20261118111142_IMG_20261118_1105.jpg · Photo line 4",
+      "supplier_text": "400 x 300 x 300 5 37.20",
+      "supplier_item_ref": "400x300x300 5 ply",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 37.2,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": true,
+      "note": "No exact match for L1 600x400x400 5-ply. OCR read 'SAD' for the price; photo shows 37.20. Rate is per piece (Rs/pc), unit not in enum.",
+      "dims": [
+       400,
+       300,
+       300
+      ]
+     },
+     {
+      "loc": "upload-20261118111142_IMG_20261118_1105.jpg · Photo line 5",
+      "supplier_text": "500 x 400 x 400 5 61.90 (handwritten)",
+      "supplier_item_ref": "500x400x400 5 ply",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 61.9,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": true,
+      "note": "No exact match for L1 600x400x400 5-ply (length differs). OCR read 1.90; photo shows handwritten 61.90. Rate is per piece (Rs/pc).",
+      "dims": [
+       500,
+       400,
+       400
+      ]
+     },
+     {
+      "loc": "upload-20261118111142_IMG_20261118_1105.jpg · Photo line 6",
+      "supplier_text": "300 x 220 x 180 3 0.99 (handwritten)",
+      "supplier_item_ref": "300x220x180 3 ply",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 0.99,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": true,
+      "note": "No match for L1 (5-ply, 600x400x400). Handwritten value, hard to read and far below other rates; possibly 0.99 or a correction. Rate is per piece (Rs/pc).",
+      "dims": [
+       300,
+       220,
+       180
+      ]
+     },
+     {
+      "loc": "upload-20261118111142_IMG_20261118_1105.jpg · Photo line 7",
+      "supplier_text": "450 x 320 x 220 5 40.10",
+      "supplier_item_ref": "450x320x220 5 ply",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 40.1,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "No exact match for L1 600x400x400 5-ply. Rate is per piece (Rs/pc).",
+      "dims": [
+       450,
+       320,
+       220
+      ]
+     },
+     {
+      "loc": "upload-20261118111142_IMG_20261118_1105.jpg · Photo line 8",
+      "supplier_text": "250 x 180 x 120 3 5.40",
+      "supplier_item_ref": "250x180x120 3 ply",
+      "our_item_code": "",
+      "applies_to_ply": 0,
+      "match_confidence": "low",
+      "value": 5.4,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "No match for L1 (5-ply, 600x400x400). OCR size garbled; photo shows 250 x 180 x 120, 3 ply. Rate is per piece (Rs/pc).",
+      "dims": [
+       250,
+       180,
+       120
+      ]
+     }
+    ],
+    "same_as_last_year": null,
+    "terms": {
+     "currency": "INR",
+     "gst": "excluded",
+     "freight": "included",
+     "payment_days": null,
+     "lead_time_weeks": null,
+     "valid_until": "",
+     "minimum_order": "",
+     "price_unit": "pc"
+    },
+    "discounts": [],
+    "stated_total": null,
+    "quality_answers": [],
+    "replaces_earlier_quote": null,
+    "not_offered": [
+     {
+      "our_item_code": "L1",
+      "supplier_text": "Sizes not listed not available",
+      "loc": "upload-20261118111142_IMG_20261118_1105.jpg · Photo line 9"
+     }
+    ]
+   },
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "ms": 17439,
+    "tokens": 12341
+   },
+   "certs": [],
+   "cells": {
+    "L1": {
+     "value": null,
+     "status": "warn",
+     "kind": "not_quoted",
+     "note": "Not priced in their reply: \"Sizes not listed not available\". Shown as Not quoted, never as zero.",
+     "raw": "Sizes not listed not available",
+     "steps": [],
+     "file": "RFQ-2026-017/D/upload-20261118111142_IMG_20261118_1105.jpg",
+     "loc": "Photo line 9"
+    }
+   },
+   "issues": [],
+   "quality": [
+    {
+     "question_id": "Q1",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q2",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q3",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q4",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q5",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    }
+   ]
+  },
+  "E": {
+   "id": "E",
+   "name": "Mahalaxmi Box Makers",
+   "files": [
+    {
+     "path": "RFQ-2026-017/E/upload-20261118111246_email.txt",
+     "kind": "Text",
+     "segments": [
+      {
+       "loc": "Line 1",
+       "text": "From: Suresh Bansal <>"
+      },
+      {
+       "loc": "Line 2",
+       "text": "To: Rishabh <rfq-2026-017@quotes.rsgherbal.example>"
+      },
+      {
+       "loc": "Line 3",
+       "text": "Date: 18 Nov 2026, 11:12"
+      },
+      {
+       "loc": "Line 4",
+       "text": "Subject: Fwd: WhatsApp rates"
+      },
+      {
+       "loc": "Line 5",
+       "text": "Sir, sending screenshot of what I sent on WhatsApp."
+      },
+      {
+       "loc": "Line 6",
+       "text": "Suresh Bansal, Mahalaxmi Box Makers"
+      },
+      {
+       "loc": "Line 7",
+       "text": "Attachments: Screenshot_2026-11-18-11-06.png"
+      }
+     ]
+    },
+    {
+     "path": "RFQ-2026-017/E/upload-20261118111246_Screenshot_2026-11-18-11-06.png",
+     "kind": "Photo",
+     "segments": [
+      {
+       "loc": "Photo line 1",
+       "text": "Rishabh RSG Herbal",
+       "box": {
+        "x": 112,
+        "y": 55,
+        "w": 328,
+        "h": 26
+       },
+       "ocr_confidence": 96
+      },
+      {
+       "loc": "Photo line 2",
+       "text": "online",
+       "box": {
+        "x": 110,
+        "y": 96,
+        "w": 58,
+        "h": 16
+       },
+       "ocr_confidence": 96
+      },
+      {
+       "loc": "Photo line 3",
+       "text": "Rishabh ji namaste Ja",
+       "box": {
+        "x": 148,
+        "y": 227,
+        "w": 291,
+        "h": 27
+       },
+       "ocr_confidence": 86
+      },
+      {
+       "loc": "Photo line 4",
+       "text": "11:02 am vv",
+       "box": {
+        "x": 602,
+        "y": 253,
+        "w": 115,
+        "h": 15
+       },
+       "ocr_confidence": 88
+      },
+      {
+       "loc": "Photo line 5",
+       "text": "Gift pack boxes rate:",
+       "box": {
+        "x": 146,
+        "y": 331,
+        "w": 272,
+        "h": 27
+       },
+       "ocr_confidence": 96
+      },
+      {
+       "loc": "Photo line 6",
+       "text": "5 ply 344 per kg",
+       "box": {
+        "x": 146,
+        "y": 370,
+        "w": 209,
+        "h": 28
+       },
+       "ocr_confidence": 91
+      },
+      {
+       "loc": "Photo line 7",
+       "text": "2 ply EB per kg 11:03 am vv",
+       "box": {
+        "x": 146,
+        "y": 410,
+        "w": 571,
+        "h": 42
+       },
+       "ocr_confidence": 75
+      },
+      {
+       "loc": "Photo line 8",
+       "text": "Freight extra, GST extra",
+       "box": {
+        "x": 148,
+        "y": 515,
+        "w": 318,
+        "h": 27
+       },
+       "ocr_confidence": 96
+      },
+      {
+       "loc": "Photo line 9",
+       "text": "11:03 am vv",
+       "box": {
+        "x": 602,
+        "y": 541,
+        "w": 115,
+        "h": 15
+       },
+       "ocr_confidence": 86
+      },
+      {
+       "loc": "Photo line 10",
+       "text": "Sample kit box (250x180x120)",
+       "box": {
+        "x": 147,
+        "y": 619,
+        "w": 401,
+        "h": 27
+       },
+       "ocr_confidence": 94
+      },
+      {
+       "loc": "Photo line 11",
+       "text": "not possible sir, too small",
+       "box": {
+        "x": 147,
+        "y": 659,
+        "w": 331,
+        "h": 27
+       },
+       "ocr_confidence": 96
+      },
+      {
+       "loc": "Photo line 12",
+       "text": "11:04 am vv",
+       "box": {
+        "x": 602,
+        "y": 685,
+        "w": 115,
+        "h": 15
+       },
+       "ocr_confidence": 89
+      },
+      {
+       "loc": "Photo line 13",
+       "text": "Order mile to 10 din me supply osamsd",
+       "box": {
+        "x": 146,
+        "y": 763,
+        "w": 571,
+        "h": 41
+       },
+       "ocr_confidence": 74
+      }
+     ]
+    }
+   ],
+   "ai": {
+    "prices": [
+     {
+      "loc": "upload-20261118111246_Screenshot_2026-11-18-11-06.png · Photo line 6",
+      "supplier_text": "5 ply ₹44 per kg",
+      "supplier_item_ref": "Gift pack boxes 5 ply",
+      "our_item_code": "",
+      "applies_to_ply": 5,
+      "match_confidence": "medium",
+      "value": 44,
+      "unit": "per_kg",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "extra",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": true,
+      "note": "OCR read '5 ply 344 per kg'; photo shows ₹44 per kg. Group price for 5-ply, applies to L1 (600x400x400 5-ply) by ply match only. Sent as WhatsApp message, not a phone call.",
+      "dims": null
+     },
+     {
+      "loc": "upload-20261118111246_Screenshot_2026-11-18-11-06.png · Photo line 7",
+      "supplier_text": "3 ply ₹39 per kg",
+      "supplier_item_ref": "Gift pack boxes 3 ply",
+      "our_item_code": "",
+      "applies_to_ply": 3,
+      "match_confidence": "low",
+      "value": 39,
+      "unit": "per_kg",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "extra",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": true,
+      "note": "OCR read '2 ply EB per kg'; photo shows 3 ply ₹39 per kg. No 3-ply item in our list, so no code matched.",
+      "dims": null
+     }
+    ],
+    "same_as_last_year": null,
+    "terms": {
+     "currency": "INR",
+     "gst": "excluded",
+     "freight": "extra",
+     "payment_days": null,
+     "lead_time_weeks": null,
+     "valid_until": "",
+     "minimum_order": "",
+     "price_unit": "per_kg"
+    },
+    "discounts": [],
+    "stated_total": null,
+    "quality_answers": [],
+    "replaces_earlier_quote": null,
+    "not_offered": []
+   },
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "ms": 8806,
+    "tokens": 8411
+   },
+   "certs": [],
+   "cells": {
+    "L1": {
+     "value": 72.99,
+     "status": "warn",
+     "kind": "unsure",
+     "note": "OCR read '5 ply 344 per kg'; photo shows ₹44 per kg. Group price for 5-ply, applies to L1 (600x400x400 5-ply) by ply match only. Sent as WhatsApp message, not a phone call..",
+     "raw": "5 ply ₹44 per kg",
+     "steps": [
+      "Written: 5 ply ₹44 per kg",
+      "Per kg × 1.595 kg per box",
+      "Freight extra: +4% estimate"
+     ],
+     "file": "RFQ-2026-017/E/upload-20261118111246_Screenshot_2026-11-18-11-06.png",
+     "loc": "Photo line 6",
+     "box": {
+      "x": 146,
+      "y": 370,
+      "w": 209,
+      "h": 28
+     },
+     "ocr": 91
+    }
+   },
+   "issues": [],
+   "quality": [
+    {
+     "question_id": "Q1",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q2",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q3",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q4",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q5",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    }
+   ]
+  },
+  "F": {
+   "id": "F",
+   "name": "Doon Corrupack",
+   "files": [
+    {
+     "path": "RFQ-2026-017/F/upload-20261118111340_email.txt",
+     "kind": "Text",
+     "segments": [
+      {
+       "loc": "Line 1",
+       "text": "From: Ankit Thapa <ankit@dooncorrupack.example>"
+      },
+      {
+       "loc": "Line 2",
+       "text": "To: Rishabh <rfq-2026-017@quotes.rsgherbal.example>"
+      },
+      {
+       "loc": "Line 3",
+       "text": "Date: 18 Nov 2026, 11:13"
+      },
+      {
+       "loc": "Line 4",
+       "text": "Subject: rates"
+      },
+      {
+       "loc": "Line 5",
+       "text": "Rishabh bhai, written rates attached. sorry for the photo, in a hurry."
+      },
+      {
+       "loc": "Line 6",
+       "text": "Ankit, Doon Corrupack"
+      },
+      {
+       "loc": "Line 7",
+       "text": "Attachments: WhatsApp_Image_2026-11-18_at_11.20.jpg"
+      }
+     ]
+    },
+    {
+     "path": "RFQ-2026-017/F/upload-20261118111340_WhatsApp_Image_2026-11-18_at_11.20.jpg",
+     "kind": "Photo",
+     "segments": [
+      {
+       "loc": "Photo line 1",
+       "text": "Doon Corrupack - Gift box rates",
+       "box": {
+        "x": 169,
+        "y": 205,
+        "w": 784,
+        "h": 81
+       },
+       "ocr_confidence": 79
+      },
+      {
+       "loc": "Photo line 2",
+       "text": "per box, delivered Haridwar, GST extra",
+       "box": {
+        "x": 166,
+        "y": 323,
+        "w": 958,
+        "h": 95
+       },
+       "ocr_confidence": 70
+      },
+      {
+       "loc": "Photo line 3",
+       "text": "400X300x300 Sply - RS 36.20",
+       "box": {
+        "x": 156,
+        "y": 562,
+        "w": 814,
+        "h": 76
+       },
+       "ocr_confidence": 77
+      },
+      {
+       "loc": "Photo line 4",
+       "text": "S500x400x400 5ply - RS 62.40",
+       "box": {
+        "x": 138,
+        "y": 679,
+        "w": 826,
+        "h": 79
+       },
+       "ocr_confidence": 77
+      },
+      {
+       "loc": "Photo line 5",
+       "text": "350Xx250x1.50 Sply - RS 24.10",
+       "box": {
+        "x": 142,
+        "y": 801,
+        "w": 820,
+        "h": 80
+       },
+       "ocr_confidence": 46
+      },
+      {
+       "loc": "Photo line 6",
+       "text": "S00x220x1 20 3ply - Rs 9.90",
+       "box": {
+        "x": 130,
+        "y": 924,
+        "w": 774,
+        "h": 92
+       },
+       "ocr_confidence": 76
+      },
+      {
+       "loc": "Photo line 7",
+       "text": "450X320x220 Sply - Rs 29.60",
+       "box": {
+        "x": 131,
+        "y": 1040,
+        "w": 827,
+        "h": 81
+       },
+       "ocr_confidence": 73
+      },
+      {
+       "loc": "Photo line 8",
+       "text": "250X180x120 3ply - RES20",
+       "box": {
+        "x": 116,
+        "y": 1164,
+        "w": 783,
+        "h": 71
+       },
+       "ocr_confidence": 61
+      },
+      {
+       "loc": "Photo line 9",
+       "text": "valid 15 days - Ankit",
+       "box": {
+        "x": 105,
+        "y": 1396,
+        "w": 586,
+        "h": 75
+       },
+       "ocr_confidence": 68
+      }
+     ]
+    }
+   ],
+   "ai": {
+    "prices": [
+     {
+      "loc": "upload-20261118111340_WhatsApp_Image_2026-11-18_at_11.20.jpg · Photo line 3",
+      "supplier_text": "400X300x300 Sply - RS 36.20 (OCR); photo shows Rs 36.80",
+      "supplier_item_ref": "400x300x300 5ply",
+      "our_item_code": "",
+      "applies_to_ply": 5,
+      "match_confidence": "low",
+      "value": 36.8,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": true,
+      "note": "No L1 match: size 400x300x300 differs from our 600x400x400. OCR read 36.20; photo shows Rs 36.80.",
+      "dims": [
+       400,
+       300,
+       300
+      ]
+     },
+     {
+      "loc": "upload-20261118111340_WhatsApp_Image_2026-11-18_at_11.20.jpg · Photo line 4",
+      "supplier_text": "S500x400x400 5ply - RS 62.40",
+      "supplier_item_ref": "500x400x400 5ply",
+      "our_item_code": "L1",
+      "applies_to_ply": 5,
+      "match_confidence": "low",
+      "value": 62.4,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "Closest 5-ply item, but size 500x400x400 differs from our 600x400x400 (length differs).",
+      "dims": [
+       500,
+       400,
+       400
+      ]
+     },
+     {
+      "loc": "upload-20261118111340_WhatsApp_Image_2026-11-18_at_11.20.jpg · Photo line 5",
+      "supplier_text": "350Xx250x1.50 Sply - RS 24.10",
+      "supplier_item_ref": "350x250x150 5ply",
+      "our_item_code": "",
+      "applies_to_ply": 5,
+      "match_confidence": "low",
+      "value": 24.1,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": true,
+      "note": "No L1 match: size 350x250x150 differs from our 600x400x400. OCR confidence 46% on this line; value 24.10 matches the photo.",
+      "dims": [
+       350,
+       250,
+       150
+      ]
+     },
+     {
+      "loc": "upload-20261118111340_WhatsApp_Image_2026-11-18_at_11.20.jpg · Photo line 6",
+      "supplier_text": "S00x220x1 20 3ply - Rs 9.90",
+      "supplier_item_ref": "300x220x180 3ply",
+      "our_item_code": "",
+      "applies_to_ply": 3,
+      "match_confidence": "low",
+      "value": 9.9,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": false,
+      "note": "No L1 match: 3-ply and size 300x220x180 differ from our 5-ply 600x400x400.",
+      "dims": [
+       300,
+       220,
+       180
+      ]
+     },
+     {
+      "loc": "upload-20261118111340_WhatsApp_Image_2026-11-18_at_11.20.jpg · Photo line 7",
+      "supplier_text": "450X320x220 Sply - Rs 29.60 (OCR); photo shows Rs 39.60",
+      "supplier_item_ref": "450x320x220 5ply",
+      "our_item_code": "",
+      "applies_to_ply": 5,
+      "match_confidence": "low",
+      "value": 39.6,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": true,
+      "note": "No L1 match: size 450x320x220 differs from our 600x400x400. OCR read 29.60; photo shows Rs 39.60.",
+      "dims": [
+       450,
+       320,
+       220
+      ]
+     },
+     {
+      "loc": "upload-20261118111340_WhatsApp_Image_2026-11-18_at_11.20.jpg · Photo line 8",
+      "supplier_text": "250X180x120 3ply - RES20 (OCR); photo shows Rs 5.20",
+      "supplier_item_ref": "250x180x120 3ply",
+      "our_item_code": "",
+      "applies_to_ply": 3,
+      "match_confidence": "low",
+      "value": 5.2,
+      "unit": "per_box",
+      "currency": "INR",
+      "gst": "excluded",
+      "freight": "included",
+      "source": "written",
+      "is_alternative": false,
+      "reading_unsure": true,
+      "note": "No L1 match: 3-ply and size 250x180x120 differ from our 5-ply 600x400x400. OCR read RES20 (confidence 61%); photo shows Rs 5.20.",
+      "dims": [
+       250,
+       180,
+       120
+      ]
+     }
+    ],
+    "same_as_last_year": null,
+    "terms": {
+     "currency": "INR",
+     "gst": "excluded",
+     "freight": "included",
+     "payment_days": null,
+     "lead_time_weeks": null,
+     "valid_until": "valid 15 days",
+     "minimum_order": "",
+     "price_unit": "per_box"
+    },
+    "discounts": [],
+    "stated_total": null,
+    "quality_answers": [],
+    "replaces_earlier_quote": null,
+    "not_offered": []
+   },
+   "meta": {
+    "model": "claude-haiku-5-5",
+    "ms": 12538,
+    "tokens": 11532
+   },
+   "certs": [],
+   "cells": {
+    "L1": {
+     "value": 62.4,
+     "status": "warn",
+     "kind": "firm",
+     "note": "Size in their reply (500×400×400 mm) isn't exactly ours (600×400×400 mm). Matched as the closest box; please confirm.",
+     "raw": "S500x400x400 5ply - RS 62.40",
+     "steps": [
+      "Written: S500x400x400 5ply - RS 62.40"
+     ],
+     "file": "RFQ-2026-017/F/upload-20261118111340_WhatsApp_Image_2026-11-18_at_11.20.jpg",
+     "loc": "Photo line 4",
+     "box": {
+      "x": 138,
+      "y": 679,
+      "w": 826,
+      "h": 79
+     },
+     "ocr": 77
+    }
+   },
+   "issues": [],
+   "quality": [
+    {
+     "question_id": "Q1",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q2",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q3",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q4",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    },
+    {
+     "question_id": "Q5",
+     "status": "none",
+     "label": "Not answered",
+     "note": "No answer received. Never treated as a pass."
+    }
+   ]
+  }
+ }
+}

@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# QuoteLens: keep out of the repo
+!.env.example
+docs/Aerchain-Product-Assignment.pdf
+docs/*.key
+.claude/
+data/extracted/*.log

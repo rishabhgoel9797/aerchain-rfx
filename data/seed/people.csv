@@ -1,0 +1,22 @@
+﻿person_id,name,side,role,organisation,location,email,phone,whatsapp,preferred_channel
+P01,Rishabh,Buyer team,"Category Buyer, Packaging",RSG Herbal House,New Delhi (Head office),rishabh@rsgherbal.example,+91 90000 20001,+91 90000 20001,Email
+P02,Neha Sharma,Buyer team,"Category Buyer, Raw herbs & MRO",RSG Herbal House,Haridwar,neha.sharma@rsgherbal.example,+91 90000 20002,+91 90000 20002,Email
+P03,Karan Malhotra,Buyer team,"Category Buyer, Logistics & IT",RSG Herbal House,New Delhi (Head office),karan.malhotra@rsgherbal.example,+91 90000 20003,+91 90000 20003,Email
+P04,Anil Deshpande,Buyer team,Head of Procurement,RSG Herbal House,New Delhi (Head office),anil.deshpande@rsgherbal.example,+91 90000 20004,+91 90000 20004,Email
+P05,Sandeep Rawat,Company team,Stores Manager,RSG Herbal House,Haridwar plant,sandeep.rawat@rsgherbal.example,+91 90000 20005,+91 90000 20005,WhatsApp
+P06,Vikram Negi,Company team,Plant Head,RSG Herbal House,Baddi plant,vikram.negi@rsgherbal.example,+91 90000 20006,+91 90000 20006,WhatsApp
+P07,Meera Iyer,Company team,Admin Manager,RSG Herbal House,New Delhi (Head office),meera.iyer@rsgherbal.example,+91 90000 20007,+91 90000 20007,Email
+P08,Arjun Mehta,Company team,IT Manager,RSG Herbal House,New Delhi (Head office),arjun.mehta@rsgherbal.example,+91 90000 20008,+91 90000 20008,Email
+P09,Kavita Rao,Company team,CFO,RSG Herbal House,New Delhi (Head office),kavita.rao@rsgherbal.example,+91 90000 20009,+91 90000 20009,Email
+P10,Dr. Shalini Verma,Company team,Head of Quality,RSG Herbal House,Haridwar plant,shalini.verma@rsgherbal.example,+91 90000 20010,+91 90000 20010,Email
+P11,Manoj Agarwal,Supplier,Sales contact,Shree Ganesh Corrugators,Roorkee,manoj@shreeganesh.example,+91 90000 10001,+91 90000 10001,Email
+P12,Rahul Bose,Supplier,Sales contact,Pacific PackWorks India Pvt Ltd,Noida,rahul.bose@pacificpack.example,+91 90000 10002,,Email
+P13,Deepak Gupta,Supplier,Sales contact,Om Sai Packaging Industries,Saharanpur,deepak@omsaipack.example,+91 90000 10003,+91 90000 10003,Email
+P14,Imran Qureshi,Supplier,Sales contact,Rajdhani Carton Co.,Ghaziabad,,+91 90000 10004,+91 90000 10004,WhatsApp
+P15,Suresh Bansal,Supplier,Sales contact,Mahalaxmi Box Makers,Haridwar (SIDCUL),,+91 90000 10005,+91 90000 10005,WhatsApp
+P16,Ankit Thapa,Supplier,Sales contact,Doon Corrupack,Dehradun,ankit@dooncorrupack.example,+91 90000 10006,+91 90000 10006,Email
+P17,Rakesh Tyagi,Supplier,Sales contact,Unity Box House,Meerut,rakesh@unitybox.example,+91 90000 10007,,Email
+P18,Pooja Gupta,Supplier,Sales contact,Sai Om Corrugation LLP,Saharanpur,pooja@saiomcorr.example,+91 90000 10008,+91 90000 10008,Email
+P19,Ravi Joshi,Supplier,Sales contact,Kraftline Solutions,Kashipur,ravi@kraftline.example,+91 90000 10009,+91 90000 10009,Email
+P20,Nitin Saini,Supplier,Sales contact,Sunrise Tapes,Haridwar,nitin@sunrisetapes.example,+91 90000 10010,+91 90000 10010,Email
+P21,Geeta Rawat,Supplier,Sales contact,Annapurna Caterers,Haridwar,geeta@annapurna.example,+91 90000 10011,+91 90000 10011,Phone

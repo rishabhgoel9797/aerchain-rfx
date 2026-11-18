@@ -1,0 +1,151 @@
+﻿supplier_id,item_code,quoted_as,quoted_value,quoted_unit,true_price_inr_per_box,expected_status,trap
+A,C01,₹452 per 100 pcs,452,"INR per 100 boxes, delivered, before GST",4.52,green,Per 100 pcs → ÷ 100; own product code
+B,C01,USD 0.06 incl. GST,0.06,"USD per box, delivered, incl. 18% GST, before 2% discount",4.2,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C01,Rs. 4.26/- per box,4.26,"INR per box, delivered, before GST",4.26,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C01,4.25,4.25,INR per box (handwritten rate card),4.25,green,Read from an angled photo
+E,C01,"₹38/kg for the 3-ply, freight extra",38,"INR per kg, ex-works",4.07,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C02,₹742 per 100 pcs,742,"INR per 100 boxes, delivered, before GST",7.42,green,Per 100 pcs → ÷ 100; own product code
+B,C02,USD 0.114 incl. GST,0.114,"USD per box, delivered, incl. 18% GST, before 2% discount",7.97,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C02,Rs. 8.11/- per box,8.11,"INR per box, delivered, before GST",8.11,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C02,6.98,6.98,INR per box (handwritten rate card),6.98,green,Read from an angled photo
+E,C02,"₹38/kg for the 3-ply, freight extra",38,"INR per kg, ex-works",7.23,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C03,₹883 per 100 pcs,883,"INR per 100 boxes, delivered, before GST",8.83,green,Per 100 pcs → ÷ 100; own product code
+B,C03,USD 0.117 incl. GST,0.117,"USD per box, delivered, incl. 18% GST, before 2% discount",8.18,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C03,Rs. 8.3/- per box,8.3,"INR per box, delivered, before GST",8.3,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C03,8.29,8.29,INR per box (handwritten rate card),8.29,green,Read from an angled photo
+E,C03,"₹38/kg for the 3-ply, freight extra",38,"INR per kg, ex-works",8.02,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C04,₹1147 per 100 pcs,1147,"INR per 100 boxes, delivered, before GST",11.47,green,Per 100 pcs → ÷ 100; own product code
+B,C04,USD 0.177 incl. GST,0.177,"USD per box, delivered, incl. 18% GST, before 2% discount",12.38,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C04,Rs. 12.56/- per box,12.56,"INR per box, delivered, before GST",12.56,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C04,10.8,10.8,INR per box (handwritten rate card),10.8,green,Read from an angled photo
+E,C04,"₹38/kg for the 3-ply, freight extra",38,"INR per kg, ex-works",11.3,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C05,₹1340 per 100 pcs,1340,"INR per 100 boxes, delivered, before GST",13.4,green,Per 100 pcs → ÷ 100; own product code
+B,C05,USD 0.178 incl. GST,0.178,"USD per box, delivered, incl. 18% GST, before 2% discount",12.45,red,Page 1 and page 3 show different prices for this box
+C,C05,Rs. 12.59/- per box,12.59,"INR per box, delivered, before GST",12.59,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C05,12.59,12.59,INR per box (handwritten rate card),12.59,green,Read from an angled photo
+E,C05,"₹38/kg for the 3-ply, freight extra",38,"INR per kg, ex-works",12.29,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C06,₹1632 per 100 pcs,1632,"INR per 100 boxes, delivered, before GST",16.32,green,Per 100 pcs → ÷ 100; own product code
+B,C06,USD 0.252 incl. GST,0.252,"USD per box, delivered, incl. 18% GST, before 2% discount",17.62,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C06,Rs. 17.87/- per box,17.87,"INR per box, delivered, before GST",17.87,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C06,15.36,15.36,INR per box (handwritten rate card),15.36,green,Read from an angled photo
+E,C06,"₹38/kg for the 3-ply, freight extra",38,"INR per kg, ex-works",16.24,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C07,₹1715 per 100 pcs,1715,"INR per 100 boxes, delivered, before GST",17.15,green,Per 100 pcs → ÷ 100; own product code
+B,C07,USD 0.228 incl. GST,0.228,"USD per box, delivered, incl. 18% GST, before 2% discount",15.94,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C07,Rs. 16.09/- per box,16.09,"INR per box, delivered, before GST",16.09,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C07,16.11,16.11,INR per box (handwritten rate card),16.11,amber,"Blurry digit in the photo → mark unsure, show the crop"
+E,C07,"₹38/kg for the 3-ply, freight extra",38,"INR per kg, ex-works",15.89,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C08,₹1893 per 100 pcs,1893,"INR per 100 boxes, delivered, before GST",18.93,green,Per 100 pcs → ÷ 100; own product code
+B,C08,USD 0.292 incl. GST,0.292,"USD per box, delivered, incl. 18% GST, before 2% discount",20.42,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C08,Rs. 20.75/- per box,20.75,"INR per box, delivered, before GST",20.75,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C08,17.83,17.83,INR per box (handwritten rate card),17.83,green,Read from an angled photo
+E,C08,"₹38/kg for the 3-ply, freight extra",38,"INR per kg, ex-works",19.05,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C09,₹1997 per 100 pcs,1997,"INR per 100 boxes, delivered, before GST",19.97,amber,Supplier code SG-3P-4530 is an unsure match to C09
+B,C09,USD 0.265 incl. GST,0.265,"USD per box, delivered, incl. 18% GST, before 2% discount",18.53,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C09,Rs. 21.79/- per box,21.79,"INR per box, delivered, before GST",21.79,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C09,18.78,18.78,INR per box (handwritten rate card),18.78,green,Read from an angled photo
+E,C09,"₹38/kg for the 3-ply, freight extra",38,"INR per kg, ex-works",18.69,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C10,₹2689 per 100 pcs,2689,"INR per 100 boxes, delivered, before GST",26.89,green,Per 100 pcs → ÷ 100; own product code
+B,C10,USD 0.358 incl. GST,0.358,"USD per box, delivered, incl. 18% GST, before 2% discount",25.03,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C10,Rs. 25.36/- per box,25.36,"INR per box, delivered, before GST",25.36,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C10,21.78,21.78,INR per box (handwritten rate card),21.78,green,Read from an angled photo
+E,C10,"₹38/kg for the 3-ply, freight extra",38,"INR per kg, ex-works",23.51,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C11,₹2295 per 100 pcs,2295,"INR per 100 boxes, delivered, before GST",22.95,green,Per 100 pcs → ÷ 100; own product code
+B,C11,USD 0.304 incl. GST,0.304,"USD per box, delivered, incl. 18% GST, before 2% discount",21.26,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C11,Rs. 25.05/- per box,25.05,"INR per box, delivered, before GST",25.05,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C11,21.58,21.58,INR per box (handwritten rate card),21.58,green,Read from an angled photo
+E,C11,"₹38/kg for the 3-ply, freight extra",38,"INR per kg, ex-works",21.7,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C12,₹3219 per 100 pcs,3219,"INR per 100 boxes, delivered, before GST",32.19,green,Per 100 pcs → ÷ 100; own product code
+B,C12,USD 0.428 incl. GST,0.428,"USD per box, delivered, incl. 18% GST, before 2% discount",29.93,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C12,Rs. 30.33/- per box,30.33,"INR per box, delivered, before GST",30.33,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C12,26.05,26.05,INR per box (handwritten rate card),26.05,green,Read from an angled photo
+E,C12,Phone call: ₹31 per box incl. freight,31,"INR per box, delivered (spoken)",31,amber,"Spoken on a call, not in writing"
+A,C13,₹3834 per 100 pcs,3834,"INR per 100 boxes, delivered, before GST",38.34,green,Per 100 pcs → ÷ 100; own product code
+B,C13,USD 0.508 incl. GST,0.508,"USD per box, delivered, incl. 18% GST, before 2% discount",35.52,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C13,Rs. 41.87/- per box,41.87,"INR per box, delivered, before GST",41.87,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C13,36.06,36.06,INR per box (handwritten rate card),36.06,green,Read from an angled photo
+E,C13,"₹42/kg for the 5-ply, freight extra",42,"INR per kg, ex-works",36.87,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C14,₹5460 per 100 pcs,5460,"INR per 100 boxes, delivered, before GST",54.6,green,Per 100 pcs → ÷ 100; own product code
+B,C14,USD 0.726 incl. GST,0.726,"USD per box, delivered, incl. 18% GST, before 2% discount",50.77,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C14,Rs. 51.42/- per box,51.42,"INR per box, delivered, before GST",51.42,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C14,4.41,4.41,INR per box (handwritten rate card),44.14,amber,Written as a tenth of the real price (missing digit) → outlier flag
+E,C14,"₹42/kg for the 5-ply, freight extra",42,"INR per kg, ex-works",49.01,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C15,₹5660 per 100 pcs,5660,"INR per 100 boxes, delivered, before GST",56.6,green,Per 100 pcs → ÷ 100; own product code
+B,C15,USD 0.75 incl. GST,0.75,"USD per box, delivered, incl. 18% GST, before 2% discount",52.45,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C15,Rs. 61.87/- per box,61.87,"INR per box, delivered, before GST",61.87,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C15,53.26,53.26,INR per box (handwritten rate card),53.26,green,Read from an angled photo
+E,C15,"₹42/kg for the 5-ply, freight extra",42,"INR per kg, ex-works",54.99,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C16,₹6937 per 100 pcs,6937,"INR per 100 boxes, delivered, before GST",69.37,green,Per 100 pcs → ÷ 100; own product code
+B,C16,USD 0.921 incl. GST,0.921,"USD per box, delivered, incl. 18% GST, before 2% discount",64.4,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C16,Rs. 65.27/- per box,65.27,"INR per box, delivered, before GST",65.27,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C16,65.13,65.13,INR per box (handwritten rate card),65.13,green,Read from an angled photo
+E,C16,"₹42/kg for the 5-ply, freight extra",42,"INR per kg, ex-works",62.86,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C17,₹6750 per 100 pcs,6750,"INR per 100 boxes, delivered, before GST",67.5,green,Per 100 pcs → ÷ 100; own product code
+B,C17,USD 1.039 incl. GST,1.039,"USD per box, delivered, incl. 18% GST, before 2% discount",72.66,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C17,Rs. 73.83/- per box,73.83,"INR per box, delivered, before GST",73.83,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C17,63.53,63.53,INR per box (handwritten rate card),63.53,green,Read from an angled photo
+E,C17,"₹42/kg for the 5-ply, freight extra",42,"INR per kg, ex-works",66.26,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C18,₹6665 per 100 pcs,6665,"INR per 100 boxes, delivered, before GST",66.65,green,Per 100 pcs → ÷ 100; own product code
+B,C18,USD 0.885 incl. GST,0.885,"USD per box, delivered, incl. 18% GST, before 2% discount",61.89,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C18,"No 5-ply in this size, can give 7-ply at Rs. 73.94/-",73.94,"INR per box, delivered, before GST",,amber,Alternative item (7-ply) → not compared as the same box
+D,C18,62.59,62.59,INR per box (handwritten rate card),62.59,green,Read from an angled photo
+E,C18,"₹42/kg for the 5-ply, freight extra",42,"INR per kg, ex-works",60.98,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C19,₹7023 per 100 pcs,7023,"INR per 100 boxes, delivered, before GST",70.23,green,Per 100 pcs → ÷ 100; own product code
+B,C19,USD 1.083 incl. GST,1.083,"USD per box, delivered, incl. 18% GST, before 2% discount",75.73,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C19,Rs. 76.87/- per box,76.87,"INR per box, delivered, before GST",76.87,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C19,66.12,66.12,INR per box (handwritten rate card),66.12,green,Read from an angled photo
+E,C19,"₹42/kg for the 5-ply, freight extra",42,"INR per kg, ex-works",69.67,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C20,₹9318 per 100 pcs,9318,"INR per 100 boxes, delivered, before GST",93.18,green,Per 100 pcs → ÷ 100; own product code
+B,C20,USD 1.237 incl. GST,1.237,"USD per box, delivered, incl. 18% GST, before 2% discount",86.5,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C20,Rs. 87.54/- per box,87.54,"INR per box, delivered, before GST",87.54,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C20,87.54,87.54,INR per box (handwritten rate card),87.54,green,Read from an angled photo
+E,C20,"₹42/kg for the 5-ply, freight extra",42,"INR per kg, ex-works",86.09,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C21,₹8587 per 100 pcs,8587,"INR per 100 boxes, delivered, before GST",85.87,green,Per 100 pcs → ÷ 100; own product code
+B,C21,USD 1.325 incl. GST,1.325,"USD per box, delivered, incl. 18% GST, before 2% discount",92.66,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C21,Rs. 94.06/- per box,94.06,"INR per box, delivered, before GST",94.06,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C21,80.87,80.87,INR per box (handwritten rate card),80.87,green,Read from an angled photo
+E,C21,"₹42/kg for the 5-ply, freight extra",42,"INR per kg, ex-works",86.09,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C22,₹10056 per 100 pcs,10056,"INR per 100 boxes, delivered, before GST",100.56,green,Per 100 pcs → ÷ 100; own product code
+B,C22,USD 1.334 incl. GST,1.334,"USD per box, delivered, incl. 18% GST, before 2% discount",93.29,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C22,Rs. 94.39/- per box,94.39,"INR per box, delivered, before GST",94.39,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C22,94.49,94.49,INR per box (handwritten rate card),94.49,green,Read from an angled photo
+E,C22,"₹42/kg for the 5-ply, freight extra",42,"INR per kg, ex-works",93.82,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C23,₹10285 per 100 pcs,10285,"INR per 100 boxes, delivered, before GST",102.85,green,Per 100 pcs → ÷ 100; own product code
+B,C23,USD 1.589 incl. GST,1.589,"USD per box, delivered, incl. 18% GST, before 2% discount",111.12,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C23,Rs. 112.74/- per box,112.74,"INR per box, delivered, before GST",112.74,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C23,96.89,96.89,INR per box (handwritten rate card),96.89,green,Read from an angled photo
+E,C23,"₹42/kg for the 5-ply, freight extra",42,"INR per kg, ex-works",104.22,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C24,₹11513 per 100 pcs,11513,"INR per 100 boxes, delivered, before GST",115.13,green,Per 100 pcs → ÷ 100; own product code
+B,C24,USD 1.527 incl. GST,1.527,"USD per box, delivered, incl. 18% GST, before 2% discount",106.78,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C24,Rs. 125.58/- per box,125.58,"INR per box, delivered, before GST",125.58,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C24,108.23,108.23,INR per box (handwritten rate card),108.23,green,Read from an angled photo
+E,C24,"₹42/kg for the 5-ply, freight extra",42,"INR per kg, ex-works",108.5,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C25,₹15156 per 100 pcs,15156,"INR per 100 boxes, delivered, before GST",151.56,green,Per 100 pcs → ÷ 100; own product code
+B,C25,USD 2.015 incl. GST,2.015,"USD per box, delivered, incl. 18% GST, before 2% discount",140.91,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C25,Rs. 142.95/- per box,142.95,"INR per box, delivered, before GST",142.95,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C25,122.81,122.81,INR per box (handwritten rate card),122.81,green,Read from an angled photo
+E,C25,"₹42/kg for the 5-ply, freight extra",42,"INR per kg, ex-works",133.49,green,Per-kg price → × box weight; freight extra → +4% estimate
+A,C26,₹23459 per 100 pcs,23459,"INR per 100 boxes, delivered, before GST",234.59,green,Per 100 pcs → ÷ 100; own product code
+B,C26,USD 3.11 incl. GST,3.11,"USD per box, delivered, incl. 18% GST, before 2% discount",217.48,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C26,Rs. 256.05/- per box,256.05,"INR per box, delivered, before GST",256.05,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C26,220.58,220.58,INR per box (handwritten rate card),220.58,green,Read from an angled photo
+E,C26,rest same as last year,,Last year's price,241.65,green,Look up last year's price (PO-4471) + freight estimate
+A,C27,₹26888 per 100 pcs,26888,"INR per 100 boxes, delivered, before GST",268.88,green,Per 100 pcs → ÷ 100; own product code
+B,C27,USD 3.574 incl. GST,3.574,"USD per box, delivered, incl. 18% GST, before 2% discount",249.93,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C27,Rs. 253.42/- per box,253.42,"INR per box, delivered, before GST",253.42,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C27,217.61,217.61,INR per box (handwritten rate card),217.61,green,Read from an angled photo
+E,C27,rest same as last year,,Last year's price,258.69,green,Look up last year's price (PO-4471) + freight estimate
+A,C28,₹26496 per 100 pcs,26496,"INR per 100 boxes, delivered, before GST",264.96,green,Per 100 pcs → ÷ 100; own product code
+B,C28,USD 3.511 incl. GST,3.511,"USD per box, delivered, incl. 18% GST, before 2% discount",245.52,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C28,Rs. 289.4/- per box,289.4,"INR per box, delivered, before GST",289.4,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C28,(not on rate card),,,,amber,"Not quoted → show 'Not quoted', never zero"
+E,C28,rest same as last year,,Last year's price,,red,"No last-year record for this box → Missing, ask supplier"
+A,C29,₹37217 per 100 pcs,37217,"INR per 100 boxes, delivered, before GST",372.17,green,Per 100 pcs → ÷ 100; own product code
+B,C29,USD 4.945 incl. GST,4.945,"USD per box, delivered, incl. 18% GST, before 2% discount",345.8,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C29,Rs. 350.49/- per box,350.49,"INR per box, delivered, before GST",350.49,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C29,(not on rate card),,,,amber,"Not quoted → show 'Not quoted', never zero"
+E,C29,rest same as last year,,Last year's price,,red,"No last-year record for this box → Missing, ask supplier"
+A,C30,₹43615 per 100 pcs,43615,"INR per 100 boxes, delivered, before GST",436.15,green,Per 100 pcs → ÷ 100; own product code
+B,C30,USD 5.777 incl. GST,5.777,"USD per box, delivered, incl. 18% GST, before 2% discount",403.98,green,USD → INR at 84.20; remove GST; apply 2% footnote discount
+C,C30,Rs. 476.7/- per box,476.7,"INR per box, delivered, before GST",476.7,green,Price inside a paragraph; 5% off only if all 30 items awarded
+D,C30,(not on rate card),,,,amber,"Not quoted → show 'Not quoted', never zero"
+E,C30,rest same as last year,,Last year's price,,red,"No last-year record for this box → Missing, ask supplier"

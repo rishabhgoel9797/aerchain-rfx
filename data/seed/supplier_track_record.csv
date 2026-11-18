@@ -1,0 +1,9 @@
+﻿supplier_id,year,on_time_pct,share_of_box_spend_pct,deliveries,rejected_deliveries,invoice_mismatches
+A,FY26,94,18,46,1,0
+B,FY26,97,9,22,0,0
+C,FY26,88,14,35,1,1
+D,FY26,71,6,17,2,0
+E,FY26,90,15,38,0,2
+F,FY26,92,38,96,1,0
+G,FY26,63,0,8,2,1
+H,FY26,85,0,4,0,0

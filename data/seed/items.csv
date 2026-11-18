@@ -1,0 +1,31 @@
+﻿item_code,description,ply,length_mm,width_mm,height_mm,board_gsm,weight_kg,yearly_qty,price_unit,used_for,plant
+C01,"3-ply corrugated box, 200×150×100 mm",3,200,150,100,560,0.103,96000,per box,Herbal tea 100 g × 24,Haridwar
+C02,"3-ply corrugated box, 250×200×150 mm",3,250,200,150,560,0.183,86000,per box,Churna 100 g × 36,Haridwar
+C03,"3-ply corrugated box, 300×200×150 mm",3,300,200,150,560,0.203,80000,per box,Ashwagandha capsules 60s × 48,Haridwar
+C04,"3-ply corrugated box, 300×250×200 mm",3,300,250,200,560,0.286,64000,per box,Triphala tablets 120s × 48,Haridwar
+C05,"3-ply corrugated box, 350×250×200 mm",3,350,250,200,560,0.311,59000,per box,Herbal face wash 100 ml × 48,Haridwar
+C06,"3-ply corrugated box, 350×300×250 mm",3,350,300,250,560,0.411,48000,per box,Amla juice 500 ml × 12,Haridwar
+C07,"3-ply corrugated box, 400×300×200 mm",3,400,300,200,560,0.402,48000,per box,Herbal soap 75 g × 144,Haridwar
+C08,"3-ply corrugated box, 400×300×300 mm",3,400,300,300,560,0.482,43000,per box,Hair oil 200 ml × 36,Haridwar
+C09,"3-ply corrugated box, 450×300×250 mm",3,450,300,250,560,0.473,37000,per box,Aloe vera gel 150 g × 48,Haridwar
+C10,"3-ply corrugated box, 450×350×300 mm",3,450,350,300,560,0.595,32000,per box,Chyawanprash 250 g × 36,Haridwar
+C11,"3-ply corrugated box, 500×300×300 mm",3,500,300,300,560,0.549,32000,per box,Herbal toothpaste 150 g × 72,Haridwar
+C12,"3-ply corrugated box, 500×400×300 mm",3,500,400,300,560,0.719,27000,per box,Mixed retail carton (e-commerce),Haridwar
+C13,"5-ply corrugated box, 400×300×300 mm",5,400,300,300,980,0.844,43000,per box,Chyawanprash 500 g × 24,Haridwar
+C14,"5-ply corrugated box, 450×350×350 mm",5,450,350,350,980,1.122,37000,per box,Chyawanprash 1 kg × 12,Haridwar
+C15,"5-ply corrugated box, 500×400×300 mm",5,500,400,300,980,1.259,37000,per box,Amla juice 1 L × 12,Haridwar
+C16,"5-ply corrugated box, 500×400×400 mm",5,500,400,400,980,1.439,32000,per box,Aloe vera juice 1 L × 12,Haridwar
+C17,"5-ply corrugated box, 550×400×400 mm",5,550,400,400,980,1.517,30000,per box,Hair oil 500 ml × 24,Haridwar
+C18,"5-ply corrugated box, 600×400×300 mm",5,600,400,300,980,1.396,30000,per box,Honey 500 g × 24,Haridwar
+C19,"5-ply corrugated box, 600×400×400 mm",5,600,400,400,980,1.595,27000,per box,Ghee-based rasayana 500 g × 24,Haridwar
+C20,"5-ply corrugated box, 600×500×400 mm",5,600,500,400,980,1.971,24000,per box,Distributor master carton (small),Haridwar
+C21,"5-ply corrugated box, 650×450×450 mm",5,650,450,450,980,1.971,19000,per box,Gift pack combo × 12,Haridwar
+C22,"5-ply corrugated box, 700×500×400 mm",5,700,500,400,980,2.148,16000,per box,Distributor master carton (medium),Haridwar
+C23,"5-ply corrugated box, 700×500×500 mm",5,700,500,500,980,2.386,13000,per box,Herbal powders 1 kg × 12,Haridwar
+C24,"5-ply corrugated box, 750×500×500 mm",5,750,500,500,980,2.484,11000,per box,Institutional pack 5 kg × 4,Haridwar
+C25,"5-ply corrugated box, 800×600×500 mm",5,800,600,500,980,3.056,9000,per box,Distributor master carton (large),Haridwar
+C26,"7-ply corrugated box, 800×600×600 mm",7,800,600,600,1380,4.695,6500,per box,Bulk herbs 10 kg,Haridwar
+C27,"7-ply corrugated box, 900×600×600 mm",7,900,600,600,1380,5.026,5300,per box,Bulk churna 15 kg,Haridwar
+C28,"7-ply corrugated box, 1000×600×600 mm",7,1000,600,600,1380,5.357,4300,per box,Export carton (sea freight),Haridwar
+C29,"7-ply corrugated box, 1000×800×600 mm",7,1000,800,600,1380,7.023,3200,per box,Bulk oil drums outer,Haridwar
+C30,"7-ply corrugated box, 1200×800×800 mm",7,1200,800,800,1380,8.909,2100,per box,Machinery spares outer,Haridwar

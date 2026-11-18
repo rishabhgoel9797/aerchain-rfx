@@ -1,0 +1,4 @@
+﻿contract_id,supplier_id,category,covers,valid_from,valid_until,status
+RC-FY26-BOX-01,F,Corrugated boxes,"All 30 box sizes, Haridwar plant",2025-04-01,2027-03-31,"Active, ending soon"
+RC-FY26-TAPE-02,S1,Packaging consumables,BOPP tape 48 mm and 72 mm,2025-02-16,2027-02-15,Active
+SC-FY26-CANT-01,S2,Canteen services,"Haridwar plant canteen, 2 shifts",2024-03-01,2027-02-28,"Active, ending soon"
